@@ -1,0 +1,70 @@
+{
+  "id": 5283,
+  "chapter_id": 68,
+  "verse_key": "68:12",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5283.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5283.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5283.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5283.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5283.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5283.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5283.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5283.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5283.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5283.mp3"
+  },
+  "words": [
+    {
+      "id": 13892,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_012_001.mp3",
+      "text": "مَّنَّاعٍۢ",
+      "translation": "menghalangi",
+      "transliteration": "mannāʿin"
+    },
+    {
+      "id": 13893,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_012_002.mp3",
+      "text": "لِّلْخَيْرِ",
+      "translation": "bagi kebaikan",
+      "transliteration": "lil'khayri"
+    },
+    {
+      "id": 13894,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_012_003.mp3",
+      "text": "مُعْتَدٍ",
+      "translation": "melampaui batas",
+      "transliteration": "muʿ'tadin"
+    },
+    {
+      "id": 13895,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_012_004.mp3",
+      "text": "أَثِيمٍ",
+      "translation": "dosa",
+      "transliteration": "athīmin"
+    },
+    {
+      "id": 13896,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang sangat enggan berbuat baik, yang melampaui batas lagi banyak dosa,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

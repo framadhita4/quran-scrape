@@ -1,0 +1,62 @@
+{
+  "id": 5940,
+  "chapter_id": 86,
+  "verse_key": "86:9",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "يَوْمَ تُبْلَى ٱلسَّرَآئِرُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5940.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5940.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5940.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5940.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5940.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5940.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5940.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5940.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5940.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5940.mp3"
+  },
+  "words": [
+    {
+      "id": 10450,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_009_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 10451,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_009_002.mp3",
+      "text": "تُبْلَى",
+      "translation": "dibuka/dinampakkan",
+      "transliteration": "tub'lā"
+    },
+    {
+      "id": 10452,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_009_003.mp3",
+      "text": "ٱلسَّرَآئِرُ",
+      "translation": "rahasia-rahasia",
+      "transliteration": "l-sarāiru"
+    },
+    {
+      "id": 10453,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pada hari dinampakkan segala rahasia,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

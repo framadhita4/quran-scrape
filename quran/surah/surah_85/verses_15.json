@@ -1,0 +1,62 @@
+{
+  "id": 5924,
+  "chapter_id": 85,
+  "verse_key": "85:15",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5924.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5924.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5924.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5924.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5924.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5924.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5924.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5924.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5924.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5924.mp3"
+  },
+  "words": [
+    {
+      "id": 17596,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_015_001.mp3",
+      "text": "ذُو",
+      "translation": "memiliki/mempunyai",
+      "transliteration": "dhū"
+    },
+    {
+      "id": 17597,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_015_002.mp3",
+      "text": "ٱلْعَرْشِ",
+      "translation": "'Arsy",
+      "transliteration": "l-ʿarshi"
+    },
+    {
+      "id": 17598,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_015_003.mp3",
+      "text": "ٱلْمَجِيدُ",
+      "translation": "maha Terpuji/Mulia",
+      "transliteration": "l-majīdu"
+    },
+    {
+      "id": 17599,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang mempunyai arasy, lagi Maha Mulia,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": 2,
+  "chapter_id": 1,
+  "verse_key": "1:2",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 1,
+  "manzil_number": 1,
+  "page_number": 1,
+  "juz_number": 1,
+  "text_uthmani": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2.mp3"
+  },
+  "words": [
+    {
+      "id": 1130,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_002_001.mp3",
+      "text": "ٱلْحَمْدُ",
+      "translation": "pujian",
+      "transliteration": "al-ḥamdu"
+    },
+    {
+      "id": 1131,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_002_002.mp3",
+      "text": "لِلَّهِ",
+      "translation": "bagi Allah",
+      "transliteration": "lillahi"
+    },
+    {
+      "id": 1132,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_002_003.mp3",
+      "text": "رَبِّ",
+      "translation": "Tuhan",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 1133,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/001_002_004.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "alam semesta",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 1134,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Segala puji<sup foot_note=682<sup foot_note=209772>2</sup>2>1</sup> bagi Allah, Tuhan3 semesta alam.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

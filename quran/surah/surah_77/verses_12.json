@@ -1,0 +1,62 @@
+{
+  "id": 5634,
+  "chapter_id": 77,
+  "verse_key": "77:12",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5634.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5634.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5634.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5634.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5634.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5634.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5634.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5634.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5634.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5634.mp3"
+  },
+  "words": [
+    {
+      "id": 14196,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_012_001.mp3",
+      "text": "لِأَىِّ",
+      "translation": "untuk manakah",
+      "transliteration": "li-ayyi"
+    },
+    {
+      "id": 14197,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_012_002.mp3",
+      "text": "يَوْمٍ",
+      "translation": "hari",
+      "transliteration": "yawmin"
+    },
+    {
+      "id": 14198,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_012_003.mp3",
+      "text": "أُجِّلَتْ",
+      "translation": "ditentukan/ditangguhkan",
+      "transliteration": "ujjilat"
+    },
+    {
+      "id": 14199,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Niscaya dikatakan kepada mereka), \"Sampai hari apakah ditangguhkan (mengazab orang-orang kafir itu)?\"",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

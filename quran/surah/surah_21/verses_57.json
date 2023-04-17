@@ -1,0 +1,94 @@
+{
+  "id": 2540,
+  "chapter_id": 21,
+  "verse_key": "21:57",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "ruku_number": 282,
+  "manzil_number": 4,
+  "page_number": 326,
+  "juz_number": 17,
+  "text_uthmani": "وَتَٱللَّهِ لَأَكِيدَنَّ أَصْنَـٰمَكُم بَعْدَ أَن تُوَلُّوا۟ مُدْبِرِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2540.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2540.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2540.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2540.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2540.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2540.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2540.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2540.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2540.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2540.mp3"
+  },
+  "words": [
+    {
+      "id": 52867,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_057_001.mp3",
+      "text": "وَتَٱللَّهِ",
+      "translation": "dan demi Allah",
+      "transliteration": "watal-lahi"
+    },
+    {
+      "id": 52868,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_057_002.mp3",
+      "text": "لَأَكِيدَنَّ",
+      "translation": "sungguh aku akan membuat tipu daya",
+      "transliteration": "la-akīdanna"
+    },
+    {
+      "id": 52869,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_057_003.mp3",
+      "text": "أَصْنَـٰمَكُم",
+      "translation": "berhala-berhalamu",
+      "transliteration": "aṣnāmakum"
+    },
+    {
+      "id": 52870,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_057_004.mp3",
+      "text": "بَعْدَ",
+      "translation": "sesudah",
+      "transliteration": "baʿda"
+    },
+    {
+      "id": 52871,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_057_005.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 52872,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_057_006.mp3",
+      "text": "تُوَلُّوا۟",
+      "translation": "kamu berpaling",
+      "transliteration": "tuwallū"
+    },
+    {
+      "id": 52873,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_057_007.mp3",
+      "text": "مُدْبِرِينَ",
+      "translation": "kebelakang",
+      "transliteration": "mud'birīna"
+    },
+    {
+      "id": 52874,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Demi Allah, sesungguhnya aku akan melakukan tipu daya terhadap berhala-berhalamu sesudah kamu pergi meninggalkannya.<sup foot_note=210731>1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

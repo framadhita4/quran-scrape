@@ -1,0 +1,86 @@
+{
+  "id": 3024,
+  "chapter_id": 26,
+  "verse_key": "26:92",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "وَقِيلَ لَهُمْ أَيْنَ مَا كُنتُمْ تَعْبُدُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3024.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3024.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3024.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3024.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3024.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3024.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3024.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3024.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3024.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3024.mp3"
+  },
+  "words": [
+    {
+      "id": 68606,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_092_001.mp3",
+      "text": "وَقِيلَ",
+      "translation": "dan dikatakan",
+      "transliteration": "waqīla"
+    },
+    {
+      "id": 68607,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_092_002.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 68608,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_092_003.mp3",
+      "text": "أَيْنَ",
+      "translation": "dimanakah",
+      "transliteration": "ayna"
+    },
+    {
+      "id": 68609,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_092_004.mp3",
+      "text": "مَا",
+      "translation": "apakah",
+      "transliteration": "mā"
+    },
+    {
+      "id": 68610,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_092_005.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 68611,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_092_006.mp3",
+      "text": "تَعْبُدُونَ",
+      "translation": "kamu sembah",
+      "transliteration": "taʿbudūna"
+    },
+    {
+      "id": 68612,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٩٢",
+      "translation": "(92)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dikatakan kepada mereka, \"Di manakah berhala-berhala yang dahulu kamu selalu menyembah(nya)",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

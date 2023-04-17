@@ -1,0 +1,118 @@
+{
+  "id": 4178,
+  "chapter_id": 40,
+  "verse_key": "40:45",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "ruku_number": 410,
+  "manzil_number": 6,
+  "page_number": 472,
+  "juz_number": 24,
+  "text_uthmani": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُوا۟ ۖ وَحَاقَ بِـَٔالِ فِرْعَوْنَ سُوٓءُ ٱلْعَذَابِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4178.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4178.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4178.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4178.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4178.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4178.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4178.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4178.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4178.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4178.mp3"
+  },
+  "words": [
+    {
+      "id": 45568,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_045_001.mp3",
+      "text": "فَوَقَىٰهُ",
+      "translation": "maka melindungi/memeliharanya",
+      "transliteration": "fawaqāhu"
+    },
+    {
+      "id": 45569,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_045_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 45570,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_045_003.mp3",
+      "text": "سَيِّـَٔاتِ",
+      "translation": "kejahatan",
+      "transliteration": "sayyiāti"
+    },
+    {
+      "id": 45571,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_045_004.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 45572,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_045_005.mp3",
+      "text": "مَكَرُوا۟ ۖ",
+      "translation": "mereka tipu dayakan",
+      "transliteration": "makarū"
+    },
+    {
+      "id": 45574,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_045_007.mp3",
+      "text": "وَحَاقَ",
+      "translation": "dan meliputi/mengepung",
+      "transliteration": "waḥāqa"
+    },
+    {
+      "id": 45575,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_045_008.mp3",
+      "text": "بِـَٔالِ",
+      "translation": "dengan keluarga/kaum",
+      "transliteration": "biāli"
+    },
+    {
+      "id": 45576,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_045_009.mp3",
+      "text": "فِرْعَوْنَ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawna"
+    },
+    {
+      "id": 45577,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_045_010.mp3",
+      "text": "سُوٓءُ",
+      "translation": "seburuk-buruk",
+      "transliteration": "sūu"
+    },
+    {
+      "id": 45578,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_045_011.mp3",
+      "text": "ٱلْعَذَابِ",
+      "translation": "azab",
+      "transliteration": "l-ʿadhābi"
+    },
+    {
+      "id": 45579,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Allah memeliharanya dari kejahatan tipu daya mereka dan Firʻawn  beserta kaumnya dikepung oleh azab yang amat buruk.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

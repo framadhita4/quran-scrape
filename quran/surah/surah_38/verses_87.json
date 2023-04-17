@@ -1,0 +1,78 @@
+{
+  "id": 4057,
+  "chapter_id": 38,
+  "verse_key": "38:87",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 458,
+  "juz_number": 23,
+  "text_uthmani": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4057.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4057.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4057.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4057.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4057.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4057.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4057.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4057.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4057.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4057.mp3"
+  },
+  "words": [
+    {
+      "id": 66979,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_087_001.mp3",
+      "text": "إِنْ",
+      "translation": "tidak lain",
+      "transliteration": "in"
+    },
+    {
+      "id": 66980,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_087_002.mp3",
+      "text": "هُوَ",
+      "translation": "dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 66981,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_087_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 66982,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_087_004.mp3",
+      "text": "ذِكْرٌۭ",
+      "translation": "peringatan/pengajaran",
+      "transliteration": "dhik'run"
+    },
+    {
+      "id": 66983,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_087_005.mp3",
+      "text": "لِّلْعَـٰلَمِينَ",
+      "translation": "bagi semesta alam",
+      "transliteration": "lil'ʿālamīna"
+    },
+    {
+      "id": 66984,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٨٧",
+      "translation": "(87)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Al-Qur`ān ini tidak lain hanyalah peringatan bagi semesta alam.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

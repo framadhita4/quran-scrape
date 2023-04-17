@@ -1,0 +1,62 @@
+{
+  "id": 3846,
+  "chapter_id": 37,
+  "verse_key": "37:58",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 448,
+  "juz_number": 23,
+  "text_uthmani": "أَفَمَا نَحْنُ بِمَيِّتِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3846.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3846.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3846.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3846.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3846.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3846.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3846.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3846.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3846.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3846.mp3"
+  },
+  "words": [
+    {
+      "id": 53591,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_058_001.mp3",
+      "text": "أَفَمَا",
+      "translation": "apakah maka tidak",
+      "transliteration": "afamā"
+    },
+    {
+      "id": 53592,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_058_002.mp3",
+      "text": "نَحْنُ",
+      "translation": "kami/kita",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 53593,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_058_003.mp3",
+      "text": "بِمَيِّتِينَ",
+      "translation": "dengan mati",
+      "transliteration": "bimayyitīna"
+    },
+    {
+      "id": 53594,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٨",
+      "translation": "(58)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah kita tidak akan mati?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

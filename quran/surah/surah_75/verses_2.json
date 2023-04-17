@@ -1,0 +1,70 @@
+{
+  "id": 5553,
+  "chapter_id": 75,
+  "verse_key": "75:2",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "وَلَآ أُقْسِمُ بِٱلنَّفْسِ ٱللَّوَّامَةِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5553.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5553.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5553.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5553.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5553.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5553.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5553.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5553.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5553.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5553.mp3"
+  },
+  "words": [
+    {
+      "id": 1616,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_002_001.mp3",
+      "text": "وَلَآ",
+      "translation": "dan benar-benar",
+      "transliteration": "walā"
+    },
+    {
+      "id": 1617,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_002_002.mp3",
+      "text": "أُقْسِمُ",
+      "translation": "aku bersumpah",
+      "transliteration": "uq'simu"
+    },
+    {
+      "id": 1618,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_002_003.mp3",
+      "text": "بِٱلنَّفْسِ",
+      "translation": "dengan jiwa",
+      "transliteration": "bil-nafsi"
+    },
+    {
+      "id": 1619,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_002_004.mp3",
+      "text": "ٱللَّوَّامَةِ",
+      "translation": "mencela/menyesali",
+      "transliteration": "l-lawāmati"
+    },
+    {
+      "id": 1620,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan aku bersumpah dengan jiwa yang amat menyesali (dirinya sendiri)<sup foot_note=211300>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

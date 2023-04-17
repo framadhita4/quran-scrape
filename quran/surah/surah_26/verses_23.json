@@ -1,0 +1,78 @@
+{
+  "id": 2955,
+  "chapter_id": 26,
+  "verse_key": "26:23",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ فِرْعَوْنُ وَمَا رَبُّ ٱلْعَـٰلَمِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2955.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2955.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2955.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2955.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2955.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2955.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2955.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2955.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2955.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2955.mp3"
+  },
+  "words": [
+    {
+      "id": 26096,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_023_001.mp3",
+      "text": "قَالَ",
+      "translation": "berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 26097,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_023_002.mp3",
+      "text": "فِرْعَوْنُ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawnu"
+    },
+    {
+      "id": 26098,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_023_003.mp3",
+      "text": "وَمَا",
+      "translation": "apa/siapa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 26099,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_023_004.mp3",
+      "text": "رَبُّ",
+      "translation": "Tuhan",
+      "transliteration": "rabbu"
+    },
+    {
+      "id": 26100,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_023_005.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam itu",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 26101,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Firʻawn  bertanya, \"Siapa Tuhan semesta alam itu?\"",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

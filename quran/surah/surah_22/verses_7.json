@@ -1,0 +1,134 @@
+{
+  "id": 2602,
+  "chapter_id": 22,
+  "verse_key": "22:7",
+  "hizb_number": 34,
+  "rub_el_hizb_number": 133,
+  "ruku_number": 285,
+  "manzil_number": 4,
+  "page_number": 333,
+  "juz_number": 17,
+  "text_uthmani": "وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٌ لَّا رَيْبَ فِيهَا وَأَنَّ ٱللَّهَ يَبْعَثُ مَن فِى ٱلْقُبُورِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2602.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2602.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2602.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2602.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2602.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2602.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2602.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2602.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2602.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2602.mp3"
+  },
+  "words": [
+    {
+      "id": 7863,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_007_001.mp3",
+      "text": "وَأَنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-anna"
+    },
+    {
+      "id": 7864,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_007_002.mp3",
+      "text": "ٱلسَّاعَةَ",
+      "translation": "kiamat",
+      "transliteration": "l-sāʿata"
+    },
+    {
+      "id": 7865,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_007_003.mp3",
+      "text": "ءَاتِيَةٌۭ",
+      "translation": "datang",
+      "transliteration": "ātiyatun"
+    },
+    {
+      "id": 7866,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_007_004.mp3",
+      "text": "لَّا",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 7867,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_007_005.mp3",
+      "text": "رَيْبَ",
+      "translation": "keraguan",
+      "transliteration": "rayba"
+    },
+    {
+      "id": 7868,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_007_006.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya/padanya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 7869,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_007_007.mp3",
+      "text": "وَأَنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-anna"
+    },
+    {
+      "id": 7870,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_007_008.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 7871,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_007_009.mp3",
+      "text": "يَبْعَثُ",
+      "translation": "Dia membangkitkan",
+      "transliteration": "yabʿathu"
+    },
+    {
+      "id": 7872,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_007_010.mp3",
+      "text": "مَن",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 7873,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_007_011.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 7874,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_007_012.mp3",
+      "text": "ٱلْقُبُورِ",
+      "translation": "kubur",
+      "transliteration": "l-qubūri"
+    },
+    {
+      "id": 7875,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya hari kiamat itu pastilah datang, tak ada keraguan padanya, dan bahwasanya Allah membangkitkan semua orang di dalam kubur.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

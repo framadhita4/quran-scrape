@@ -1,0 +1,54 @@
+{
+  "id": 5704,
+  "chapter_id": 78,
+  "verse_key": "78:32",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 521,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "حَدَآئِقَ وَأَعْنَـٰبًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5704.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5704.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5704.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5704.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5704.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5704.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5704.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5704.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5704.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5704.mp3"
+  },
+  "words": [
+    {
+      "id": 34755,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_032_001.mp3",
+      "text": "حَدَآئِقَ",
+      "translation": "kebun-kebun",
+      "transliteration": "ḥadāiqa"
+    },
+    {
+      "id": 34756,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_032_002.mp3",
+      "text": "وَأَعْنَـٰبًۭا",
+      "translation": "dan buah anggur",
+      "transliteration": "wa-aʿnāban"
+    },
+    {
+      "id": 34757,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) kebun-kebun dan buah anggur,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

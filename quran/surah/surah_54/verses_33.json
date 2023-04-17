@@ -1,0 +1,70 @@
+{
+  "id": 4879,
+  "chapter_id": 54,
+  "verse_key": "54:33",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 466,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "كَذَّبَتْ قَوْمُ لُوطٍۭ بِٱلنُّذُرِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4879.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4879.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4879.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4879.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4879.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4879.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4879.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4879.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4879.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4879.mp3"
+  },
+  "words": [
+    {
+      "id": 35421,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_033_001.mp3",
+      "text": "كَذَّبَتْ",
+      "translation": "telah mendustakan",
+      "transliteration": "kadhabat"
+    },
+    {
+      "id": 35422,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_033_002.mp3",
+      "text": "قَوْمُ",
+      "translation": "kaum",
+      "transliteration": "qawmu"
+    },
+    {
+      "id": 35423,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_033_003.mp3",
+      "text": "لُوطٍۭ",
+      "translation": "Lut",
+      "transliteration": "lūṭin"
+    },
+    {
+      "id": 35424,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_033_004.mp3",
+      "text": "بِٱلنُّذُرِ",
+      "translation": "dengan peringatan/ancaman",
+      "transliteration": "bil-nudhuri"
+    },
+    {
+      "id": 35425,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kaum Lūṭ pun telah mendustakan ancaman-ancaman (nabinya).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

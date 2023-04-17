@@ -1,0 +1,70 @@
+{
+  "id": 3080,
+  "chapter_id": 26,
+  "verse_key": "26:148",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 323,
+  "manzil_number": 5,
+  "page_number": 373,
+  "juz_number": 19,
+  "text_uthmani": "وَزُرُوعٍ وَنَخْلٍ طَلْعُهَا هَضِيمٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3080.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3080.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3080.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3080.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3080.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3080.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3080.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3080.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3080.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3080.mp3"
+  },
+  "words": [
+    {
+      "id": 80242,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_148_001.mp3",
+      "text": "وَزُرُوعٍۢ",
+      "translation": "dan tanam-tanaman",
+      "transliteration": "wazurūʿin"
+    },
+    {
+      "id": 80243,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_148_002.mp3",
+      "text": "وَنَخْلٍۢ",
+      "translation": "dan pohon-pohon korma",
+      "transliteration": "wanakhlin"
+    },
+    {
+      "id": 80244,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_148_003.mp3",
+      "text": "طَلْعُهَا",
+      "translation": "mayangnya",
+      "transliteration": "ṭalʿuhā"
+    },
+    {
+      "id": 80245,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_148_004.mp3",
+      "text": "هَضِيمٌۭ",
+      "translation": "lembut",
+      "transliteration": "haḍīmun"
+    },
+    {
+      "id": 80246,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٤٨",
+      "translation": "(148)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan tanam-tanaman dan pohon-pohon kurma yang mayangnya lembut.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

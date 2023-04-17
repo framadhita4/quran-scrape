@@ -1,0 +1,78 @@
+{
+  "id": 4404,
+  "chapter_id": 43,
+  "verse_key": "43:79",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 495,
+  "juz_number": 25,
+  "text_uthmani": "أَمْ أَبْرَمُوٓا۟ أَمْرًا فَإِنَّا مُبْرِمُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4404.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4404.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4404.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4404.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4404.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4404.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4404.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4404.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4404.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4404.mp3"
+  },
+  "words": [
+    {
+      "id": 63707,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_079_001.mp3",
+      "text": "أَمْ",
+      "translation": "bahkan",
+      "transliteration": "am"
+    },
+    {
+      "id": 63708,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_079_002.mp3",
+      "text": "أَبْرَمُوٓا۟",
+      "translation": "mereka menetapkan",
+      "transliteration": "abramū"
+    },
+    {
+      "id": 63709,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_079_003.mp3",
+      "text": "أَمْرًۭا",
+      "translation": "suatu perkara",
+      "transliteration": "amran"
+    },
+    {
+      "id": 63710,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_079_004.mp3",
+      "text": "فَإِنَّا",
+      "translation": "maka sesungguhnya Kami",
+      "transliteration": "fa-innā"
+    },
+    {
+      "id": 63711,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_079_005.mp3",
+      "text": "مُبْرِمُونَ",
+      "translation": "menetapkan",
+      "transliteration": "mub'rimūna"
+    },
+    {
+      "id": 63712,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧٩",
+      "translation": "(79)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bahkan mereka telah menetapkan satu tipu daya (jahat), maka sesungguhnya Kami akan membalas tipu daya mereka <sup foot_note=211136>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

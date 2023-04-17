@@ -1,0 +1,94 @@
+{
+  "id": 1904,
+  "chapter_id": 16,
+  "verse_key": "16:3",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "ruku_number": 224,
+  "manzil_number": 3,
+  "page_number": 267,
+  "juz_number": 14,
+  "text_uthmani": "خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ بِٱلْحَقِّ ۚ تَعَـٰلَىٰ عَمَّا يُشْرِكُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1904.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1904.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1904.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1904.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1904.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1904.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1904.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1904.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1904.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1904.mp3"
+  },
+  "words": [
+    {
+      "id": 3192,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_003_001.mp3",
+      "text": "خَلَقَ",
+      "translation": "Dia menciptakan",
+      "transliteration": "khalaqa"
+    },
+    {
+      "id": 3193,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_003_002.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 3194,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_003_003.mp3",
+      "text": "وَٱلْأَرْضَ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍa"
+    },
+    {
+      "id": 3195,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_003_004.mp3",
+      "text": "بِٱلْحَقِّ ۚ",
+      "translation": "dengan kebenaran",
+      "transliteration": "bil-ḥaqi"
+    },
+    {
+      "id": 3197,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_003_006.mp3",
+      "text": "تَعَـٰلَىٰ",
+      "translation": "Maha Tinggi",
+      "transliteration": "taʿālā"
+    },
+    {
+      "id": 3198,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_003_007.mp3",
+      "text": "عَمَّا",
+      "translation": "dari apa",
+      "transliteration": "ʿammā"
+    },
+    {
+      "id": 3199,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_003_008.mp3",
+      "text": "يُشْرِكُونَ",
+      "translation": "mereka persekutukan",
+      "transliteration": "yush'rikūna"
+    },
+    {
+      "id": 3200,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia menciptakan langit dan bumi dengan hak <sup foot_note=210588>1</sup>.  Maha Tinggi Allah daripada apa yang mereka persekutukan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

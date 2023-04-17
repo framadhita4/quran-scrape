@@ -1,0 +1,78 @@
+{
+  "id": 5533,
+  "chapter_id": 74,
+  "verse_key": "74:38",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5533.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5533.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5533.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5533.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5533.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5533.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5533.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5533.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5533.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5533.mp3"
+  },
+  "words": [
+    {
+      "id": 39738,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_038_001.mp3",
+      "text": "كُلُّ",
+      "translation": "tiap-tiap",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 39739,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_038_002.mp3",
+      "text": "نَفْسٍۭ",
+      "translation": "jiwa/diri",
+      "transliteration": "nafsin"
+    },
+    {
+      "id": 39740,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_038_003.mp3",
+      "text": "بِمَا",
+      "translation": "terhadap apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 39741,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_038_004.mp3",
+      "text": "كَسَبَتْ",
+      "translation": "ia usahakan/ia perbuat",
+      "transliteration": "kasabat"
+    },
+    {
+      "id": 39742,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_038_005.mp3",
+      "text": "رَهِينَةٌ",
+      "translation": "tergadai/terikat",
+      "transliteration": "rahīnatun"
+    },
+    {
+      "id": 39743,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tiap-tiap diri bertanggung jawab atas apa yang telah diperbuatnya,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 4469,
+  "chapter_id": 44,
+  "verse_key": "44:55",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 435,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "يَدْعُونَ فِيهَا بِكُلِّ فَـٰكِهَةٍ ءَامِنِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4469.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4469.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4469.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4469.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4469.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4469.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4469.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4469.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4469.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4469.mp3"
+  },
+  "words": [
+    {
+      "id": 51628,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_055_001.mp3",
+      "text": "يَدْعُونَ",
+      "translation": "mereka meminta",
+      "transliteration": "yadʿūna"
+    },
+    {
+      "id": 51629,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_055_002.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 51630,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_055_003.mp3",
+      "text": "بِكُلِّ",
+      "translation": "dengan segala macam",
+      "transliteration": "bikulli"
+    },
+    {
+      "id": 51631,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_055_004.mp3",
+      "text": "فَـٰكِهَةٍ",
+      "translation": "buah-buahan",
+      "transliteration": "fākihatin"
+    },
+    {
+      "id": 51632,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_055_005.mp3",
+      "text": "ءَامِنِينَ",
+      "translation": "dengan aman",
+      "transliteration": "āminīna"
+    },
+    {
+      "id": 51633,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di dalamnya mereka meminta segala macam buah-buahan dengan aman (dari segala kekhawatiran) <sup foot_note=211150>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

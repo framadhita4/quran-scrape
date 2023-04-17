@@ -1,0 +1,70 @@
+{
+  "id": 4695,
+  "chapter_id": 51,
+  "verse_key": "51:20",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "وَفِى ٱلْأَرْضِ ءَايَـٰتٌ لِّلْمُوقِنِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4695.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4695.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4695.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4695.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4695.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4695.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4695.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4695.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4695.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4695.mp3"
+  },
+  "words": [
+    {
+      "id": 22534,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_020_001.mp3",
+      "text": "وَفِى",
+      "translation": "dan di",
+      "transliteration": "wafī"
+    },
+    {
+      "id": 22535,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_020_002.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi itu",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 22536,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_020_003.mp3",
+      "text": "ءَايَـٰتٌۭ",
+      "translation": "tanda-tanda",
+      "transliteration": "āyātun"
+    },
+    {
+      "id": 22537,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_020_004.mp3",
+      "text": "لِّلْمُوقِنِينَ",
+      "translation": "bagi orang-orang yang yakin",
+      "transliteration": "lil'mūqinīna"
+    },
+    {
+      "id": 22538,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan di bumi itu terdapat tanda-tanda (kekuasaan Allah) bagi orang-orang yang yakin,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

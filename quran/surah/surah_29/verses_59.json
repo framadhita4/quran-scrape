@@ -1,0 +1,78 @@
+{
+  "id": 3399,
+  "chapter_id": 29,
+  "verse_key": "29:59",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 161,
+  "ruku_number": 348,
+  "manzil_number": 5,
+  "page_number": 403,
+  "juz_number": 21,
+  "text_uthmani": "ٱلَّذِينَ صَبَرُوا۟ وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3399.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3399.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3399.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3399.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3399.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3399.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3399.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3399.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3399.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3399.mp3"
+  },
+  "words": [
+    {
+      "id": 53969,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_059_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 53970,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_059_002.mp3",
+      "text": "صَبَرُوا۟",
+      "translation": "(mereka) bersabar",
+      "transliteration": "ṣabarū"
+    },
+    {
+      "id": 53971,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_059_003.mp3",
+      "text": "وَعَلَىٰ",
+      "translation": "dan atas/kepada",
+      "transliteration": "waʿalā"
+    },
+    {
+      "id": 53972,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_059_004.mp3",
+      "text": "رَبِّهِمْ",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 53973,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/029_059_005.mp3",
+      "text": "يَتَوَكَّلُونَ",
+      "translation": "mereka bertawakkal",
+      "transliteration": "yatawakkalūna"
+    },
+    {
+      "id": 53974,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٥٩",
+      "translation": "(59)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) yang bersabar dan bertawakal kepada Tuhan-nya.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

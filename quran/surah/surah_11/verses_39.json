@@ -1,0 +1,118 @@
+{
+  "id": 1512,
+  "chapter_id": 11,
+  "verse_key": "11:39",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "ruku_number": 186,
+  "manzil_number": 3,
+  "page_number": 226,
+  "juz_number": 12,
+  "text_uthmani": "فَسَوْفَ تَعْلَمُونَ مَن يَأْتِيهِ عَذَابٌ يُخْزِيهِ وَيَحِلُّ عَلَيْهِ عَذَابٌ مُّقِيمٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1512.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1512.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1512.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1512.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1512.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1512.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1512.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1512.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1512.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1512.mp3"
+  },
+  "words": [
+    {
+      "id": 40419,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_039_001.mp3",
+      "text": "فَسَوْفَ",
+      "translation": "maka kelak",
+      "transliteration": "fasawfa"
+    },
+    {
+      "id": 40420,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_039_002.mp3",
+      "text": "تَعْلَمُونَ",
+      "translation": "(kalian) mengetahui",
+      "transliteration": "taʿlamūna"
+    },
+    {
+      "id": 40421,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_039_003.mp3",
+      "text": "مَن",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 40422,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_039_004.mp3",
+      "text": "يَأْتِيهِ",
+      "translation": "mendatanginya/menimpanya",
+      "transliteration": "yatīhi"
+    },
+    {
+      "id": 40423,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_039_005.mp3",
+      "text": "عَذَابٌۭ",
+      "translation": "azab",
+      "transliteration": "ʿadhābun"
+    },
+    {
+      "id": 40424,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_039_006.mp3",
+      "text": "يُخْزِيهِ",
+      "translation": "menghinakannya",
+      "transliteration": "yukh'zīhi"
+    },
+    {
+      "id": 40425,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_039_007.mp3",
+      "text": "وَيَحِلُّ",
+      "translation": "dan halal/menimpa",
+      "transliteration": "wayaḥillu"
+    },
+    {
+      "id": 40426,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_039_008.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 40427,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_039_009.mp3",
+      "text": "عَذَابٌۭ",
+      "translation": "azab",
+      "transliteration": "ʿadhābun"
+    },
+    {
+      "id": 40428,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_039_010.mp3",
+      "text": "مُّقِيمٌ",
+      "translation": "kekal",
+      "transliteration": "muqīmun"
+    },
+    {
+      "id": 40429,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kelak kamu akan mengetahui siapa yang akan ditimpa oleh azab yang menghinakannya dan yang akan ditimpa azab yang kekal\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

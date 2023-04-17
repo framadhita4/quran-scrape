@@ -1,0 +1,62 @@
+{
+  "id": 3127,
+  "chapter_id": 26,
+  "verse_key": "26:195",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "بِلِسَانٍ عَرَبِىٍّ مُّبِينٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3127.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3127.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3127.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3127.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3127.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3127.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3127.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3127.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3127.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3127.mp3"
+  },
+  "words": [
+    {
+      "id": 84961,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_195_001.mp3",
+      "text": "بِلِسَانٍ",
+      "translation": "dengan lisan/bahasa",
+      "transliteration": "bilisānin"
+    },
+    {
+      "id": 84962,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_195_002.mp3",
+      "text": "عَرَبِىٍّۢ",
+      "translation": "Arab",
+      "transliteration": "ʿarabiyyin"
+    },
+    {
+      "id": 84963,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_195_003.mp3",
+      "text": "مُّبِينٍۢ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 84964,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٩٥",
+      "translation": "(195)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dengan bahasa Arab yang jelas.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

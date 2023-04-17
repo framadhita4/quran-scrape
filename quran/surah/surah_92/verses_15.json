@@ -1,0 +1,70 @@
+{
+  "id": 6073,
+  "chapter_id": 92,
+  "verse_key": "92:15",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6073.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6073.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6073.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6073.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6073.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6073.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6073.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6073.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6073.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6073.mp3"
+  },
+  "words": [
+    {
+      "id": 17229,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_015_001.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 17230,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_015_002.mp3",
+      "text": "يَصْلَىٰهَآ",
+      "translation": "masuk kedalamnya",
+      "transliteration": "yaṣlāhā"
+    },
+    {
+      "id": 17231,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_015_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 17232,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_015_004.mp3",
+      "text": "ٱلْأَشْقَى",
+      "translation": "paling celaka",
+      "transliteration": "l-ashqā"
+    },
+    {
+      "id": 17233,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidak ada yang masuk ke dalamnya kecuali orang yang paling celaka,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

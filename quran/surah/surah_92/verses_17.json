@@ -1,0 +1,54 @@
+{
+  "id": 6075,
+  "chapter_id": 92,
+  "verse_key": "92:17",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6075.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6075.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6075.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6075.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6075.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6075.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6075.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6075.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6075.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6075.mp3"
+  },
+  "words": [
+    {
+      "id": 19361,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_017_001.mp3",
+      "text": "وَسَيُجَنَّبُهَا",
+      "translation": "dan akan dijauhkan-dia",
+      "transliteration": "wasayujannabuhā"
+    },
+    {
+      "id": 19362,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/092_017_002.mp3",
+      "text": "ٱلْأَتْقَى",
+      "translation": "berbakti",
+      "transliteration": "l-atqā"
+    },
+    {
+      "id": 19363,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kelak akan dijauhkan orang yang paling takwa dari neraka itu,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": 1132,
+  "chapter_id": 7,
+  "verse_key": "7:178",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 69,
+  "ruku_number": 143,
+  "manzil_number": 2,
+  "page_number": 173,
+  "juz_number": 9,
+  "text_uthmani": "مَن يَهْدِ ٱللَّهُ فَهُوَ ٱلْمُهْتَدِى ۖ وَمَن يُضْلِلْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1132.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1132.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1132.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1132.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1132.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1132.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1132.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1132.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1132.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1132.mp3"
+  },
+  "words": [
+    {
+      "id": 83652,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_178_001.mp3",
+      "text": "مَن",
+      "translation": "barang siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 83653,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_178_002.mp3",
+      "text": "يَهْدِ",
+      "translation": "memberi petunjuk",
+      "transliteration": "yahdi"
+    },
+    {
+      "id": 83654,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_178_003.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 83655,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_178_004.mp3",
+      "text": "فَهُوَ",
+      "translation": "maka dia",
+      "transliteration": "fahuwa"
+    },
+    {
+      "id": 83656,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_178_005.mp3",
+      "text": "ٱلْمُهْتَدِى ۖ",
+      "translation": "orang yang mendapat petunjuk",
+      "transliteration": "l-muh'tadī"
+    },
+    {
+      "id": 83658,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_178_007.mp3",
+      "text": "وَمَن",
+      "translation": "dan barang siapa",
+      "transliteration": "waman"
+    },
+    {
+      "id": 83659,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_178_008.mp3",
+      "text": "يُضْلِلْ",
+      "translation": "Dia menyesatkan",
+      "transliteration": "yuḍ'lil"
+    },
+    {
+      "id": 83660,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_178_009.mp3",
+      "text": "فَأُو۟لَـٰٓئِكَ",
+      "translation": "maka mereka itulah",
+      "transliteration": "fa-ulāika"
+    },
+    {
+      "id": 83661,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_178_010.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 83662,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_178_011.mp3",
+      "text": "ٱلْخَـٰسِرُونَ",
+      "translation": "orang-orang yang merugi",
+      "transliteration": "l-khāsirūna"
+    },
+    {
+      "id": 83663,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٧٨",
+      "translation": "(178)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Barang siapa yang diberi petunjuk oleh Allah, maka dialah yang mendapat petunjuk; dan barang siapa yang disesatkan Allah<sup foot_note=210353>1</sup>, maka merekalah orang-orang yang merugi.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

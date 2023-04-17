@@ -1,0 +1,126 @@
+{
+  "id": 4556,
+  "chapter_id": 47,
+  "verse_key": "47:11",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "ruku_number": 444,
+  "manzil_number": 6,
+  "page_number": 507,
+  "juz_number": 26,
+  "text_uthmani": "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوْلَى ٱلَّذِينَ ءَامَنُوا۟ وَأَنَّ ٱلْكَـٰفِرِينَ لَا مَوْلَىٰ لَهُمْ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4556.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4556.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4556.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4556.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4556.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4556.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4556.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4556.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4556.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4556.mp3"
+  },
+  "words": [
+    {
+      "id": 12306,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_011_001.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 12307,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_011_002.mp3",
+      "text": "بِأَنَّ",
+      "translation": "karena sesungguhnya",
+      "transliteration": "bi-anna"
+    },
+    {
+      "id": 12308,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_011_003.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 12309,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_011_004.mp3",
+      "text": "مَوْلَى",
+      "translation": "pelindung",
+      "transliteration": "mawlā"
+    },
+    {
+      "id": 12310,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_011_005.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 12311,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_011_006.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 12312,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_011_007.mp3",
+      "text": "وَأَنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-anna"
+    },
+    {
+      "id": 12313,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_011_008.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang yang kafir",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 12314,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_011_009.mp3",
+      "text": "لَا",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 12315,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_011_010.mp3",
+      "text": "مَوْلَىٰ",
+      "translation": "pelindung",
+      "transliteration": "mawlā"
+    },
+    {
+      "id": 12316,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_011_011.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 12317,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yang demikian itu karena sesungguhnya Allah adalah pelindung orang-orang yang beriman dan karena sesungguhnya orang-orang kafir itu tiada mempunyai pelindung.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 5002,
+  "chapter_id": 56,
+  "verse_key": "56:23",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "كَأَمْثَـٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5002.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5002.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5002.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5002.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5002.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5002.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5002.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5002.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5002.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5002.mp3"
+  },
+  "words": [
+    {
+      "id": 25801,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_023_001.mp3",
+      "text": "كَأَمْثَـٰلِ",
+      "translation": "seperti/laksana",
+      "transliteration": "ka-amthāli"
+    },
+    {
+      "id": 25802,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_023_002.mp3",
+      "text": "ٱللُّؤْلُؤِ",
+      "translation": "mutiara",
+      "transliteration": "l-lu'lu-i"
+    },
+    {
+      "id": 25803,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_023_003.mp3",
+      "text": "ٱلْمَكْنُونِ",
+      "translation": "tersimpan baik",
+      "transliteration": "l-maknūni"
+    },
+    {
+      "id": 25804,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "laksana mutiara yang tersimpan baik.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

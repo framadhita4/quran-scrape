@@ -1,0 +1,62 @@
+{
+  "id": 5632,
+  "chapter_id": 77,
+  "verse_key": "77:10",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5632.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5632.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5632.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5632.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5632.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5632.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5632.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5632.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5632.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5632.mp3"
+  },
+  "words": [
+    {
+      "id": 11609,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_010_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 11610,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_010_002.mp3",
+      "text": "ٱلْجِبَالُ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibālu"
+    },
+    {
+      "id": 11611,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_010_003.mp3",
+      "text": "نُسِفَتْ",
+      "translation": "dihancurkan",
+      "transliteration": "nusifat"
+    },
+    {
+      "id": 11612,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila gunung-gunung telah dihancurkan menjadi debu,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

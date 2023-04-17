@@ -1,0 +1,78 @@
+{
+  "id": 4437,
+  "chapter_id": 44,
+  "verse_key": "44:23",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 497,
+  "juz_number": 25,
+  "text_uthmani": "فَأَسْرِ بِعِبَادِى لَيْلًا إِنَّكُم مُّتَّبَعُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4437.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4437.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4437.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4437.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4437.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4437.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4437.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4437.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4437.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4437.mp3"
+  },
+  "words": [
+    {
+      "id": 25639,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_023_001.mp3",
+      "text": "فَأَسْرِ",
+      "translation": "maka berjalanlah kamu",
+      "transliteration": "fa-asri"
+    },
+    {
+      "id": 25640,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_023_002.mp3",
+      "text": "بِعِبَادِى",
+      "translation": "dengan hamba-hamba-Ku",
+      "transliteration": "biʿibādī"
+    },
+    {
+      "id": 25641,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_023_003.mp3",
+      "text": "لَيْلًا",
+      "translation": "pada malam hari",
+      "transliteration": "laylan"
+    },
+    {
+      "id": 25642,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_023_004.mp3",
+      "text": "إِنَّكُم",
+      "translation": "sesungguhnya kalian",
+      "transliteration": "innakum"
+    },
+    {
+      "id": 25643,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_023_005.mp3",
+      "text": "مُّتَّبَعُونَ",
+      "translation": "orang-orang yang diikuti/di kejar",
+      "transliteration": "muttabaʿūna"
+    },
+    {
+      "id": 25644,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Allah berfirman), \"Maka berjalanlah kamu dengan membawa hamba-hamba-Ku pada malam hari, sesungguhnya kamu akan dikejar,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

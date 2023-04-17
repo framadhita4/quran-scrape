@@ -1,0 +1,54 @@
+{
+  "id": 5995,
+  "chapter_id": 89,
+  "verse_key": "89:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "وَلَيَالٍ عَشْرٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5995.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5995.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5995.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5995.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5995.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5995.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5995.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5995.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5995.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5995.mp3"
+  },
+  "words": [
+    {
+      "id": 1778,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_002_001.mp3",
+      "text": "وَلَيَالٍ",
+      "translation": "dan malam-malam",
+      "transliteration": "walayālin"
+    },
+    {
+      "id": 1779,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_002_002.mp3",
+      "text": "عَشْرٍۢ",
+      "translation": "sepuluh",
+      "transliteration": "ʿashrin"
+    },
+    {
+      "id": 1780,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan malam yang sepuluh<sup foot_note=211342>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

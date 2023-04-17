@@ -1,0 +1,78 @@
+{
+  "id": 5511,
+  "chapter_id": 74,
+  "verse_key": "74:16",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "كَلَّآ ۖ إِنَّهُۥ كَانَ لِـَٔايَـٰتِنَا عَنِيدًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5511.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5511.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5511.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5511.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5511.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5511.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5511.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5511.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5511.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5511.mp3"
+  },
+  "words": [
+    {
+      "id": 18548,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_016_001.mp3",
+      "text": "كَلَّآ ۖ",
+      "translation": "sekali-kali tidak",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 18550,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_016_003.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "karena sesungguhnya",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 18551,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_016_004.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 18552,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_016_005.mp3",
+      "text": "لِـَٔايَـٰتِنَا",
+      "translation": "kepada ayat-ayat Kami",
+      "transliteration": "liāyātinā"
+    },
+    {
+      "id": 18553,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_016_006.mp3",
+      "text": "عَنِيدًۭا",
+      "translation": "menentang",
+      "transliteration": "ʿanīdan"
+    },
+    {
+      "id": 18554,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sekali-kali tidak (akan Aku tambah), karena sesungguhnya dia menentang ayat-ayat Kami (Al-Qur`ān).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

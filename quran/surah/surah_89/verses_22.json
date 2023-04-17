@@ -1,0 +1,78 @@
+{
+  "id": 6015,
+  "chapter_id": 89,
+  "verse_key": "89:22",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6015.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6015.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6015.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6015.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6015.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6015.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6015.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6015.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6015.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6015.mp3"
+  },
+  "words": [
+    {
+      "id": 24835,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_022_001.mp3",
+      "text": "وَجَآءَ",
+      "translation": "dan datang",
+      "transliteration": "wajāa"
+    },
+    {
+      "id": 24836,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_022_002.mp3",
+      "text": "رَبُّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbuka"
+    },
+    {
+      "id": 24837,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_022_003.mp3",
+      "text": "وَٱلْمَلَكُ",
+      "translation": "dan malaikat",
+      "transliteration": "wal-malaku"
+    },
+    {
+      "id": 24838,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_022_004.mp3",
+      "text": "صَفًّۭا",
+      "translation": "berbaris",
+      "transliteration": "ṣaffan"
+    },
+    {
+      "id": 24839,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_022_005.mp3",
+      "text": "صَفًّۭا",
+      "translation": "baris",
+      "transliteration": "ṣaffan"
+    },
+    {
+      "id": 24840,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan datanglah Tuhan-mu; sedang malaikat berbaris-baris.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

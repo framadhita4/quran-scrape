@@ -1,0 +1,134 @@
+{
+  "id": 1155,
+  "chapter_id": 7,
+  "verse_key": "7:201",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "ruku_number": 145,
+  "manzil_number": 2,
+  "page_number": 176,
+  "juz_number": 9,
+  "text_uthmani": "إِنَّ ٱلَّذِينَ ٱتَّقَوْا۟ إِذَا مَسَّهُمْ طَـٰٓئِفٌ مِّنَ ٱلشَّيْطَـٰنِ تَذَكَّرُوا۟ فَإِذَا هُم مُّبْصِرُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1155.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1155.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1155.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1155.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1155.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1155.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1155.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1155.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1155.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1155.mp3"
+  },
+  "words": [
+    {
+      "id": 85324,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_201_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 85325,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_201_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 85326,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_201_003.mp3",
+      "text": "ٱتَّقَوْا۟",
+      "translation": "(mereka) bertakwa",
+      "transliteration": "ittaqaw"
+    },
+    {
+      "id": 85327,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_201_004.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 85328,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_201_005.mp3",
+      "text": "مَسَّهُمْ",
+      "translation": "menimpa mereka",
+      "transliteration": "massahum"
+    },
+    {
+      "id": 85329,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_201_006.mp3",
+      "text": "طَـٰٓئِفٌۭ",
+      "translation": "was-was",
+      "transliteration": "ṭāifun"
+    },
+    {
+      "id": 85330,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_201_007.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 85331,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_201_008.mp3",
+      "text": "ٱلشَّيْطَـٰنِ",
+      "translation": "syaitan",
+      "transliteration": "l-shayṭāni"
+    },
+    {
+      "id": 85332,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_201_009.mp3",
+      "text": "تَذَكَّرُوا۟",
+      "translation": "mereka ingat",
+      "transliteration": "tadhakkarū"
+    },
+    {
+      "id": 85333,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_201_010.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka tiba-tiba",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 85334,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_201_011.mp3",
+      "text": "هُم",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 85335,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_201_012.mp3",
+      "text": "مُّبْصِرُونَ",
+      "translation": "orang-orang yang sadar kembali",
+      "transliteration": "mub'ṣirūna"
+    },
+    {
+      "id": 85336,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٠١",
+      "translation": "(201)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang yang bertakwa bila mereka ditimpa was-was dari setan, mereka ingat kepada Allah, maka ketika itu juga mereka melihat kesalahan-kesalahannya.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

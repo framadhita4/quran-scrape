@@ -1,0 +1,102 @@
+{
+  "id": 3655,
+  "chapter_id": 34,
+  "verse_key": "34:49",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "ruku_number": 377,
+  "manzil_number": 5,
+  "page_number": 434,
+  "juz_number": 22,
+  "text_uthmani": "قُلْ جَآءَ ٱلْحَقُّ وَمَا يُبْدِئُ ٱلْبَـٰطِلُ وَمَا يُعِيدُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3655.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3655.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3655.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3655.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3655.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3655.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3655.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3655.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3655.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3655.mp3"
+  },
+  "words": [
+    {
+      "id": 48281,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_049_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 48282,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_049_002.mp3",
+      "text": "جَآءَ",
+      "translation": "telah datang",
+      "transliteration": "jāa"
+    },
+    {
+      "id": 48283,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_049_003.mp3",
+      "text": "ٱلْحَقُّ",
+      "translation": "kebenaran",
+      "transliteration": "l-ḥaqu"
+    },
+    {
+      "id": 48284,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_049_004.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 48285,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_049_005.mp3",
+      "text": "يُبْدِئُ",
+      "translation": "memulai",
+      "transliteration": "yub'di-u"
+    },
+    {
+      "id": 48286,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_049_006.mp3",
+      "text": "ٱلْبَـٰطِلُ",
+      "translation": "kebatilan",
+      "transliteration": "l-bāṭilu"
+    },
+    {
+      "id": 48287,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_049_007.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 48288,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_049_008.mp3",
+      "text": "يُعِيدُ",
+      "translation": "akan kembali",
+      "transliteration": "yuʿīdu"
+    },
+    {
+      "id": 48289,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Kebenaran telah datang dan yang batil itu tidak akan memulai dan tidak (pula) akan mengulangi <sup foot_note=211015>1</sup>\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

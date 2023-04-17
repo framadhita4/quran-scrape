@@ -1,0 +1,70 @@
+{
+  "id": 4551,
+  "chapter_id": 47,
+  "verse_key": "47:6",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "ruku_number": 444,
+  "manzil_number": 6,
+  "page_number": 507,
+  "juz_number": 26,
+  "text_uthmani": "وَيُدْخِلُهُمُ ٱلْجَنَّةَ عَرَّفَهَا لَهُمْ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4551.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4551.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4551.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4551.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4551.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4551.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4551.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4551.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4551.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4551.mp3"
+  },
+  "words": [
+    {
+      "id": 6032,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_006_001.mp3",
+      "text": "وَيُدْخِلُهُمُ",
+      "translation": "dan Dia akan memasukkan mereka",
+      "transliteration": "wayud'khiluhumu"
+    },
+    {
+      "id": 6033,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_006_002.mp3",
+      "text": "ٱلْجَنَّةَ",
+      "translation": "surga",
+      "transliteration": "l-janata"
+    },
+    {
+      "id": 6034,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_006_003.mp3",
+      "text": "عَرَّفَهَا",
+      "translation": "telah Dia perkenalkannya",
+      "transliteration": "ʿarrafahā"
+    },
+    {
+      "id": 6035,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_006_004.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 6036,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan memasukkan mereka ke dalam surga yang telah diperkenalkan-Nya kepada mereka.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

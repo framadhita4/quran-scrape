@@ -1,0 +1,86 @@
+{
+  "id": 4048,
+  "chapter_id": 38,
+  "verse_key": "38:78",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "وَإِنَّ عَلَيْكَ لَعْنَتِىٓ إِلَىٰ يَوْمِ ٱلدِّينِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4048.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4048.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4048.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4048.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4048.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4048.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4048.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4048.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4048.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4048.mp3"
+  },
+  "words": [
+    {
+      "id": 63688,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_078_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 63689,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_078_002.mp3",
+      "text": "عَلَيْكَ",
+      "translation": "atasmu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 63690,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_078_003.mp3",
+      "text": "لَعْنَتِىٓ",
+      "translation": "kutukan-Ku",
+      "transliteration": "laʿnatī"
+    },
+    {
+      "id": 63691,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_078_004.mp3",
+      "text": "إِلَىٰ",
+      "translation": "sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 63692,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_078_005.mp3",
+      "text": "يَوْمِ",
+      "translation": "hari",
+      "transliteration": "yawmi"
+    },
+    {
+      "id": 63693,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_078_006.mp3",
+      "text": "ٱلدِّينِ",
+      "translation": "pembalasan",
+      "transliteration": "l-dīni"
+    },
+    {
+      "id": 63694,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kutukan-Ku tetap atasmu sampai hari pembalasan\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

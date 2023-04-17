@@ -1,0 +1,110 @@
+{
+  "id": 804,
+  "chapter_id": 6,
+  "verse_key": "6:15",
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "ruku_number": 103,
+  "manzil_number": 2,
+  "page_number": 129,
+  "juz_number": 7,
+  "text_uthmani": "قُلْ إِنِّىٓ أَخَافُ إِنْ عَصَيْتُ رَبِّى عَذَابَ يَوْمٍ عَظِيمٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/804.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/804.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/804.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/804.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/804.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/804.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/804.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/804.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/804.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/804.mp3"
+  },
+  "words": [
+    {
+      "id": 17734,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_015_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 17735,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_015_002.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 17736,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_015_003.mp3",
+      "text": "أَخَافُ",
+      "translation": "aku takut",
+      "transliteration": "akhāfu"
+    },
+    {
+      "id": 17737,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_015_004.mp3",
+      "text": "إِنْ",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 17738,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_015_005.mp3",
+      "text": "عَصَيْتُ",
+      "translation": "aku mendurhakai",
+      "transliteration": "ʿaṣaytu"
+    },
+    {
+      "id": 17739,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_015_006.mp3",
+      "text": "رَبِّى",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 17740,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_015_007.mp3",
+      "text": "عَذَابَ",
+      "translation": "azab",
+      "transliteration": "ʿadhāba"
+    },
+    {
+      "id": 17741,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_015_008.mp3",
+      "text": "يَوْمٍ",
+      "translation": "hari",
+      "transliteration": "yawmin"
+    },
+    {
+      "id": 17742,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_015_009.mp3",
+      "text": "عَظِيمٍۢ",
+      "translation": "yang besar",
+      "transliteration": "ʿaẓīmin"
+    },
+    {
+      "id": 17743,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Sesungguhnya aku takut akan azab hari yang besar (hari kiamat), jika aku mendurhakai Tuhan-ku\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "id": 535,
+  "chapter_id": 4,
+  "verse_key": "4:42",
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "ruku_number": 67,
+  "manzil_number": 1,
+  "page_number": 85,
+  "juz_number": 5,
+  "text_uthmani": "يَوْمَئِذٍ يَوَدُّ ٱلَّذِينَ كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ وَلَا يَكْتُمُونَ ٱللَّهَ حَدِيثًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/535.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/535.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/535.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/535.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/535.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/535.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/535.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/535.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/535.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/535.mp3"
+  },
+  "words": [
+    {
+      "id": 42747,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_042_001.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 42748,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_042_002.mp3",
+      "text": "يَوَدُّ",
+      "translation": "ingin",
+      "transliteration": "yawaddu"
+    },
+    {
+      "id": 42749,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_042_003.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 42750,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_042_004.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 42751,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_042_005.mp3",
+      "text": "وَعَصَوُا۟",
+      "translation": "dan orang-orang yang mendurhakai",
+      "transliteration": "waʿaṣawū"
+    },
+    {
+      "id": 42752,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_042_006.mp3",
+      "text": "ٱلرَّسُولَ",
+      "translation": "rasul",
+      "transliteration": "l-rasūla"
+    },
+    {
+      "id": 42753,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_042_007.mp3",
+      "text": "لَوْ",
+      "translation": "sekiranya/supaya",
+      "transliteration": "law"
+    },
+    {
+      "id": 42754,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_042_008.mp3",
+      "text": "تُسَوَّىٰ",
+      "translation": "disama-ratakan",
+      "transliteration": "tusawwā"
+    },
+    {
+      "id": 42755,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_042_009.mp3",
+      "text": "بِهِمُ",
+      "translation": "dengan mereka",
+      "transliteration": "bihimu"
+    },
+    {
+      "id": 42756,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_042_010.mp3",
+      "text": "ٱلْأَرْضُ",
+      "translation": "bumi",
+      "transliteration": "l-arḍu"
+    },
+    {
+      "id": 42757,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_042_011.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 42758,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_042_012.mp3",
+      "text": "يَكْتُمُونَ",
+      "translation": "mereka menyembunyikan",
+      "transliteration": "yaktumūna"
+    },
+    {
+      "id": 42759,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_042_013.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 42760,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_042_014.mp3",
+      "text": "حَدِيثًۭا",
+      "translation": "sesuatu kejadian",
+      "transliteration": "ḥadīthan"
+    },
+    {
+      "id": 42761,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di hari itu, orang-orang kafir dan orang-orang yang mendurhakai rasul ingin supaya mereka disamaratakan dengan tanah<sup foot_note=210070>1</sup>, dan mereka tidak dapat menyembunyikan (dari Allah) sesuatu kejadian pun.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

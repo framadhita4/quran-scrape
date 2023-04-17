@@ -1,0 +1,118 @@
+{
+  "id": 748,
+  "chapter_id": 5,
+  "verse_key": "5:79",
+  "hizb_number": 12,
+  "rub_el_hizb_number": 48,
+  "ruku_number": 96,
+  "manzil_number": 2,
+  "page_number": 121,
+  "juz_number": 6,
+  "text_uthmani": "كَانُوا۟ لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ ۚ لَبِئْسَ مَا كَانُوا۟ يَفْعَلُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/748.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/748.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/748.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/748.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/748.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/748.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/748.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/748.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/748.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/748.mp3"
+  },
+  "words": [
+    {
+      "id": 63695,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_079_001.mp3",
+      "text": "كَانُوا۟",
+      "translation": "mereka adalah",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 63696,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_079_002.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 63697,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_079_003.mp3",
+      "text": "يَتَنَاهَوْنَ",
+      "translation": "saling melarang",
+      "transliteration": "yatanāhawna"
+    },
+    {
+      "id": 63698,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_079_004.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 63699,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_079_005.mp3",
+      "text": "مُّنكَرٍۢ",
+      "translation": "perbuatan mungkar",
+      "transliteration": "munkarin"
+    },
+    {
+      "id": 63700,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_079_006.mp3",
+      "text": "فَعَلُوهُ ۚ",
+      "translation": "mereka lakukannya",
+      "transliteration": "faʿalūhu"
+    },
+    {
+      "id": 63702,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_079_008.mp3",
+      "text": "لَبِئْسَ",
+      "translation": "sungguh amat buruk",
+      "transliteration": "labi'sa"
+    },
+    {
+      "id": 63703,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_079_009.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 63704,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_079_010.mp3",
+      "text": "كَانُوا۟",
+      "translation": "mereka adalah",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 63705,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_079_011.mp3",
+      "text": "يَفْعَلُونَ",
+      "translation": "(mereka) perbuat",
+      "transliteration": "yafʿalūna"
+    },
+    {
+      "id": 63706,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٧٩",
+      "translation": "(79)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka satu sama lain selalu tidak melarang tindakan munkar yang mereka perbuat.  Sesungguhnya amat buruklah apa yang selalu mereka perbuat itu.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

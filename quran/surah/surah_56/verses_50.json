@@ -1,0 +1,78 @@
+{
+  "id": 5029,
+  "chapter_id": 56,
+  "verse_key": "56:50",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "لَمَجْمُوعُونَ إِلَىٰ مِيقَـٰتِ يَوْمٍ مَّعْلُومٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5029.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5029.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5029.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5029.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5029.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5029.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5029.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5029.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5029.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5029.mp3"
+  },
+  "words": [
+    {
+      "id": 48669,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_050_001.mp3",
+      "text": "لَمَجْمُوعُونَ",
+      "translation": "sungguh mereka dikumpulkan",
+      "transliteration": "lamajmūʿūna"
+    },
+    {
+      "id": 48670,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_050_002.mp3",
+      "text": "إِلَىٰ",
+      "translation": "atas",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 48671,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_050_003.mp3",
+      "text": "مِيقَـٰتِ",
+      "translation": "waktu-waktu tertentu",
+      "transliteration": "mīqāti"
+    },
+    {
+      "id": 48672,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_050_004.mp3",
+      "text": "يَوْمٍۢ",
+      "translation": "hari",
+      "transliteration": "yawmin"
+    },
+    {
+      "id": 48673,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_050_005.mp3",
+      "text": "مَّعْلُومٍۢ",
+      "translation": "diketahui/ditentukan",
+      "transliteration": "maʿlūmin"
+    },
+    {
+      "id": 48674,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "benar-benar akan dikumpulkan di waktu tertentu pada hari yang dikenal.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

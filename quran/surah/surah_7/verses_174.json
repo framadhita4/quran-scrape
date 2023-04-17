@@ -1,0 +1,78 @@
+{
+  "id": 1128,
+  "chapter_id": 7,
+  "verse_key": "7:174",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 69,
+  "ruku_number": 143,
+  "manzil_number": 2,
+  "page_number": 173,
+  "juz_number": 9,
+  "text_uthmani": "وَكَذَٰلِكَ نُفَصِّلُ ٱلْـَٔايَـٰتِ وَلَعَلَّهُمْ يَرْجِعُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1128.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1128.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1128.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1128.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1128.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1128.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1128.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1128.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1128.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1128.mp3"
+  },
+  "words": [
+    {
+      "id": 83220,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_174_001.mp3",
+      "text": "وَكَذَٰلِكَ",
+      "translation": "dan demikianlah",
+      "transliteration": "wakadhālika"
+    },
+    {
+      "id": 83221,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_174_002.mp3",
+      "text": "نُفَصِّلُ",
+      "translation": "Kami menjelaskan",
+      "transliteration": "nufaṣṣilu"
+    },
+    {
+      "id": 83222,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_174_003.mp3",
+      "text": "ٱلْـَٔايَـٰتِ",
+      "translation": "ayat-ayat itu",
+      "transliteration": "l-āyāti"
+    },
+    {
+      "id": 83223,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_174_004.mp3",
+      "text": "وَلَعَلَّهُمْ",
+      "translation": "dan agar mereka",
+      "transliteration": "walaʿallahum"
+    },
+    {
+      "id": 83224,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_174_005.mp3",
+      "text": "يَرْجِعُونَ",
+      "translation": "mereka kembali",
+      "transliteration": "yarjiʿūna"
+    },
+    {
+      "id": 83225,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٧٤",
+      "translation": "(174)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan demikianlah Kami menjelaskan ayat-ayat itu agar mereka kembali (kepada kebenaran).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

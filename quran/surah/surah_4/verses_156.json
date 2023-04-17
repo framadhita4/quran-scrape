@@ -1,0 +1,86 @@
+{
+  "id": 649,
+  "chapter_id": 4,
+  "verse_key": "4:156",
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "ruku_number": 83,
+  "manzil_number": 1,
+  "page_number": 103,
+  "juz_number": 6,
+  "text_uthmani": "وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلَىٰ مَرْيَمَ بُهْتَـٰنًا عَظِيمًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/649.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/649.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/649.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/649.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/649.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/649.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/649.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/649.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/649.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/649.mp3"
+  },
+  "words": [
+    {
+      "id": 81219,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_156_001.mp3",
+      "text": "وَبِكُفْرِهِمْ",
+      "translation": "dan karena kekafiran mereka",
+      "transliteration": "wabikuf'rihim"
+    },
+    {
+      "id": 81220,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_156_002.mp3",
+      "text": "وَقَوْلِهِمْ",
+      "translation": "dan perkataan mereka",
+      "transliteration": "waqawlihim"
+    },
+    {
+      "id": 81221,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_156_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas/terhadap",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 81222,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_156_004.mp3",
+      "text": "مَرْيَمَ",
+      "translation": "Maryam",
+      "transliteration": "maryama"
+    },
+    {
+      "id": 81223,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_156_005.mp3",
+      "text": "بُهْتَـٰنًا",
+      "translation": "kedustaan",
+      "transliteration": "buh'tānan"
+    },
+    {
+      "id": 81224,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_156_006.mp3",
+      "text": "عَظِيمًۭا",
+      "translation": "besar",
+      "transliteration": "ʿaẓīman"
+    },
+    {
+      "id": 81225,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٥٦",
+      "translation": "(156)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan karena kekafiran mereka (terhadap ʻIsa ) dan tuduhan mereka terhadap Maryam dengan kedustaan besar (zina),",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

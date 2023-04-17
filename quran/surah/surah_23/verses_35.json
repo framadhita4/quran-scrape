@@ -1,0 +1,110 @@
+{
+  "id": 2708,
+  "chapter_id": 23,
+  "verse_key": "23:35",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "page_number": 344,
+  "juz_number": 18,
+  "text_uthmani": "أَيَعِدُكُمْ أَنَّكُمْ إِذَا مِتُّمْ وَكُنتُمْ تُرَابًا وَعِظَـٰمًا أَنَّكُم مُّخْرَجُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2708.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2708.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2708.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2708.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2708.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2708.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2708.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2708.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2708.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2708.mp3"
+  },
+  "words": [
+    {
+      "id": 37340,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_035_001.mp3",
+      "text": "أَيَعِدُكُمْ",
+      "translation": "apakah ia menjanjikan kepadamu",
+      "transliteration": "ayaʿidukum"
+    },
+    {
+      "id": 37341,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_035_002.mp3",
+      "text": "أَنَّكُمْ",
+      "translation": "bahwasanya kamu",
+      "transliteration": "annakum"
+    },
+    {
+      "id": 37342,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_035_003.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 37343,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_035_004.mp3",
+      "text": "مِتُّمْ",
+      "translation": "kamu telah mati",
+      "transliteration": "mittum"
+    },
+    {
+      "id": 37344,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_035_005.mp3",
+      "text": "وَكُنتُمْ",
+      "translation": "dan kalian",
+      "transliteration": "wakuntum"
+    },
+    {
+      "id": 37345,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_035_006.mp3",
+      "text": "تُرَابًۭا",
+      "translation": "tanah",
+      "transliteration": "turāban"
+    },
+    {
+      "id": 37346,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_035_007.mp3",
+      "text": "وَعِظَـٰمًا",
+      "translation": "dan tulang",
+      "transliteration": "waʿiẓāman"
+    },
+    {
+      "id": 37347,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_035_008.mp3",
+      "text": "أَنَّكُم",
+      "translation": "sesungguhnya kamu",
+      "transliteration": "annakum"
+    },
+    {
+      "id": 37348,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_035_009.mp3",
+      "text": "مُّخْرَجُونَ",
+      "translation": "dikeluarkan",
+      "transliteration": "mukh'rajūna"
+    },
+    {
+      "id": 37349,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah ia menjanjikan kepada kamu sekalian bahwa bila kamu telah mati dan telah menjadi tanah dan tulang belulang, kamu sesungguhnya akan dikeluarkan (dari kuburmu) <sup foot_note=210768>1</sup>?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

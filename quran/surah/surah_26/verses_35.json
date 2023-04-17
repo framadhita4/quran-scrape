@@ -1,0 +1,102 @@
+{
+  "id": 2967,
+  "chapter_id": 26,
+  "verse_key": "26:35",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 318,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "يُرِيدُ أَن يُخْرِجَكُم مِّنْ أَرْضِكُم بِسِحْرِهِۦ فَمَاذَا تَأْمُرُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2967.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2967.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2967.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2967.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2967.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2967.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2967.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2967.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2967.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2967.mp3"
+  },
+  "words": [
+    {
+      "id": 37402,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_035_001.mp3",
+      "text": "يُرِيدُ",
+      "translation": "ia hendak",
+      "transliteration": "yurīdu"
+    },
+    {
+      "id": 37403,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_035_002.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 37404,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_035_003.mp3",
+      "text": "يُخْرِجَكُم",
+      "translation": "mengeluarkan/mengusir kamu",
+      "transliteration": "yukh'rijakum"
+    },
+    {
+      "id": 37405,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_035_004.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 37406,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_035_005.mp3",
+      "text": "أَرْضِكُم",
+      "translation": "bumimu/negerimu",
+      "transliteration": "arḍikum"
+    },
+    {
+      "id": 37407,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_035_006.mp3",
+      "text": "بِسِحْرِهِۦ",
+      "translation": "dengan sihirnya",
+      "transliteration": "bisiḥ'rihi"
+    },
+    {
+      "id": 37408,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_035_007.mp3",
+      "text": "فَمَاذَا",
+      "translation": "maka apakah",
+      "transliteration": "famādhā"
+    },
+    {
+      "id": 37409,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_035_008.mp3",
+      "text": "تَأْمُرُونَ",
+      "translation": "kamu anjurkan",
+      "transliteration": "tamurūna"
+    },
+    {
+      "id": 37410,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ia hendak mengusir kamu dari negerimu sendiri dengan sihirnya; maka karena itu apakah yang kamu anjurkan?\"",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

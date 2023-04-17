@@ -1,0 +1,86 @@
+{
+  "id": 4019,
+  "chapter_id": 38,
+  "verse_key": "38:49",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 456,
+  "juz_number": 23,
+  "text_uthmani": "هَـٰذَا ذِكْرٌ ۚ وَإِنَّ لِلْمُتَّقِينَ لَحُسْنَ مَـَٔابٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4019.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4019.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4019.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4019.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4019.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4019.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4019.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4019.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4019.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4019.mp3"
+  },
+  "words": [
+    {
+      "id": 48334,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_049_001.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 48335,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_049_002.mp3",
+      "text": "ذِكْرٌۭ ۚ",
+      "translation": "peringatan/pelajaran",
+      "transliteration": "dhik'run"
+    },
+    {
+      "id": 48337,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_049_004.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 48338,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_049_005.mp3",
+      "text": "لِلْمُتَّقِينَ",
+      "translation": "bagi orang-orang yang bertakwa",
+      "transliteration": "lil'muttaqīna"
+    },
+    {
+      "id": 48339,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_049_006.mp3",
+      "text": "لَحُسْنَ",
+      "translation": "benar-benar baik",
+      "transliteration": "laḥus'na"
+    },
+    {
+      "id": 48340,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_049_007.mp3",
+      "text": "مَـَٔابٍۢ",
+      "translation": "tempat kembali",
+      "transliteration": "maābin"
+    },
+    {
+      "id": 48341,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ini adalah kehormatan (bagi mereka).  Dan sesungguhnya bagi orang-orang yang bertakwa benar-benar (disediakan) tempat kembali yang baik,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

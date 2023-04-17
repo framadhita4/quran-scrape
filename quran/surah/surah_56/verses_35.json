@@ -1,0 +1,62 @@
+{
+  "id": 5014,
+  "chapter_id": 56,
+  "verse_key": "56:35",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "إِنَّآ أَنشَأْنَـٰهُنَّ إِنشَآءً",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5014.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5014.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5014.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5014.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5014.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5014.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5014.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5014.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5014.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5014.mp3"
+  },
+  "words": [
+    {
+      "id": 37201,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_035_001.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 37202,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_035_002.mp3",
+      "text": "أَنشَأْنَـٰهُنَّ",
+      "translation": "Kami jadikan mereka",
+      "transliteration": "anshanāhunna"
+    },
+    {
+      "id": 37203,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_035_003.mp3",
+      "text": "إِنشَآءًۭ",
+      "translation": "dengan kejadian",
+      "transliteration": "inshāan"
+    },
+    {
+      "id": 37204,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami menciptakan mereka (bidadari-bidadari) dengan langsung<sup foot_note=211221>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

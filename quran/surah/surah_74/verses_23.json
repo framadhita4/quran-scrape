@@ -1,0 +1,62 @@
+{
+  "id": 5518,
+  "chapter_id": 74,
+  "verse_key": "74:23",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ أَدْبَرَ وَٱسْتَكْبَرَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5518.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5518.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5518.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5518.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5518.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5518.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5518.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5518.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5518.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5518.mp3"
+  },
+  "words": [
+    {
+      "id": 26001,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_023_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 26002,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_023_002.mp3",
+      "text": "أَدْبَرَ",
+      "translation": "dia berpaling",
+      "transliteration": "adbara"
+    },
+    {
+      "id": 26003,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_023_003.mp3",
+      "text": "وَٱسْتَكْبَرَ",
+      "translation": "dan dia menyombongkan diri",
+      "transliteration": "wa-is'takbara"
+    },
+    {
+      "id": 26004,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian dia berpaling (dari kebenaran) dan menyombongkan diri,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

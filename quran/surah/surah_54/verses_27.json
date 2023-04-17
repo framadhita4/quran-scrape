@@ -1,0 +1,94 @@
+{
+  "id": 4873,
+  "chapter_id": 54,
+  "verse_key": "54:27",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 466,
+  "manzil_number": 7,
+  "page_number": 529,
+  "juz_number": 27,
+  "text_uthmani": "إِنَّا مُرْسِلُوا۟ ٱلنَّاقَةِ فِتْنَةً لَّهُمْ فَٱرْتَقِبْهُمْ وَٱصْطَبِرْ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4873.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4873.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4873.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4873.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4873.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4873.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4873.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4873.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4873.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4873.mp3"
+  },
+  "words": [
+    {
+      "id": 29669,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_027_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 29670,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_027_002.mp3",
+      "text": "مُرْسِلُوا۟",
+      "translation": "mengirimkan",
+      "transliteration": "mur'silū"
+    },
+    {
+      "id": 29671,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_027_003.mp3",
+      "text": "ٱلنَّاقَةِ",
+      "translation": "unta betina",
+      "transliteration": "l-nāqati"
+    },
+    {
+      "id": 29672,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_027_004.mp3",
+      "text": "فِتْنَةًۭ",
+      "translation": "fitnah/cobaan",
+      "transliteration": "fit'natan"
+    },
+    {
+      "id": 29673,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_027_005.mp3",
+      "text": "لَّهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 29674,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_027_006.mp3",
+      "text": "فَٱرْتَقِبْهُمْ",
+      "translation": "maka tungguhlah mereka",
+      "transliteration": "fa-ir'taqib'hum"
+    },
+    {
+      "id": 29675,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_027_007.mp3",
+      "text": "وَٱصْطَبِرْ",
+      "translation": "dan bersabarlah",
+      "transliteration": "wa-iṣ'ṭabir"
+    },
+    {
+      "id": 29676,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami akan mengirimkan unta betina sebagai cobaan bagi mereka, maka tunggulah (tindakan) mereka dan bersabarlah.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

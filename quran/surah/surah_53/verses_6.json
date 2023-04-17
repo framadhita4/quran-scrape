@@ -1,0 +1,62 @@
+{
+  "id": 4790,
+  "chapter_id": 53,
+  "verse_key": "53:6",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "ذُو مِرَّةٍ فَٱسْتَوَىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4790.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4790.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4790.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4790.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4790.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4790.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4790.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4790.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4790.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4790.mp3"
+  },
+  "words": [
+    {
+      "id": 6144,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_006_001.mp3",
+      "text": "ذُو",
+      "translation": "mempunyai",
+      "transliteration": "dhū"
+    },
+    {
+      "id": 6145,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_006_002.mp3",
+      "text": "مِرَّةٍۢ",
+      "translation": "kekuatan/kecerdasan",
+      "transliteration": "mirratin"
+    },
+    {
+      "id": 6146,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_006_003.mp3",
+      "text": "فَٱسْتَوَىٰ",
+      "translation": "lalu dia cukup sempurna",
+      "transliteration": "fa-is'tawā"
+    },
+    {
+      "id": 6147,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang mempunyai akal yang cerdas; dan (Jibril itu) menampakkan diri dengan rupa yang asli,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

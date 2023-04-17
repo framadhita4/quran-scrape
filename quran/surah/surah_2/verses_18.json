@@ -1,0 +1,86 @@
+{
+  "id": 25,
+  "chapter_id": 2,
+  "verse_key": "2:18",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 3,
+  "manzil_number": 1,
+  "page_number": 4,
+  "juz_number": 1,
+  "text_uthmani": "صُمٌّۢ بُكْمٌ عُمْىٌ فَهُمْ لَا يَرْجِعُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/25.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/25.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/25.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/25.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/25.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/25.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/25.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/25.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/25.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/25.mp3"
+  },
+  "words": [
+    {
+      "id": 20856,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_018_001.mp3",
+      "text": "صُمٌّۢ",
+      "translation": "(mereka) tuli",
+      "transliteration": "ṣummun"
+    },
+    {
+      "id": 20857,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_018_002.mp3",
+      "text": "بُكْمٌ",
+      "translation": "(mereka) bisu",
+      "transliteration": "buk'mun"
+    },
+    {
+      "id": 20858,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_018_003.mp3",
+      "text": "عُمْىٌۭ",
+      "translation": "(mereka) buta",
+      "transliteration": "ʿum'yun"
+    },
+    {
+      "id": 20859,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_018_004.mp3",
+      "text": "فَهُمْ",
+      "translation": "maka mereka",
+      "transliteration": "fahum"
+    },
+    {
+      "id": 20860,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_018_005.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 20861,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_018_006.mp3",
+      "text": "يَرْجِعُونَ",
+      "translation": "mereka akan kembali",
+      "transliteration": "yarjiʿūna"
+    },
+    {
+      "id": 20862,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٨",
+      "translation": "(18)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka tuli, bisu, dan buta, maka tidaklah mereka akan kembali (ke jalan yang benar)<sup foot_note=209796>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

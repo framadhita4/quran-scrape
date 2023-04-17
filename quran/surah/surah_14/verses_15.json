@@ -1,0 +1,78 @@
+{
+  "id": 1765,
+  "chapter_id": 14,
+  "verse_key": "14:15",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "ruku_number": 213,
+  "manzil_number": 3,
+  "page_number": 257,
+  "juz_number": 13,
+  "text_uthmani": "وَٱسْتَفْتَحُوا۟ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1765.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1765.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1765.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1765.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1765.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1765.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1765.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1765.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1765.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1765.mp3"
+  },
+  "words": [
+    {
+      "id": 17843,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_015_001.mp3",
+      "text": "وَٱسْتَفْتَحُوا۟",
+      "translation": "dan mereka mohon kemenangan",
+      "transliteration": "wa-is'taftaḥū"
+    },
+    {
+      "id": 17844,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_015_002.mp3",
+      "text": "وَخَابَ",
+      "translation": "dan binasalah",
+      "transliteration": "wakhāba"
+    },
+    {
+      "id": 17845,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_015_003.mp3",
+      "text": "كُلُّ",
+      "translation": "semua",
+      "transliteration": "kullu"
+    },
+    {
+      "id": 17846,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_015_004.mp3",
+      "text": "جَبَّارٍ",
+      "translation": "orang yang sewenang-wenang",
+      "transliteration": "jabbārin"
+    },
+    {
+      "id": 17847,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_015_005.mp3",
+      "text": "عَنِيدٍۢ",
+      "translation": "keras kepala",
+      "transliteration": "ʿanīdin"
+    },
+    {
+      "id": 17848,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka memohon kemenangan (atas musuh-musuh mereka) dan binasalah semua orang yang berlaku sewenang-wenang lagi keras kepala,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

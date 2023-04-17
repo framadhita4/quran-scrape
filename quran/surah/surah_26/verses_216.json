@@ -1,0 +1,94 @@
+{
+  "id": 3148,
+  "chapter_id": 26,
+  "verse_key": "26:216",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "فَإِنْ عَصَوْكَ فَقُلْ إِنِّى بَرِىٓءٌ مِّمَّا تَعْمَلُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3148.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3148.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3148.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3148.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3148.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3148.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3148.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3148.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3148.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3148.mp3"
+  },
+  "words": [
+    {
+      "id": 85851,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_216_001.mp3",
+      "text": "فَإِنْ",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 85852,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_216_002.mp3",
+      "text": "عَصَوْكَ",
+      "translation": "mereka mendurhakaimu",
+      "transliteration": "ʿaṣawka"
+    },
+    {
+      "id": 85853,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_216_003.mp3",
+      "text": "فَقُلْ",
+      "translation": "maka katakanlah",
+      "transliteration": "faqul"
+    },
+    {
+      "id": 85854,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_216_004.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 85855,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_216_005.mp3",
+      "text": "بَرِىٓءٌۭ",
+      "translation": "berlepas diri",
+      "transliteration": "barīon"
+    },
+    {
+      "id": 85856,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_216_006.mp3",
+      "text": "مِّمَّا",
+      "translation": "dari apa",
+      "transliteration": "mimmā"
+    },
+    {
+      "id": 85857,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_216_007.mp3",
+      "text": "تَعْمَلُونَ",
+      "translation": "kamu kerjakan",
+      "transliteration": "taʿmalūna"
+    },
+    {
+      "id": 85858,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢١٦",
+      "translation": "(216)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Jika mereka mendurhakaimu maka katakanlah, \"Sesungguhnya aku tidak bertanggung jawab terhadap apa yang kamu kerjakan\"",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

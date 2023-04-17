@@ -1,0 +1,102 @@
+{
+  "id": 4546,
+  "chapter_id": 47,
+  "verse_key": "47:1",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "ruku_number": 444,
+  "manzil_number": 6,
+  "page_number": 507,
+  "juz_number": 26,
+  "text_uthmani": " ٱلَّذِينَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ أَضَلَّ أَعْمَـٰلَهُمْ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4546.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4546.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4546.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4546.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4546.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4546.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4546.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4546.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4546.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4546.mp3"
+  },
+  "words": [
+    {
+      "id": 179,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_001_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 180,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_001_002.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 181,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_001_003.mp3",
+      "text": "وَصَدُّوا۟",
+      "translation": "dan mereka menghalang-halangi",
+      "transliteration": "waṣaddū"
+    },
+    {
+      "id": 182,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_001_004.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 183,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_001_005.mp3",
+      "text": "سَبِيلِ",
+      "translation": "jalan",
+      "transliteration": "sabīli"
+    },
+    {
+      "id": 184,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_001_006.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 185,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_001_007.mp3",
+      "text": "أَضَلَّ",
+      "translation": "sesatkan",
+      "transliteration": "aḍalla"
+    },
+    {
+      "id": 186,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_001_008.mp3",
+      "text": "أَعْمَـٰلَهُمْ",
+      "translation": "amal perbuatan mereka",
+      "transliteration": "aʿmālahum"
+    },
+    {
+      "id": 187,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Orang-orang yang kafir dan menghalang-halangi (manusia) dari jalan Allah, Allah menghapus perbuatan-perbuatan mereka<sup foot_note=211161>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

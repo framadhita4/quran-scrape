@@ -1,0 +1,86 @@
+{
+  "id": 5491,
+  "chapter_id": 73,
+  "verse_key": "73:16",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": "فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًا وَبِيلًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5491.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5491.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5491.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5491.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5491.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5491.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5491.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5491.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5491.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5491.mp3"
+  },
+  "words": [
+    {
+      "id": 18541,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_016_001.mp3",
+      "text": "فَعَصَىٰ",
+      "translation": "maka mendurhakai",
+      "transliteration": "faʿaṣā"
+    },
+    {
+      "id": 18542,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_016_002.mp3",
+      "text": "فِرْعَوْنُ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawnu"
+    },
+    {
+      "id": 18543,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_016_003.mp3",
+      "text": "ٱلرَّسُولَ",
+      "translation": "rasul itu",
+      "transliteration": "l-rasūla"
+    },
+    {
+      "id": 18544,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_016_004.mp3",
+      "text": "فَأَخَذْنَـٰهُ",
+      "translation": "lalu Kami siksa dia",
+      "transliteration": "fa-akhadhnāhu"
+    },
+    {
+      "id": 18545,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_016_005.mp3",
+      "text": "أَخْذًۭا",
+      "translation": "siksaan",
+      "transliteration": "akhdhan"
+    },
+    {
+      "id": 18546,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_016_006.mp3",
+      "text": "وَبِيلًۭا",
+      "translation": "yang berat",
+      "transliteration": "wabīlan"
+    },
+    {
+      "id": 18547,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Firʻawn  mendurhakai rasul itu, lalu Kami siksa dia dengan siksaan yang berat.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

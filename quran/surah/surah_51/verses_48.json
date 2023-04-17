@@ -1,0 +1,70 @@
+{
+  "id": 4723,
+  "chapter_id": 51,
+  "verse_key": "51:48",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 459,
+  "manzil_number": 7,
+  "page_number": 522,
+  "juz_number": 27,
+  "text_uthmani": "وَٱلْأَرْضَ فَرَشْنَـٰهَا فَنِعْمَ ٱلْمَـٰهِدُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4723.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4723.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4723.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4723.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4723.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4723.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4723.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4723.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4723.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4723.mp3"
+  },
+  "words": [
+    {
+      "id": 47227,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_048_001.mp3",
+      "text": "وَٱلْأَرْضَ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍa"
+    },
+    {
+      "id": 47228,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_048_002.mp3",
+      "text": "فَرَشْنَـٰهَا",
+      "translation": "Kami hamparkannya",
+      "transliteration": "farashnāhā"
+    },
+    {
+      "id": 47229,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_048_003.mp3",
+      "text": "فَنِعْمَ",
+      "translation": "maka sebaik-baik",
+      "transliteration": "faniʿ'ma"
+    },
+    {
+      "id": 47230,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_048_004.mp3",
+      "text": "ٱلْمَـٰهِدُونَ",
+      "translation": "yang menghamparkan",
+      "transliteration": "l-māhidūna"
+    },
+    {
+      "id": 47231,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bumi itu Kami hamparkan; maka sebaik-baik yang menghamparkan (adalah Kami).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

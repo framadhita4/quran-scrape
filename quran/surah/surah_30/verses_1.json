@@ -1,0 +1,46 @@
+{
+  "id": 3410,
+  "chapter_id": 30,
+  "verse_key": "30:1",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "ruku_number": 350,
+  "manzil_number": 5,
+  "page_number": 404,
+  "juz_number": 21,
+  "text_uthmani": " الٓمٓ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3410.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3410.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3410.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3410.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3410.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3410.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3410.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3410.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3410.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3410.mp3"
+  },
+  "words": [
+    {
+      "id": 789,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_001_001.mp3",
+      "text": "الٓمٓ",
+      "translation": "Alif laam miim",
+      "transliteration": "alif-lam-meem"
+    },
+    {
+      "id": 790,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Alif Lām Mīm <sup foot_note=210929>1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

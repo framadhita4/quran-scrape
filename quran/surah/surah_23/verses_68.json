@@ -1,0 +1,118 @@
+{
+  "id": 2741,
+  "chapter_id": 23,
+  "verse_key": "23:68",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 298,
+  "manzil_number": 4,
+  "page_number": 346,
+  "juz_number": 18,
+  "text_uthmani": "أَفَلَمْ يَدَّبَّرُوا۟ ٱلْقَوْلَ أَمْ جَآءَهُم مَّا لَمْ يَأْتِ ءَابَآءَهُمُ ٱلْأَوَّلِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2741.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2741.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2741.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2741.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2741.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2741.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2741.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2741.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2741.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2741.mp3"
+  },
+  "words": [
+    {
+      "id": 58703,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_068_001.mp3",
+      "text": "أَفَلَمْ",
+      "translation": "apakah maka tidak",
+      "transliteration": "afalam"
+    },
+    {
+      "id": 58704,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_068_002.mp3",
+      "text": "يَدَّبَّرُوا۟",
+      "translation": "mereka memperhatikan",
+      "transliteration": "yaddabbarū"
+    },
+    {
+      "id": 58705,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_068_003.mp3",
+      "text": "ٱلْقَوْلَ",
+      "translation": "perkataan",
+      "transliteration": "l-qawla"
+    },
+    {
+      "id": 58706,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_068_004.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 58707,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_068_005.mp3",
+      "text": "جَآءَهُم",
+      "translation": "telah datang mereka",
+      "transliteration": "jāahum"
+    },
+    {
+      "id": 58708,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_068_006.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 58709,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_068_007.mp3",
+      "text": "لَمْ",
+      "translation": "yang tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 58710,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_068_008.mp3",
+      "text": "يَأْتِ",
+      "translation": "datang",
+      "transliteration": "yati"
+    },
+    {
+      "id": 58711,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_068_009.mp3",
+      "text": "ءَابَآءَهُمُ",
+      "translation": "bapak-bapak mereka",
+      "transliteration": "ābāahumu"
+    },
+    {
+      "id": 58712,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_068_010.mp3",
+      "text": "ٱلْأَوَّلِينَ",
+      "translation": "orang-orang dahulu",
+      "transliteration": "l-awalīna"
+    },
+    {
+      "id": 58713,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٦٨",
+      "translation": "(68)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah mereka tidak memperhatikan perkataan (Kami) atau apakah telah datang kepada mereka apa yang tidak pernah datang kepada nenek moyang mereka dahulu?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

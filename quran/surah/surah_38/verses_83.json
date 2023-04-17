@@ -1,0 +1,70 @@
+{
+  "id": 4053,
+  "chapter_id": 38,
+  "verse_key": "38:83",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "إِلَّا عِبَادَكَ مِنْهُمُ ٱلْمُخْلَصِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4053.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4053.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4053.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4053.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4053.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4053.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4053.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4053.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4053.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4053.mp3"
+  },
+  "words": [
+    {
+      "id": 65589,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_083_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 65590,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_083_002.mp3",
+      "text": "عِبَادَكَ",
+      "translation": "hamba-hamba-Mu",
+      "transliteration": "ʿibādaka"
+    },
+    {
+      "id": 65591,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_083_003.mp3",
+      "text": "مِنْهُمُ",
+      "translation": "diantara mereka",
+      "transliteration": "min'humu"
+    },
+    {
+      "id": 65592,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_083_004.mp3",
+      "text": "ٱلْمُخْلَصِينَ",
+      "translation": "orang-orang yang mukhlis/disucikan",
+      "transliteration": "l-mukh'laṣīna"
+    },
+    {
+      "id": 65593,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٨٣",
+      "translation": "(83)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali hamba-hamba-Mu yang mukhlis di antara mereka <sup foot_note=211074>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

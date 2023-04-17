@@ -1,0 +1,62 @@
+{
+  "id": 4457,
+  "chapter_id": 44,
+  "verse_key": "44:43",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 435,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4457.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4457.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4457.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4457.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4457.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4457.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4457.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4457.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4457.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4457.mp3"
+  },
+  "words": [
+    {
+      "id": 43568,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_043_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 43569,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_043_002.mp3",
+      "text": "شَجَرَتَ",
+      "translation": "pohon",
+      "transliteration": "shajarata"
+    },
+    {
+      "id": 43570,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_043_003.mp3",
+      "text": "ٱلزَّقُّومِ",
+      "translation": "zaqqum",
+      "transliteration": "l-zaqūmi"
+    },
+    {
+      "id": 43571,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya pohon zakum itu<sup foot_note=211148>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

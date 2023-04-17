@@ -1,0 +1,54 @@
+{
+  "id": 5512,
+  "chapter_id": 74,
+  "verse_key": "74:17",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "سَأُرْهِقُهُۥ صَعُودًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5512.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5512.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5512.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5512.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5512.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5512.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5512.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5512.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5512.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5512.mp3"
+  },
+  "words": [
+    {
+      "id": 19554,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_017_001.mp3",
+      "text": "سَأُرْهِقُهُۥ",
+      "translation": "akan aku timpakan",
+      "transliteration": "sa-ur'hiquhu"
+    },
+    {
+      "id": 19555,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_017_002.mp3",
+      "text": "صَعُودًا",
+      "translation": "siksaan yang payah/berat",
+      "transliteration": "ṣaʿūdan"
+    },
+    {
+      "id": 19556,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Aku akan membebaninya mendaki pendakian yang memayahkan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

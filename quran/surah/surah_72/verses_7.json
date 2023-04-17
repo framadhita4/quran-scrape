@@ -1,0 +1,110 @@
+{
+  "id": 5454,
+  "chapter_id": 72,
+  "verse_key": "72:7",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 508,
+  "manzil_number": 7,
+  "page_number": 572,
+  "juz_number": 29,
+  "text_uthmani": "وَأَنَّهُمْ ظَنُّوا۟ كَمَا ظَنَنتُمْ أَن لَّن يَبْعَثَ ٱللَّهُ أَحَدًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5454.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5454.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5454.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5454.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5454.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5454.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5454.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5454.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5454.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5454.mp3"
+  },
+  "words": [
+    {
+      "id": 7930,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_007_001.mp3",
+      "text": "وَأَنَّهُمْ",
+      "translation": "dan bahwasannya mereka",
+      "transliteration": "wa-annahum"
+    },
+    {
+      "id": 7931,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_007_002.mp3",
+      "text": "ظَنُّوا۟",
+      "translation": "mereka menyangka",
+      "transliteration": "ẓannū"
+    },
+    {
+      "id": 7932,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_007_003.mp3",
+      "text": "كَمَا",
+      "translation": "sebagai mana",
+      "transliteration": "kamā"
+    },
+    {
+      "id": 7933,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_007_004.mp3",
+      "text": "ظَنَنتُمْ",
+      "translation": "persangkaanmu",
+      "transliteration": "ẓanantum"
+    },
+    {
+      "id": 7934,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_007_005.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 7935,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_007_006.mp3",
+      "text": "لَّن",
+      "translation": "tidak akan",
+      "transliteration": "lan"
+    },
+    {
+      "id": 7936,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_007_007.mp3",
+      "text": "يَبْعَثَ",
+      "translation": "membangkitkan",
+      "transliteration": "yabʿatha"
+    },
+    {
+      "id": 7937,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_007_008.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 7938,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_007_009.mp3",
+      "text": "أَحَدًۭا",
+      "translation": "seorang",
+      "transliteration": "aḥadan"
+    },
+    {
+      "id": 7939,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya mereka (jin) menyangka sebagaimana persangkaan kamu (orang-orang kafir Mekah), bahwa Allah sekali-kali tidak akan membangkitkan seorang (rasul) pun,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

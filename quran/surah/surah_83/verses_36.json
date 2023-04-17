@@ -1,0 +1,86 @@
+{
+  "id": 5884,
+  "chapter_id": 83,
+  "verse_key": "83:36",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "هَلْ ثُوِّبَ ٱلْكُفَّارُ مَا كَانُوا۟ يَفْعَلُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5884.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5884.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5884.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5884.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5884.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5884.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5884.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5884.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5884.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5884.mp3"
+  },
+  "words": [
+    {
+      "id": 38227,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_036_001.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 38228,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_036_002.mp3",
+      "text": "ثُوِّبَ",
+      "translation": "diberi ganjaran/balasan",
+      "transliteration": "thuwwiba"
+    },
+    {
+      "id": 38229,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_036_003.mp3",
+      "text": "ٱلْكُفَّارُ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kufāru"
+    },
+    {
+      "id": 38230,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_036_004.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 38231,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_036_005.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 38232,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_036_006.mp3",
+      "text": "يَفْعَلُونَ",
+      "translation": "mereka kerjakan",
+      "transliteration": "yafʿalūna"
+    },
+    {
+      "id": 38233,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang kafir telah diberi ganjaran terhadap apa yang dahulu mereka kerjakan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

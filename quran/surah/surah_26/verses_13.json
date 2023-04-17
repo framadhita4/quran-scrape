@@ -1,0 +1,102 @@
+{
+  "id": 2945,
+  "chapter_id": 26,
+  "verse_key": "26:13",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 367,
+  "juz_number": 19,
+  "text_uthmani": "وَيَضِيقُ صَدْرِى وَلَا يَنطَلِقُ لِسَانِى فَأَرْسِلْ إِلَىٰ هَـٰرُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2945.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2945.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2945.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2945.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2945.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2945.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2945.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2945.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2945.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2945.mp3"
+  },
+  "words": [
+    {
+      "id": 15413,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_013_001.mp3",
+      "text": "وَيَضِيقُ",
+      "translation": "dan menjadi sempit",
+      "transliteration": "wayaḍīqu"
+    },
+    {
+      "id": 15414,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_013_002.mp3",
+      "text": "صَدْرِى",
+      "translation": "dadaku",
+      "transliteration": "ṣadrī"
+    },
+    {
+      "id": 15415,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_013_003.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 15416,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_013_004.mp3",
+      "text": "يَنطَلِقُ",
+      "translation": "dapat berbicara/berkata",
+      "transliteration": "yanṭaliqu"
+    },
+    {
+      "id": 15417,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_013_005.mp3",
+      "text": "لِسَانِى",
+      "translation": "lisanku",
+      "transliteration": "lisānī"
+    },
+    {
+      "id": 15418,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_013_006.mp3",
+      "text": "فَأَرْسِلْ",
+      "translation": "maka utuslah",
+      "transliteration": "fa-arsil"
+    },
+    {
+      "id": 15419,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_013_007.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 15420,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_013_008.mp3",
+      "text": "هَـٰرُونَ",
+      "translation": "Harun",
+      "transliteration": "hārūna"
+    },
+    {
+      "id": 15421,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (karenanya), sempitlah dadaku dan tidak lancar lidahku, maka utuslah (Jibril) kepada Hārūn <sup foot_note=210845>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

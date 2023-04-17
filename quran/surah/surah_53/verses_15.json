@@ -1,0 +1,62 @@
+{
+  "id": 4799,
+  "chapter_id": 53,
+  "verse_key": "53:15",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "عِندَهَا جَنَّةُ ٱلْمَأْوَىٰٓ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4799.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4799.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4799.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4799.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4799.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4799.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4799.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4799.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4799.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4799.mp3"
+  },
+  "words": [
+    {
+      "id": 17245,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_015_001.mp3",
+      "text": "عِندَهَا",
+      "translation": "di sisinya",
+      "transliteration": "ʿindahā"
+    },
+    {
+      "id": 17246,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_015_002.mp3",
+      "text": "جَنَّةُ",
+      "translation": "surga",
+      "transliteration": "jannatu"
+    },
+    {
+      "id": 17247,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_015_003.mp3",
+      "text": "ٱلْمَأْوَىٰٓ",
+      "translation": "tempat tinggal",
+      "transliteration": "l-mawā"
+    },
+    {
+      "id": 17248,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di dekatnya ada surga tempat tinggal,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

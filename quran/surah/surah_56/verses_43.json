@@ -1,0 +1,62 @@
+{
+  "id": 5022,
+  "chapter_id": 56,
+  "verse_key": "56:43",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 535,
+  "juz_number": 27,
+  "text_uthmani": "وَظِلٍّ مِّن يَحْمُومٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5022.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5022.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5022.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5022.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5022.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5022.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5022.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5022.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5022.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5022.mp3"
+  },
+  "words": [
+    {
+      "id": 43688,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_043_001.mp3",
+      "text": "وَظِلٍّۢ",
+      "translation": "dan naungan",
+      "transliteration": "waẓillin"
+    },
+    {
+      "id": 43689,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_043_002.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 43690,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_043_003.mp3",
+      "text": "يَحْمُومٍۢ",
+      "translation": "asap hitam",
+      "transliteration": "yaḥmūmin"
+    },
+    {
+      "id": 43691,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dalam naungan asap yang hitam.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

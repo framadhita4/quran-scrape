@@ -1,0 +1,70 @@
+{
+  "id": 3936,
+  "chapter_id": 37,
+  "verse_key": "37:148",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "فَـَٔامَنُوا۟ فَمَتَّعْنَـٰهُمْ إِلَىٰ حِينٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3936.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3936.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3936.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3936.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3936.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3936.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3936.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3936.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3936.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3936.mp3"
+  },
+  "words": [
+    {
+      "id": 80179,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_148_001.mp3",
+      "text": "فَـَٔامَنُوا۟",
+      "translation": "lalu mereka beriman",
+      "transliteration": "faāmanū"
+    },
+    {
+      "id": 80180,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_148_002.mp3",
+      "text": "فَمَتَّعْنَـٰهُمْ",
+      "translation": "maka Kami beri kesenangan mereka",
+      "transliteration": "famattaʿnāhum"
+    },
+    {
+      "id": 80181,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_148_003.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada/sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 80182,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_148_004.mp3",
+      "text": "حِينٍۢ",
+      "translation": "waktu yang tertentu",
+      "transliteration": "ḥīnin"
+    },
+    {
+      "id": 80183,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٤٨",
+      "translation": "(148)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu, mereka beriman, karena itu Kami anugerahkan kenikmatan hidup kepada mereka hingga waktu yang tertentu.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

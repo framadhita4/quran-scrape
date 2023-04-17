@@ -1,0 +1,94 @@
+{
+  "id": 2151,
+  "chapter_id": 18,
+  "verse_key": "18:11",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "ruku_number": 252,
+  "manzil_number": 4,
+  "page_number": 294,
+  "juz_number": 15,
+  "text_uthmani": "فَضَرَبْنَا عَلَىٰٓ ءَاذَانِهِمْ فِى ٱلْكَهْفِ سِنِينَ عَدَدًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2151.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2151.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2151.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2151.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2151.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2151.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2151.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2151.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2151.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2151.mp3"
+  },
+  "words": [
+    {
+      "id": 12247,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_011_001.mp3",
+      "text": "فَضَرَبْنَا",
+      "translation": "maka Kami jadikan tutup",
+      "transliteration": "faḍarabnā"
+    },
+    {
+      "id": 12248,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_011_002.mp3",
+      "text": "عَلَىٰٓ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 12249,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_011_003.mp3",
+      "text": "ءَاذَانِهِمْ",
+      "translation": "telinga mereka",
+      "transliteration": "ādhānihim"
+    },
+    {
+      "id": 12250,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_011_004.mp3",
+      "text": "فِى",
+      "translation": "didalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 12251,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_011_005.mp3",
+      "text": "ٱلْكَهْفِ",
+      "translation": "gua",
+      "transliteration": "l-kahfi"
+    },
+    {
+      "id": 12252,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_011_006.mp3",
+      "text": "سِنِينَ",
+      "translation": "beberapa tahun",
+      "transliteration": "sinīna"
+    },
+    {
+      "id": 12253,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_011_007.mp3",
+      "text": "عَدَدًۭا",
+      "translation": "berbilang",
+      "transliteration": "ʿadadan"
+    },
+    {
+      "id": 12254,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Kami tutup telinga mereka beberapa tahun dalam gua itu <sup foot_note=210641>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

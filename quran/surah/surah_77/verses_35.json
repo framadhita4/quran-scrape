@@ -1,0 +1,70 @@
+{
+  "id": 5657,
+  "chapter_id": 77,
+  "verse_key": "77:35",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5657.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5657.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5657.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5657.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5657.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5657.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5657.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5657.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5657.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5657.mp3"
+  },
+  "words": [
+    {
+      "id": 37271,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_035_001.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 37272,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_035_002.mp3",
+      "text": "يَوْمُ",
+      "translation": "hari",
+      "transliteration": "yawmu"
+    },
+    {
+      "id": 37273,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_035_003.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 37274,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_035_004.mp3",
+      "text": "يَنطِقُونَ",
+      "translation": "mereka dapat bicara",
+      "transliteration": "yanṭiqūna"
+    },
+    {
+      "id": 37275,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ini adalah hari, yang mereka tidak dapat berbicara (pada hari itu),",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

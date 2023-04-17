@@ -1,0 +1,70 @@
+{
+  "id": 5893,
+  "chapter_id": 84,
+  "verse_key": "84:9",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "وَيَنقَلِبُ إِلَىٰٓ أَهْلِهِۦ مَسْرُورًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5893.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5893.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5893.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5893.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5893.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5893.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5893.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5893.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5893.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5893.mp3"
+  },
+  "words": [
+    {
+      "id": 10433,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_009_001.mp3",
+      "text": "وَيَنقَلِبُ",
+      "translation": "dan dia akan dikembalikan",
+      "transliteration": "wayanqalibu"
+    },
+    {
+      "id": 10434,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_009_002.mp3",
+      "text": "إِلَىٰٓ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 10435,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_009_003.mp3",
+      "text": "أَهْلِهِۦ",
+      "translation": "keluarganya",
+      "transliteration": "ahlihi"
+    },
+    {
+      "id": 10436,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_009_004.mp3",
+      "text": "مَسْرُورًۭا",
+      "translation": "dengan gembira",
+      "transliteration": "masrūran"
+    },
+    {
+      "id": 10437,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dia akan kembali kepada kaumnya (yang sama-sama beriman) dengan gembira.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

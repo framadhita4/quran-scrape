@@ -1,0 +1,70 @@
+{
+  "id": 3923,
+  "chapter_id": 37,
+  "verse_key": "37:135",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "إِلَّا عَجُوزًا فِى ٱلْغَـٰبِرِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3923.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3923.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3923.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3923.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3923.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3923.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3923.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3923.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3923.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3923.mp3"
+  },
+  "words": [
+    {
+      "id": 78543,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_135_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 78544,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_135_002.mp3",
+      "text": "عَجُوزًۭا",
+      "translation": "perempuan tua",
+      "transliteration": "ʿajūzan"
+    },
+    {
+      "id": 78545,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_135_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 78546,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_135_004.mp3",
+      "text": "ٱلْغَـٰبِرِينَ",
+      "translation": "tertinggal",
+      "transliteration": "l-ghābirīna"
+    },
+    {
+      "id": 78547,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٣٥",
+      "translation": "(135)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali seorang perempuan tua (istrinya yang berada) bersama-sama orang yang tinggal.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

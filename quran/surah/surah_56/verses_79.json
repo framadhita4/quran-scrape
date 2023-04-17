@@ -1,0 +1,70 @@
+{
+  "id": 5058,
+  "chapter_id": 56,
+  "verse_key": "56:79",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "ruku_number": 473,
+  "manzil_number": 7,
+  "page_number": 537,
+  "juz_number": 27,
+  "text_uthmani": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5058.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5058.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5058.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5058.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5058.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5058.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5058.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5058.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5058.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5058.mp3"
+  },
+  "words": [
+    {
+      "id": 63895,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_079_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 63896,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_079_002.mp3",
+      "text": "يَمَسُّهُۥٓ",
+      "translation": "menyentuhnya",
+      "transliteration": "yamassuhu"
+    },
+    {
+      "id": 63897,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_079_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 63898,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_079_004.mp3",
+      "text": "ٱلْمُطَهَّرُونَ",
+      "translation": "orang-orang yang disucikan",
+      "transliteration": "l-muṭaharūna"
+    },
+    {
+      "id": 63899,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٧٩",
+      "translation": "(79)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "tidak menyentuhnya kecuali hamba-hamba yang disucikan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 6036,
+  "chapter_id": 90,
+  "verse_key": "90:13",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "فَكُّ رَقَبَةٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6036.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6036.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6036.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6036.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6036.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6036.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6036.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6036.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6036.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6036.mp3"
+  },
+  "words": [
+    {
+      "id": 15459,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_013_001.mp3",
+      "text": "فَكُّ",
+      "translation": "memerdekakan",
+      "transliteration": "fakku"
+    },
+    {
+      "id": 15460,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_013_002.mp3",
+      "text": "رَقَبَةٍ",
+      "translation": "budak",
+      "transliteration": "raqabatin"
+    },
+    {
+      "id": 15461,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) melepaskan budak dari perbudakan,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

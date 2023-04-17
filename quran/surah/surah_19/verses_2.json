@@ -1,0 +1,78 @@
+{
+  "id": 2252,
+  "chapter_id": 19,
+  "verse_key": "19:2",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "ruku_number": 264,
+  "manzil_number": 4,
+  "page_number": 305,
+  "juz_number": 16,
+  "text_uthmani": "ذِكْرُ رَحْمَتِ رَبِّكَ عَبْدَهُۥ زَكَرِيَّآ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2252.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2252.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2252.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2252.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2252.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2252.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2252.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2252.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2252.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2252.mp3"
+  },
+  "words": [
+    {
+      "id": 1025,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_002_001.mp3",
+      "text": "ذِكْرُ",
+      "translation": "peringatan/penjelasan",
+      "transliteration": "dhik'ru"
+    },
+    {
+      "id": 1026,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_002_002.mp3",
+      "text": "رَحْمَتِ",
+      "translation": "rahmat",
+      "transliteration": "raḥmati"
+    },
+    {
+      "id": 1027,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_002_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 1028,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_002_004.mp3",
+      "text": "عَبْدَهُۥ",
+      "translation": "hambaNya",
+      "transliteration": "ʿabdahu"
+    },
+    {
+      "id": 1029,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_002_005.mp3",
+      "text": "زَكَرِيَّآ",
+      "translation": "Zakariya",
+      "transliteration": "zakariyyā"
+    },
+    {
+      "id": 1030,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yang dibacakan ini adalah) penjelasan tentang rahmat Tuhan kamu kepada hamba-Nya, Zakariyyā,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

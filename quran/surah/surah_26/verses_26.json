@@ -1,0 +1,78 @@
+{
+  "id": 2958,
+  "chapter_id": 26,
+  "verse_key": "26:26",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ رَبُّكُمْ وَرَبُّ ءَابَآئِكُمُ ٱلْأَوَّلِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2958.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2958.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2958.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2958.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2958.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2958.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2958.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2958.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2958.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2958.mp3"
+  },
+  "words": [
+    {
+      "id": 29143,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_026_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Musa) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 29144,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_026_002.mp3",
+      "text": "رَبُّكُمْ",
+      "translation": "Tuhan kalian",
+      "transliteration": "rabbukum"
+    },
+    {
+      "id": 29145,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_026_003.mp3",
+      "text": "وَرَبُّ",
+      "translation": "dan Tuhan",
+      "transliteration": "warabbu"
+    },
+    {
+      "id": 29146,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_026_004.mp3",
+      "text": "ءَابَآئِكُمُ",
+      "translation": "bapak-bapak/nenek moyang kamu",
+      "transliteration": "ābāikumu"
+    },
+    {
+      "id": 29147,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_026_005.mp3",
+      "text": "ٱلْأَوَّلِينَ",
+      "translation": "yang dahulu",
+      "transliteration": "l-awalīna"
+    },
+    {
+      "id": 29148,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Musa berkata (pula), \"Tuhan kamu dan Tuhan nenek-nenek moyang kamu yang dahulu\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

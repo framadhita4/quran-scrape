@@ -1,0 +1,54 @@
+{
+  "id": 5499,
+  "chapter_id": 74,
+  "verse_key": "74:4",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "وَثِيَابَكَ فَطَهِّرْ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5499.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5499.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5499.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5499.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5499.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5499.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5499.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5499.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5499.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5499.mp3"
+  },
+  "words": [
+    {
+      "id": 4045,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_004_001.mp3",
+      "text": "وَثِيَابَكَ",
+      "translation": "dan pakaianmu",
+      "transliteration": "wathiyābaka"
+    },
+    {
+      "id": 4046,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_004_002.mp3",
+      "text": "فَطَهِّرْ",
+      "translation": "maka bersihkan",
+      "transliteration": "faṭahhir"
+    },
+    {
+      "id": 4047,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan pakaianmu bersihkanlah,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

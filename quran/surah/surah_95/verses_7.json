@@ -1,0 +1,70 @@
+{
+  "id": 6105,
+  "chapter_id": 95,
+  "verse_key": "95:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 539,
+  "manzil_number": 7,
+  "page_number": 597,
+  "juz_number": 30,
+  "text_uthmani": "فَمَا يُكَذِّبُكَ بَعْدُ بِٱلدِّينِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6105.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6105.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6105.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6105.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6105.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6105.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6105.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6105.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6105.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6105.mp3"
+  },
+  "words": [
+    {
+      "id": 7954,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_007_001.mp3",
+      "text": "فَمَا",
+      "translation": "maka apakah",
+      "transliteration": "famā"
+    },
+    {
+      "id": 7955,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_007_002.mp3",
+      "text": "يُكَذِّبُكَ",
+      "translation": "mendustakanmu",
+      "transliteration": "yukadhibuka"
+    },
+    {
+      "id": 7956,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_007_003.mp3",
+      "text": "بَعْدُ",
+      "translation": "sesudah",
+      "transliteration": "baʿdu"
+    },
+    {
+      "id": 7957,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/095_007_004.mp3",
+      "text": "بِٱلدِّينِ",
+      "translation": "hari pembalasan/agama",
+      "transliteration": "bil-dīni"
+    },
+    {
+      "id": 7958,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah yang menyebabkan kamu mendustakan (hari) pembalasan sesudah (adanya keterangan-keterangan) itu?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

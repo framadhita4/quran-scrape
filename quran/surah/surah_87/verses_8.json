@@ -1,0 +1,54 @@
+{
+  "id": 5956,
+  "chapter_id": 87,
+  "verse_key": "87:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5956.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5956.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5956.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5956.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5956.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5956.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5956.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5956.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5956.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5956.mp3"
+  },
+  "words": [
+    {
+      "id": 9263,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_008_001.mp3",
+      "text": "وَنُيَسِّرُكَ",
+      "translation": "dan Kami memudahkan",
+      "transliteration": "wanuyassiruka"
+    },
+    {
+      "id": 9264,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_008_002.mp3",
+      "text": "لِلْيُسْرَىٰ",
+      "translation": "untuk kemudahan",
+      "transliteration": "lil'yus'rā"
+    },
+    {
+      "id": 9265,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Kami akan memberi kamu taufik kepada jalan yang mudah<sup foot_note=211341>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

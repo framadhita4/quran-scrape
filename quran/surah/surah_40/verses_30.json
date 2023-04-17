@@ -1,0 +1,118 @@
+{
+  "id": 4163,
+  "chapter_id": 40,
+  "verse_key": "40:30",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "ruku_number": 409,
+  "manzil_number": 6,
+  "page_number": 470,
+  "juz_number": 24,
+  "text_uthmani": "وَقَالَ ٱلَّذِىٓ ءَامَنَ يَـٰقَوْمِ إِنِّىٓ أَخَافُ عَلَيْكُم مِّثْلَ يَوْمِ ٱلْأَحْزَابِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4163.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4163.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4163.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4163.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4163.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4163.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4163.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4163.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4163.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4163.mp3"
+  },
+  "words": [
+    {
+      "id": 32430,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_030_001.mp3",
+      "text": "وَقَالَ",
+      "translation": "dan berkata",
+      "transliteration": "waqāla"
+    },
+    {
+      "id": 32431,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_030_002.mp3",
+      "text": "ٱلَّذِىٓ",
+      "translation": "orang yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 32432,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_030_003.mp3",
+      "text": "ءَامَنَ",
+      "translation": "ia beriman",
+      "transliteration": "āmana"
+    },
+    {
+      "id": 32433,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_030_004.mp3",
+      "text": "يَـٰقَوْمِ",
+      "translation": "wahai kaumku",
+      "transliteration": "yāqawmi"
+    },
+    {
+      "id": 32434,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_030_005.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 32435,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_030_006.mp3",
+      "text": "أَخَافُ",
+      "translation": "aku takut/khawatir",
+      "transliteration": "akhāfu"
+    },
+    {
+      "id": 32436,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_030_007.mp3",
+      "text": "عَلَيْكُم",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 32437,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_030_008.mp3",
+      "text": "مِّثْلَ",
+      "translation": "seperti",
+      "transliteration": "mith'la"
+    },
+    {
+      "id": 32438,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_030_009.mp3",
+      "text": "يَوْمِ",
+      "translation": "hari",
+      "transliteration": "yawmi"
+    },
+    {
+      "id": 32439,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_030_010.mp3",
+      "text": "ٱلْأَحْزَابِ",
+      "translation": "golongan yang bersekutu",
+      "transliteration": "l-aḥzābi"
+    },
+    {
+      "id": 32440,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang yang beriman itu berkata, \"Hai kaumku, sesungguhnya aku khawatir kamu akan ditimpa (bencana) seperti peristiwa kehancuran golongan yang bersekutu.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

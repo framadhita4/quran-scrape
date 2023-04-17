@@ -1,0 +1,62 @@
+{
+  "id": 6055,
+  "chapter_id": 91,
+  "verse_key": "91:12",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "إِذِ ٱنۢبَعَثَ أَشْقَىٰهَا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6055.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6055.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6055.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6055.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6055.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6055.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6055.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6055.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6055.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6055.mp3"
+  },
+  "words": [
+    {
+      "id": 14556,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_012_001.mp3",
+      "text": "إِذِ",
+      "translation": "ketika",
+      "transliteration": "idhi"
+    },
+    {
+      "id": 14557,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_012_002.mp3",
+      "text": "ٱنۢبَعَثَ",
+      "translation": "bangkit",
+      "transliteration": "inbaʿatha"
+    },
+    {
+      "id": 14558,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_012_003.mp3",
+      "text": "أَشْقَىٰهَا",
+      "translation": "orang yang lebih celaka diantaranya",
+      "transliteration": "ashqāhā"
+    },
+    {
+      "id": 14559,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ketika bangkit orang yang paling celaka di antara mereka,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

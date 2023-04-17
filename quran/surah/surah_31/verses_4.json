@@ -1,0 +1,110 @@
+{
+  "id": 3473,
+  "chapter_id": 31,
+  "verse_key": "31:4",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "ruku_number": 356,
+  "manzil_number": 5,
+  "page_number": 411,
+  "juz_number": 21,
+  "text_uthmani": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلْـَٔاخِرَةِ هُمْ يُوقِنُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3473.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3473.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3473.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3473.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3473.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3473.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3473.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3473.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3473.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3473.mp3"
+  },
+  "words": [
+    {
+      "id": 4389,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_004_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 4390,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_004_002.mp3",
+      "text": "يُقِيمُونَ",
+      "translation": "mereka mendirikan",
+      "transliteration": "yuqīmūna"
+    },
+    {
+      "id": 4391,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_004_003.mp3",
+      "text": "ٱلصَّلَوٰةَ",
+      "translation": "sholat",
+      "transliteration": "l-ṣalata"
+    },
+    {
+      "id": 4392,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_004_004.mp3",
+      "text": "وَيُؤْتُونَ",
+      "translation": "dan mereka menunaikan",
+      "transliteration": "wayu'tūna"
+    },
+    {
+      "id": 4393,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_004_005.mp3",
+      "text": "ٱلزَّكَوٰةَ",
+      "translation": "zakat",
+      "transliteration": "l-zakata"
+    },
+    {
+      "id": 4394,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_004_006.mp3",
+      "text": "وَهُم",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 4395,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_004_007.mp3",
+      "text": "بِٱلْـَٔاخِرَةِ",
+      "translation": "pada akhirat",
+      "transliteration": "bil-ākhirati"
+    },
+    {
+      "id": 4396,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_004_008.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 4397,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_004_009.mp3",
+      "text": "يُوقِنُونَ",
+      "translation": "mereka meyakini",
+      "transliteration": "yūqinūna"
+    },
+    {
+      "id": 4398,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang mendirikan salat, menunaikan zakat, dan mereka yakin akan adanya negeri akhirat.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

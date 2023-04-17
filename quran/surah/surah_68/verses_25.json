@@ -1,0 +1,70 @@
+{
+  "id": 5296,
+  "chapter_id": 68,
+  "verse_key": "68:25",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "وَغَدَوْا۟ عَلَىٰ حَرْدٍ قَـٰدِرِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5296.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5296.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5296.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5296.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5296.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5296.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5296.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5296.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5296.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5296.mp3"
+  },
+  "words": [
+    {
+      "id": 28445,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_025_001.mp3",
+      "text": "وَغَدَوْا۟",
+      "translation": "dan mereka pergi pagi-pagi",
+      "transliteration": "waghadaw"
+    },
+    {
+      "id": 28446,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_025_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 28447,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_025_003.mp3",
+      "text": "حَرْدٍۢ",
+      "translation": "mencegah/menghalangi",
+      "transliteration": "ḥardin"
+    },
+    {
+      "id": 28448,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_025_004.mp3",
+      "text": "قَـٰدِرِينَ",
+      "translation": "orang-orang yang mampu",
+      "transliteration": "qādirīna"
+    },
+    {
+      "id": 28449,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan berangkatlah mereka di pagi hari dengan niat menghalangi (orang-orang miskin) padahal mereka mampu (menolongnya).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

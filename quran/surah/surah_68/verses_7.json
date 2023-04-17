@@ -1,0 +1,126 @@
+{
+  "id": 5278,
+  "chapter_id": 68,
+  "verse_key": "68:7",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5278.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5278.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5278.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5278.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5278.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5278.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5278.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5278.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5278.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5278.mp3"
+  },
+  "words": [
+    {
+      "id": 7876,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 7877,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 7878,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_003.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 7879,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_004.mp3",
+      "text": "أَعْلَمُ",
+      "translation": "lebih mengetahui",
+      "transliteration": "aʿlamu"
+    },
+    {
+      "id": 7880,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_005.mp3",
+      "text": "بِمَن",
+      "translation": "pada siapa",
+      "transliteration": "biman"
+    },
+    {
+      "id": 7881,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_006.mp3",
+      "text": "ضَلَّ",
+      "translation": "ia sesat",
+      "transliteration": "ḍalla"
+    },
+    {
+      "id": 7882,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_007.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 7883,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_008.mp3",
+      "text": "سَبِيلِهِۦ",
+      "translation": "jalan-Nya",
+      "transliteration": "sabīlihi"
+    },
+    {
+      "id": 7884,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_009.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 7885,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_010.mp3",
+      "text": "أَعْلَمُ",
+      "translation": "lebih mengetahui",
+      "transliteration": "aʿlamu"
+    },
+    {
+      "id": 7886,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_007_011.mp3",
+      "text": "بِٱلْمُهْتَدِينَ",
+      "translation": "terhadap orang-orang yang mendapat petunjuk",
+      "transliteration": "bil-muh'tadīna"
+    },
+    {
+      "id": 7887,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Tuhan-mu, Dia-lah yang paling mengetahui siapa yang sesat dari jalan-Nya; dan Dia-lah yang paling mengetahui orang-orang yang mendapat petunjuk.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

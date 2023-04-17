@@ -1,0 +1,62 @@
+{
+  "id": 3070,
+  "chapter_id": 26,
+  "verse_key": "26:138",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 322,
+  "manzil_number": 5,
+  "page_number": 373,
+  "juz_number": 19,
+  "text_uthmani": "وَمَا نَحْنُ بِمُعَذَّبِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3070.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3070.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3070.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3070.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3070.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3070.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3070.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3070.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3070.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3070.mp3"
+  },
+  "words": [
+    {
+      "id": 78888,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_138_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 78889,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_138_002.mp3",
+      "text": "نَحْنُ",
+      "translation": "kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 78890,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_138_003.mp3",
+      "text": "بِمُعَذَّبِينَ",
+      "translation": "dengan orang-orang yang diazab",
+      "transliteration": "bimuʿadhabīna"
+    },
+    {
+      "id": 78891,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٣٨",
+      "translation": "(138)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kami sekali-kali tidak akan di \"azab\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

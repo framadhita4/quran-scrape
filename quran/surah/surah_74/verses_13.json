@@ -1,0 +1,54 @@
+{
+  "id": 5508,
+  "chapter_id": 74,
+  "verse_key": "74:13",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "وَبَنِينَ شُهُودًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5508.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5508.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5508.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5508.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5508.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5508.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5508.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5508.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5508.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5508.mp3"
+  },
+  "words": [
+    {
+      "id": 15267,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_013_001.mp3",
+      "text": "وَبَنِينَ",
+      "translation": "dan anak-anak",
+      "transliteration": "wabanīna"
+    },
+    {
+      "id": 15268,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_013_002.mp3",
+      "text": "شُهُودًۭا",
+      "translation": "saksi-saksi/hadir",
+      "transliteration": "shuhūdan"
+    },
+    {
+      "id": 15269,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan anak-anak yang selalu bersama dia,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": 73,
+  "chapter_id": 2,
+  "verse_key": "2:66",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "ruku_number": 9,
+  "manzil_number": 1,
+  "page_number": 10,
+  "juz_number": 1,
+  "text_uthmani": "فَجَعَلْنَـٰهَا نَكَـٰلًا لِّمَا بَيْنَ يَدَيْهَا وَمَا خَلْفَهَا وَمَوْعِظَةً لِّلْمُتَّقِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/73.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/73.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/73.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/73.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/73.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/73.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/73.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/73.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/73.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/73.mp3"
+  },
+  "words": [
+    {
+      "id": 57702,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_066_001.mp3",
+      "text": "فَجَعَلْنَـٰهَا",
+      "translation": "maka Kami jadikannya",
+      "transliteration": "fajaʿalnāhā"
+    },
+    {
+      "id": 57703,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_066_002.mp3",
+      "text": "نَكَـٰلًۭا",
+      "translation": "peringatan",
+      "transliteration": "nakālan"
+    },
+    {
+      "id": 57704,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_066_003.mp3",
+      "text": "لِّمَا",
+      "translation": "bagi apa",
+      "transliteration": "limā"
+    },
+    {
+      "id": 57705,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_066_004.mp3",
+      "text": "بَيْنَ",
+      "translation": "diantara",
+      "transliteration": "bayna"
+    },
+    {
+      "id": 57706,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_066_005.mp3",
+      "text": "يَدَيْهَا",
+      "translation": "dua tangannya",
+      "transliteration": "yadayhā"
+    },
+    {
+      "id": 57707,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_066_006.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 57708,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_066_007.mp3",
+      "text": "خَلْفَهَا",
+      "translation": "dibelakangnya/kemudian",
+      "transliteration": "khalfahā"
+    },
+    {
+      "id": 57709,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_066_008.mp3",
+      "text": "وَمَوْعِظَةًۭ",
+      "translation": "dan pelajaran",
+      "transliteration": "wamawʿiẓatan"
+    },
+    {
+      "id": 57710,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_066_009.mp3",
+      "text": "لِّلْمُتَّقِينَ",
+      "translation": "bagi orang-orang yang bertakwa",
+      "transliteration": "lil'muttaqīna"
+    },
+    {
+      "id": 57711,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٦٦",
+      "translation": "(66)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Kami jadikan yang demikian itu peringatan bagi orang-orang dimasa itu, dan bagi mereka yang datang kemudian, serta menjadi pelajaran bagi orang-orang yang bertakwa.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

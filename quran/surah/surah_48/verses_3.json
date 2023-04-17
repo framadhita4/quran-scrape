@@ -1,0 +1,70 @@
+{
+  "id": 4586,
+  "chapter_id": 48,
+  "verse_key": "48:3",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "ruku_number": 448,
+  "manzil_number": 6,
+  "page_number": 511,
+  "juz_number": 26,
+  "text_uthmani": "وَيَنصُرَكَ ٱللَّهُ نَصْرًا عَزِيزًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4586.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4586.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4586.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4586.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4586.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4586.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4586.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4586.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4586.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4586.mp3"
+  },
+  "words": [
+    {
+      "id": 2152,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_003_001.mp3",
+      "text": "وَيَنصُرَكَ",
+      "translation": "dan akan menolong kamu",
+      "transliteration": "wayanṣuraka"
+    },
+    {
+      "id": 2153,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_003_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 2154,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_003_003.mp3",
+      "text": "نَصْرًا",
+      "translation": "pertolongan",
+      "transliteration": "naṣran"
+    },
+    {
+      "id": 2155,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/048_003_004.mp3",
+      "text": "عَزِيزًا",
+      "translation": "kuat",
+      "transliteration": "ʿazīzan"
+    },
+    {
+      "id": 2156,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan supaya Allah menolongmu dengan pertolongan yang kuat (banyak).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 3081,
+  "chapter_id": 26,
+  "verse_key": "26:149",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 323,
+  "manzil_number": 5,
+  "page_number": 373,
+  "juz_number": 19,
+  "text_uthmani": "وَتَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا فَـٰرِهِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3081.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3081.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3081.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3081.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3081.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3081.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3081.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3081.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3081.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3081.mp3"
+  },
+  "words": [
+    {
+      "id": 80353,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_149_001.mp3",
+      "text": "وَتَنْحِتُونَ",
+      "translation": "dan kamu memahat",
+      "transliteration": "watanḥitūna"
+    },
+    {
+      "id": 80354,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_149_002.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 80355,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_149_003.mp3",
+      "text": "ٱلْجِبَالِ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibāli"
+    },
+    {
+      "id": 80356,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_149_004.mp3",
+      "text": "بُيُوتًۭا",
+      "translation": "rumah-rumah",
+      "transliteration": "buyūtan"
+    },
+    {
+      "id": 80357,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_149_005.mp3",
+      "text": "فَـٰرِهِينَ",
+      "translation": "dengan rajin",
+      "transliteration": "fārihīna"
+    },
+    {
+      "id": 80358,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٤٩",
+      "translation": "(149)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kamu pahat sebagian dari gunung-gunung untuk dijadikan rumah-rumah dengan rajin;",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

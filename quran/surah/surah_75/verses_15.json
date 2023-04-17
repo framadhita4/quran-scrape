@@ -1,0 +1,62 @@
+{
+  "id": 5566,
+  "chapter_id": 75,
+  "verse_key": "75:15",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُۥ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5566.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5566.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5566.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5566.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5566.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5566.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5566.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5566.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5566.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5566.mp3"
+  },
+  "words": [
+    {
+      "id": 17471,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_015_001.mp3",
+      "text": "وَلَوْ",
+      "translation": "walaupun/meskipun",
+      "transliteration": "walaw"
+    },
+    {
+      "id": 17472,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_015_002.mp3",
+      "text": "أَلْقَىٰ",
+      "translation": "dia lemparkan/kemukakan",
+      "transliteration": "alqā"
+    },
+    {
+      "id": 17473,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_015_003.mp3",
+      "text": "مَعَاذِيرَهُۥ",
+      "translation": "uzurnya/alasan-alasannya",
+      "transliteration": "maʿādhīrahu"
+    },
+    {
+      "id": 17474,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "meskipun dia mengemukakan alasan-alasannya.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

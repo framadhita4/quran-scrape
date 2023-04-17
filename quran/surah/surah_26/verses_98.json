@@ -1,0 +1,70 @@
+{
+  "id": 3030,
+  "chapter_id": 26,
+  "verse_key": "26:98",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "إِذْ نُسَوِّيكُم بِرَبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3030.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3030.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3030.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3030.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3030.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3030.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3030.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3030.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3030.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3030.mp3"
+  },
+  "words": [
+    {
+      "id": 70720,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_098_001.mp3",
+      "text": "إِذْ",
+      "translation": "apabila",
+      "transliteration": "idh"
+    },
+    {
+      "id": 70721,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_098_002.mp3",
+      "text": "نُسَوِّيكُم",
+      "translation": "kita mempersamakan kamu",
+      "transliteration": "nusawwīkum"
+    },
+    {
+      "id": 70722,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_098_003.mp3",
+      "text": "بِرَبِّ",
+      "translation": "dengan Tuhan",
+      "transliteration": "birabbi"
+    },
+    {
+      "id": 70723,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_098_004.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 70724,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٩٨",
+      "translation": "(98)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "karena kita mempersamakan kamu dengan Tuhan semesta alam\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

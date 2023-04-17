@@ -1,0 +1,78 @@
+{
+  "id": 4472,
+  "chapter_id": 44,
+  "verse_key": "44:58",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 435,
+  "manzil_number": 6,
+  "page_number": 498,
+  "juz_number": 25,
+  "text_uthmani": "فَإِنَّمَا يَسَّرْنَـٰهُ بِلِسَانِكَ لَعَلَّهُمْ يَتَذَكَّرُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4472.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4472.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4472.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4472.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4472.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4472.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4472.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4472.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4472.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4472.mp3"
+  },
+  "words": [
+    {
+      "id": 53246,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_058_001.mp3",
+      "text": "فَإِنَّمَا",
+      "translation": "maka sesungguhnya",
+      "transliteration": "fa-innamā"
+    },
+    {
+      "id": 53247,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_058_002.mp3",
+      "text": "يَسَّرْنَـٰهُ",
+      "translation": "Kami mudahkannya",
+      "transliteration": "yassarnāhu"
+    },
+    {
+      "id": 53248,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_058_003.mp3",
+      "text": "بِلِسَانِكَ",
+      "translation": "dengan lisan/bahasamu",
+      "transliteration": "bilisānika"
+    },
+    {
+      "id": 53249,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_058_004.mp3",
+      "text": "لَعَلَّهُمْ",
+      "translation": "supaya mereka",
+      "transliteration": "laʿallahum"
+    },
+    {
+      "id": 53250,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_058_005.mp3",
+      "text": "يَتَذَكَّرُونَ",
+      "translation": "mereka mendapat pelajaran",
+      "transliteration": "yatadhakkarūna"
+    },
+    {
+      "id": 53251,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٥٨",
+      "translation": "(58)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya, Kami mudahkan Al-Qur`ān itu dengan bahasamu supaya mereka mendapat pelajaran.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": 2215,
+  "chapter_id": 18,
+  "verse_key": "18:75",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "ruku_number": 261,
+  "manzil_number": 4,
+  "page_number": 302,
+  "juz_number": 16,
+  "text_uthmani": "۞ قَالَ أَلَمْ أَقُل لَّكَ إِنَّكَ لَن تَسْتَطِيعَ مَعِىَ صَبْرًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2215.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2215.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2215.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2215.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2215.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2215.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2215.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2215.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2215.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2215.mp3"
+  },
+  "words": [
+    {
+      "id": 62314,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_075_002.mp3",
+      "text": "۞ قَالَ",
+      "translation": "(Khaidir) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 62315,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_075_003.mp3",
+      "text": "أَلَمْ",
+      "translation": "tidakkah/bukankah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 62316,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_075_004.mp3",
+      "text": "أَقُل",
+      "translation": "aku katakan",
+      "transliteration": "aqul"
+    },
+    {
+      "id": 62317,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_075_005.mp3",
+      "text": "لَّكَ",
+      "translation": "kepadamu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 62318,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_075_006.mp3",
+      "text": "إِنَّكَ",
+      "translation": "sesungguhnya kamu",
+      "transliteration": "innaka"
+    },
+    {
+      "id": 62319,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_075_007.mp3",
+      "text": "لَن",
+      "translation": "tidak",
+      "transliteration": "lan"
+    },
+    {
+      "id": 62320,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_075_008.mp3",
+      "text": "تَسْتَطِيعَ",
+      "translation": "kamu sanggup/dapat",
+      "transliteration": "tastaṭīʿa"
+    },
+    {
+      "id": 62321,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_075_009.mp3",
+      "text": "مَعِىَ",
+      "translation": "bersamaku",
+      "transliteration": "maʿiya"
+    },
+    {
+      "id": 62322,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_075_010.mp3",
+      "text": "صَبْرًۭا",
+      "translation": "bersabar",
+      "transliteration": "ṣabran"
+    },
+    {
+      "id": 62323,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٧٥",
+      "translation": "(75)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Khidhr berkata, \"Bukankah sudah kukatakan kepadamu, bahwa sesungguhnya kamu tidak akan dapat sabar bersamaku?\"",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

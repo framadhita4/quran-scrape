@@ -1,0 +1,70 @@
+{
+  "id": 1779,
+  "chapter_id": 14,
+  "verse_key": "14:29",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "ruku_number": 215,
+  "manzil_number": 3,
+  "page_number": 259,
+  "juz_number": 13,
+  "text_uthmani": "جَهَنَّمَ يَصْلَوْنَهَا ۖ وَبِئْسَ ٱلْقَرَارُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1779.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1779.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1779.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1779.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1779.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1779.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1779.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1779.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1779.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1779.mp3"
+  },
+  "words": [
+    {
+      "id": 32286,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_029_001.mp3",
+      "text": "جَهَنَّمَ",
+      "translation": "neraka jahanam",
+      "transliteration": "jahannama"
+    },
+    {
+      "id": 32287,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_029_002.mp3",
+      "text": "يَصْلَوْنَهَا ۖ",
+      "translation": "mereka memasukinya",
+      "transliteration": "yaṣlawnahā"
+    },
+    {
+      "id": 32289,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_029_004.mp3",
+      "text": "وَبِئْسَ",
+      "translation": "dan seburuk-buruk",
+      "transliteration": "wabi'sa"
+    },
+    {
+      "id": 32290,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_029_005.mp3",
+      "text": "ٱلْقَرَارُ",
+      "translation": "tempat ketetapan/kediaman",
+      "transliteration": "l-qarāru"
+    },
+    {
+      "id": 32291,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yaitu neraka jahanam; mereka masuk ke dalamnya; dan itulah seburuk-buruk tempat kediaman.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

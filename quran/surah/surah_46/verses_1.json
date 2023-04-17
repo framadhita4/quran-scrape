@@ -1,0 +1,46 @@
+{
+  "id": 4511,
+  "chapter_id": 46,
+  "verse_key": "46:1",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "ruku_number": 440,
+  "manzil_number": 6,
+  "page_number": 502,
+  "juz_number": 26,
+  "text_uthmani": " حمٓ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4511.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4511.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4511.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4511.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4511.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4511.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4511.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4511.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4511.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4511.mp3"
+  },
+  "words": [
+    {
+      "id": 175,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/046_001_001.mp3",
+      "text": "حمٓ",
+      "translation": "Haa Miim",
+      "transliteration": "hha-meem"
+    },
+    {
+      "id": 176,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ῌā Mīm<sup foot_note=211155>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

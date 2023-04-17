@@ -1,0 +1,78 @@
+{
+  "id": 3017,
+  "chapter_id": 26,
+  "verse_key": "26:85",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "وَٱجْعَلْنِى مِن وَرَثَةِ جَنَّةِ ٱلنَّعِيمِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3017.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3017.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3017.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3017.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3017.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3017.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3017.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3017.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3017.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3017.mp3"
+  },
+  "words": [
+    {
+      "id": 66304,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_085_001.mp3",
+      "text": "وَٱجْعَلْنِى",
+      "translation": "dan jadikanlah aku",
+      "transliteration": "wa-ij'ʿalnī"
+    },
+    {
+      "id": 66305,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_085_002.mp3",
+      "text": "مِن",
+      "translation": "dari/termasuk",
+      "transliteration": "min"
+    },
+    {
+      "id": 66306,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_085_003.mp3",
+      "text": "وَرَثَةِ",
+      "translation": "yang mewarisi",
+      "transliteration": "warathati"
+    },
+    {
+      "id": 66307,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_085_004.mp3",
+      "text": "جَنَّةِ",
+      "translation": "surga",
+      "transliteration": "jannati"
+    },
+    {
+      "id": 66308,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_085_005.mp3",
+      "text": "ٱلنَّعِيمِ",
+      "translation": "penuh kenikmatan",
+      "transliteration": "l-naʿīmi"
+    },
+    {
+      "id": 66309,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٨٥",
+      "translation": "(85)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan jadikanlah aku termasuk orang-orang yang mempusakai surga yang penuh kenikmatan,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

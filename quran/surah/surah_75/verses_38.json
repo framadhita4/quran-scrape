@@ -1,0 +1,78 @@
+{
+  "id": 5589,
+  "chapter_id": 75,
+  "verse_key": "75:38",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 515,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5589.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5589.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5589.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5589.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5589.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5589.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5589.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5589.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5589.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5589.mp3"
+  },
+  "words": [
+    {
+      "id": 39857,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_038_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 39858,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_038_002.mp3",
+      "text": "كَانَ",
+      "translation": "adalah dia",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 39859,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_038_003.mp3",
+      "text": "عَلَقَةًۭ",
+      "translation": "segumpal darah",
+      "transliteration": "ʿalaqatan"
+    },
+    {
+      "id": 39860,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_038_004.mp3",
+      "text": "فَخَلَقَ",
+      "translation": "lalu Dia ciptakan",
+      "transliteration": "fakhalaqa"
+    },
+    {
+      "id": 39861,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_038_005.mp3",
+      "text": "فَسَوَّىٰ",
+      "translation": "lalu Dia sempurnakan",
+      "transliteration": "fasawwā"
+    },
+    {
+      "id": 39862,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian mani itu menjadi segumpal darah, lalu Allah menciptakannya, dan menyempurnakannya,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

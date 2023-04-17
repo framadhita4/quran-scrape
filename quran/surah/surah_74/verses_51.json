@@ -1,0 +1,62 @@
+{
+  "id": 5546,
+  "chapter_id": 74,
+  "verse_key": "74:51",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "فَرَّتْ مِن قَسْوَرَةٍۭ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5546.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5546.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5546.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5546.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5546.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5546.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5546.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5546.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5546.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5546.mp3"
+  },
+  "words": [
+    {
+      "id": 49281,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_051_001.mp3",
+      "text": "فَرَّتْ",
+      "translation": "ia lari",
+      "transliteration": "farrat"
+    },
+    {
+      "id": 49282,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_051_002.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 49283,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_051_003.mp3",
+      "text": "قَسْوَرَةٍۭ",
+      "translation": "singa",
+      "transliteration": "qaswaratin"
+    },
+    {
+      "id": 49284,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥١",
+      "translation": "(51)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lari daripada singa.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

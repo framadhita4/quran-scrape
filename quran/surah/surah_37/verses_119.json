@@ -1,0 +1,70 @@
+{
+  "id": 3907,
+  "chapter_id": 37,
+  "verse_key": "37:119",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "وَتَرَكْنَا عَلَيْهِمَا فِى ٱلْـَٔاخِرِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3907.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3907.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3907.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3907.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3907.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3907.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3907.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3907.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3907.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3907.mp3"
+  },
+  "words": [
+    {
+      "id": 76142,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_119_001.mp3",
+      "text": "وَتَرَكْنَا",
+      "translation": "dan Kami tinggalkan",
+      "transliteration": "wataraknā"
+    },
+    {
+      "id": 76143,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_119_002.mp3",
+      "text": "عَلَيْهِمَا",
+      "translation": "atas keduanya",
+      "transliteration": "ʿalayhimā"
+    },
+    {
+      "id": 76144,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_119_003.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 76145,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_119_004.mp3",
+      "text": "ٱلْـَٔاخِرِينَ",
+      "translation": "orang-orang kemudian",
+      "transliteration": "l-ākhirīna"
+    },
+    {
+      "id": 76146,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١١٩",
+      "translation": "(119)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami abadikan untuk keduanya (pujian yang baik) di kalangan orang-orang yang datang kemudian;",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

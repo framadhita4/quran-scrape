@@ -1,0 +1,78 @@
+{
+  "id": 3939,
+  "chapter_id": 37,
+  "verse_key": "37:151",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "أَلَآ إِنَّهُم مِّنْ إِفْكِهِمْ لَيَقُولُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3939.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3939.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3939.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3939.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3939.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3939.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3939.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3939.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3939.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3939.mp3"
+  },
+  "words": [
+    {
+      "id": 80507,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_151_001.mp3",
+      "text": "أَلَآ",
+      "translation": "ingatlah/ketahuilah",
+      "transliteration": "alā"
+    },
+    {
+      "id": 80508,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_151_002.mp3",
+      "text": "إِنَّهُم",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 80509,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_151_003.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 80510,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_151_004.mp3",
+      "text": "إِفْكِهِمْ",
+      "translation": "kebohongan mereka",
+      "transliteration": "if'kihim"
+    },
+    {
+      "id": 80511,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_151_005.mp3",
+      "text": "لَيَقُولُونَ",
+      "translation": "benar-benar mereka mengatakan",
+      "transliteration": "layaqūlūna"
+    },
+    {
+      "id": 80512,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٥١",
+      "translation": "(151)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ketahuilah bahwa sesungguhnya mereka dengan kebohongannya benar-benar mengatakan,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 2689,
+  "chapter_id": 23,
+  "verse_key": "23:16",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 295,
+  "manzil_number": 4,
+  "page_number": 342,
+  "juz_number": 18,
+  "text_uthmani": "ثُمَّ إِنَّكُمْ يَوْمَ ٱلْقِيَـٰمَةِ تُبْعَثُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2689.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2689.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2689.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2689.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2689.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2689.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2689.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2689.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2689.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2689.mp3"
+  },
+  "words": [
+    {
+      "id": 18527,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_016_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 18528,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_016_002.mp3",
+      "text": "إِنَّكُمْ",
+      "translation": "sesungguhnya kalian",
+      "transliteration": "innakum"
+    },
+    {
+      "id": 18529,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_016_003.mp3",
+      "text": "يَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 18530,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_016_004.mp3",
+      "text": "ٱلْقِيَـٰمَةِ",
+      "translation": "kiamat",
+      "transliteration": "l-qiyāmati"
+    },
+    {
+      "id": 18531,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_016_005.mp3",
+      "text": "تُبْعَثُونَ",
+      "translation": "kamu akan dibangkitkan",
+      "transliteration": "tub'ʿathūna"
+    },
+    {
+      "id": 18532,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, sesungguhnya kamu sekalian akan dibangkitkan (dari kuburmu) pada hari kiamat.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

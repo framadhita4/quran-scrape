@@ -1,0 +1,46 @@
+{
+  "id": 4326,
+  "chapter_id": 43,
+  "verse_key": "43:1",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "ruku_number": 426,
+  "manzil_number": 6,
+  "page_number": 489,
+  "juz_number": 25,
+  "text_uthmani": " حمٓ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4326.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4326.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4326.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4326.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4326.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4326.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4326.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4326.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4326.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4326.mp3"
+  },
+  "words": [
+    {
+      "id": 135,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_001_001.mp3",
+      "text": "حمٓ",
+      "translation": "Haa Miim",
+      "transliteration": "hha-meem"
+    },
+    {
+      "id": 136,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ḥā  Mīm <sup foot_note=211118>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

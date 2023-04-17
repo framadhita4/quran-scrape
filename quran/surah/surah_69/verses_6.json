@@ -1,0 +1,86 @@
+{
+  "id": 5329,
+  "chapter_id": 69,
+  "verse_key": "69:6",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 566,
+  "juz_number": 29,
+  "text_uthmani": "وَأَمَّا عَادٌ فَأُهْلِكُوا۟ بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5329.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5329.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5329.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5329.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5329.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5329.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5329.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5329.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5329.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5329.mp3"
+  },
+  "words": [
+    {
+      "id": 6487,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_006_001.mp3",
+      "text": "وَأَمَّا",
+      "translation": "dan adapun",
+      "transliteration": "wa-ammā"
+    },
+    {
+      "id": 6488,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_006_002.mp3",
+      "text": "عَادٌۭ",
+      "translation": "kaum 'Ad",
+      "transliteration": "ʿādun"
+    },
+    {
+      "id": 6489,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_006_003.mp3",
+      "text": "فَأُهْلِكُوا۟",
+      "translation": "maka mereka dibinasakan",
+      "transliteration": "fa-uh'likū"
+    },
+    {
+      "id": 6490,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_006_004.mp3",
+      "text": "بِرِيحٍۢ",
+      "translation": "dengan angin",
+      "transliteration": "birīḥin"
+    },
+    {
+      "id": 6491,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_006_005.mp3",
+      "text": "صَرْصَرٍ",
+      "translation": "sangat dingin",
+      "transliteration": "ṣarṣarin"
+    },
+    {
+      "id": 6492,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_006_006.mp3",
+      "text": "عَاتِيَةٍۢ",
+      "translation": "amat kencang",
+      "transliteration": "ʿātiyatin"
+    },
+    {
+      "id": 6493,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Adapun kaum ʻĀd maka mereka telah dibinasakan dengan angin yang sangat dingin lagi amat kencang,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

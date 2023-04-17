@@ -1,0 +1,70 @@
+{
+  "id": 3883,
+  "chapter_id": 37,
+  "verse_key": "37:95",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "قَالَ أَتَعْبُدُونَ مَا تَنْحِتُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3883.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3883.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3883.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3883.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3883.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3883.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3883.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3883.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3883.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3883.mp3"
+  },
+  "words": [
+    {
+      "id": 69958,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_095_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Ibrahim) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 69959,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_095_002.mp3",
+      "text": "أَتَعْبُدُونَ",
+      "translation": "apakah kamu menyembah",
+      "transliteration": "ataʿbudūna"
+    },
+    {
+      "id": 69960,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_095_003.mp3",
+      "text": "مَا",
+      "translation": "apa (patung)",
+      "transliteration": "mā"
+    },
+    {
+      "id": 69961,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_095_004.mp3",
+      "text": "تَنْحِتُونَ",
+      "translation": "kamu pahat",
+      "transliteration": "tanḥitūna"
+    },
+    {
+      "id": 69962,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٩٥",
+      "translation": "(95)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ibrāhīm berkata, \"Apakah kamu menyembah patung-patung yang kamu pahat itu?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

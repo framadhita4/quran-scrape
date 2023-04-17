@@ -1,0 +1,70 @@
+{
+  "id": 4824,
+  "chapter_id": 53,
+  "verse_key": "53:40",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 527,
+  "juz_number": 27,
+  "text_uthmani": "وَأَنَّ سَعْيَهُۥ سَوْفَ يُرَىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4824.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4824.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4824.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4824.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4824.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4824.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4824.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4824.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4824.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4824.mp3"
+  },
+  "words": [
+    {
+      "id": 41115,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_040_001.mp3",
+      "text": "وَأَنَّ",
+      "translation": "dan bahwasanya",
+      "transliteration": "wa-anna"
+    },
+    {
+      "id": 41116,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_040_002.mp3",
+      "text": "سَعْيَهُۥ",
+      "translation": "usahanya",
+      "transliteration": "saʿyahu"
+    },
+    {
+      "id": 41117,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_040_003.mp3",
+      "text": "سَوْفَ",
+      "translation": "kelak",
+      "transliteration": "sawfa"
+    },
+    {
+      "id": 41118,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_040_004.mp3",
+      "text": "يُرَىٰ",
+      "translation": "diperlihatkan",
+      "transliteration": "yurā"
+    },
+    {
+      "id": 41119,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bahwasanya usaha itu kelak akan diperlihatkan (kepadanya).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

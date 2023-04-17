@@ -1,0 +1,78 @@
+{
+  "id": 5854,
+  "chapter_id": 83,
+  "verse_key": "83:6",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "يَوْمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلْعَـٰلَمِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5854.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5854.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5854.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5854.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5854.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5854.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5854.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5854.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5854.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5854.mp3"
+  },
+  "words": [
+    {
+      "id": 6714,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_006_001.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 6715,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_006_002.mp3",
+      "text": "يَقُومُ",
+      "translation": "wahai kaumku",
+      "transliteration": "yaqūmu"
+    },
+    {
+      "id": 6716,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_006_003.mp3",
+      "text": "ٱلنَّاسُ",
+      "translation": "manusia",
+      "transliteration": "l-nāsu"
+    },
+    {
+      "id": 6717,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_006_004.mp3",
+      "text": "لِرَبِّ",
+      "translation": "kapada Tuhan/Pemelihara",
+      "transliteration": "lirabbi"
+    },
+    {
+      "id": 6718,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_006_005.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 6719,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) hari (ketika) manusia berdiri menghadap Tuhan semesta alam?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": 1563,
+  "chapter_id": 11,
+  "verse_key": "11:90",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "ruku_number": 190,
+  "manzil_number": 3,
+  "page_number": 232,
+  "juz_number": 12,
+  "text_uthmani": "وَٱسْتَغْفِرُوا۟ رَبَّكُمْ ثُمَّ تُوبُوٓا۟ إِلَيْهِ ۚ إِنَّ رَبِّى رَحِيمٌ وَدُودٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1563.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1563.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1563.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1563.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1563.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1563.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1563.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1563.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1563.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1563.mp3"
+  },
+  "words": [
+    {
+      "id": 68205,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_090_001.mp3",
+      "text": "وَٱسْتَغْفِرُوا۟",
+      "translation": "dan mohonlah ampun",
+      "transliteration": "wa-is'taghfirū"
+    },
+    {
+      "id": 68206,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_090_002.mp3",
+      "text": "رَبَّكُمْ",
+      "translation": "Tuhan kalian",
+      "transliteration": "rabbakum"
+    },
+    {
+      "id": 68207,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_090_003.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 68208,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_090_004.mp3",
+      "text": "تُوبُوٓا۟",
+      "translation": "bertaubatlah kamu",
+      "transliteration": "tūbū"
+    },
+    {
+      "id": 68209,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_090_005.mp3",
+      "text": "إِلَيْهِ ۚ",
+      "translation": "kepadaNya",
+      "transliteration": "ilayhi"
+    },
+    {
+      "id": 68211,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_090_007.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 68212,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_090_008.mp3",
+      "text": "رَبِّى",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 68213,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_090_009.mp3",
+      "text": "رَحِيمٌۭ",
+      "translation": "Maha Penyayang",
+      "transliteration": "raḥīmun"
+    },
+    {
+      "id": 68214,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_090_010.mp3",
+      "text": "وَدُودٌۭ",
+      "translation": "Maha Pengasih",
+      "transliteration": "wadūdun"
+    },
+    {
+      "id": 68215,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٩٠",
+      "translation": "(90)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mohonlah ampun kepada Tuhan-mu kemudian bertobatlah kepada-Nya. Sesungguhnya Tuhan-ku Maha Penyayang lagi Maha Pengasih.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

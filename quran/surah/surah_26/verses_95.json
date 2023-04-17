@@ -1,0 +1,62 @@
+{
+  "id": 3027,
+  "chapter_id": 26,
+  "verse_key": "26:95",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "وَجُنُودُ إِبْلِيسَ أَجْمَعُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3027.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3027.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3027.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3027.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3027.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3027.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3027.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3027.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3027.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3027.mp3"
+  },
+  "words": [
+    {
+      "id": 69954,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_095_001.mp3",
+      "text": "وَجُنُودُ",
+      "translation": "dan bala tentara",
+      "transliteration": "wajunūdu"
+    },
+    {
+      "id": 69955,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_095_002.mp3",
+      "text": "إِبْلِيسَ",
+      "translation": "iblis",
+      "transliteration": "ib'līsa"
+    },
+    {
+      "id": 69956,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_095_003.mp3",
+      "text": "أَجْمَعُونَ",
+      "translation": "semuanya",
+      "transliteration": "ajmaʿūna"
+    },
+    {
+      "id": 69957,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٩٥",
+      "translation": "(95)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bala tentara iblis semuanya.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 5875,
+  "chapter_id": 83,
+  "verse_key": "83:27",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "وَمِزَاجُهُۥ مِن تَسْنِيمٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5875.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5875.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5875.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5875.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5875.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5875.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5875.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5875.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5875.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5875.mp3"
+  },
+  "words": [
+    {
+      "id": 30018,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_027_001.mp3",
+      "text": "وَمِزَاجُهُۥ",
+      "translation": "dan campurannya",
+      "transliteration": "wamizājuhu"
+    },
+    {
+      "id": 30019,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_027_002.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 30020,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_027_003.mp3",
+      "text": "تَسْنِيمٍ",
+      "translation": "tasnim",
+      "transliteration": "tasnīmin"
+    },
+    {
+      "id": 30021,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan campuran khamar murni itu adalah dari Tasnīm,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

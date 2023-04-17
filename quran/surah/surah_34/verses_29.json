@@ -1,0 +1,94 @@
+{
+  "id": 3635,
+  "chapter_id": 34,
+  "verse_key": "34:29",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "ruku_number": 374,
+  "manzil_number": 5,
+  "page_number": 431,
+  "juz_number": 22,
+  "text_uthmani": "وَيَقُولُونَ مَتَىٰ هَـٰذَا ٱلْوَعْدُ إِن كُنتُمْ صَـٰدِقِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3635.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3635.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3635.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3635.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3635.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3635.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3635.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3635.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3635.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3635.mp3"
+  },
+  "words": [
+    {
+      "id": 32299,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_029_001.mp3",
+      "text": "وَيَقُولُونَ",
+      "translation": "dan mereka berkata",
+      "transliteration": "wayaqūlūna"
+    },
+    {
+      "id": 32300,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_029_002.mp3",
+      "text": "مَتَىٰ",
+      "translation": "kapankah",
+      "transliteration": "matā"
+    },
+    {
+      "id": 32301,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_029_003.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 32302,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_029_004.mp3",
+      "text": "ٱلْوَعْدُ",
+      "translation": "janji",
+      "transliteration": "l-waʿdu"
+    },
+    {
+      "id": 32303,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_029_005.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 32304,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_029_006.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 32305,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/034_029_007.mp3",
+      "text": "صَـٰدِقِينَ",
+      "translation": "orang-orang yang benar",
+      "transliteration": "ṣādiqīna"
+    },
+    {
+      "id": 32306,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka berkata, \"Kapankah (datangnya) janji ini, jika kamu adalah orang-orang yang benar?\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

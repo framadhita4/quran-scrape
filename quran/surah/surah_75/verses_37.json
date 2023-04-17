@@ -1,0 +1,86 @@
+{
+  "id": 5588,
+  "chapter_id": 75,
+  "verse_key": "75:37",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 515,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "أَلَمْ يَكُ نُطْفَةً مِّن مَّنِىٍّ يُمْنَىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5588.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5588.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5588.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5588.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5588.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5588.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5588.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5588.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5588.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5588.mp3"
+  },
+  "words": [
+    {
+      "id": 39018,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_037_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "bukankah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 39019,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_037_002.mp3",
+      "text": "يَكُ",
+      "translation": "ia adalah",
+      "transliteration": "yaku"
+    },
+    {
+      "id": 39020,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_037_003.mp3",
+      "text": "نُطْفَةًۭ",
+      "translation": "setetes",
+      "transliteration": "nuṭ'fatan"
+    },
+    {
+      "id": 39021,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_037_004.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 39022,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_037_005.mp3",
+      "text": "مَّنِىٍّۢ",
+      "translation": "air mani",
+      "transliteration": "maniyyin"
+    },
+    {
+      "id": 39023,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_037_006.mp3",
+      "text": "يُمْنَىٰ",
+      "translation": "ditumpahkan",
+      "transliteration": "yum'nā"
+    },
+    {
+      "id": 39024,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukankah dia dahulu setetes mani yang ditumpahkan (ke dalam rahim),",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

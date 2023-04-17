@@ -1,0 +1,142 @@
+{
+  "id": 1552,
+  "chapter_id": 11,
+  "verse_key": "11:79",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "ruku_number": 189,
+  "manzil_number": 3,
+  "page_number": 230,
+  "juz_number": 12,
+  "text_uthmani": "قَالُوا۟ لَقَدْ عَلِمْتَ مَا لَنَا فِى بَنَاتِكَ مِنْ حَقٍّ وَإِنَّكَ لَتَعْلَمُ مَا نُرِيدُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1552.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1552.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1552.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1552.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1552.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1552.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1552.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1552.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1552.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1552.mp3"
+  },
+  "words": [
+    {
+      "id": 63990,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_079_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 63991,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_079_002.mp3",
+      "text": "لَقَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "laqad"
+    },
+    {
+      "id": 63992,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_079_003.mp3",
+      "text": "عَلِمْتَ",
+      "translation": "kamu telah mengetahui",
+      "transliteration": "ʿalim'ta"
+    },
+    {
+      "id": 63993,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_079_004.mp3",
+      "text": "مَا",
+      "translation": "tidak ada",
+      "transliteration": "mā"
+    },
+    {
+      "id": 63994,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_079_005.mp3",
+      "text": "لَنَا",
+      "translation": "bagi kami",
+      "transliteration": "lanā"
+    },
+    {
+      "id": 63995,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_079_006.mp3",
+      "text": "فِى",
+      "translation": "pada/terhadap",
+      "transliteration": "fī"
+    },
+    {
+      "id": 63996,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_079_007.mp3",
+      "text": "بَنَاتِكَ",
+      "translation": "puteri-puterimu",
+      "transliteration": "banātika"
+    },
+    {
+      "id": 63997,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_079_008.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 63998,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_079_009.mp3",
+      "text": "حَقٍّۢ",
+      "translation": "berhak",
+      "transliteration": "ḥaqqin"
+    },
+    {
+      "id": 63999,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_079_010.mp3",
+      "text": "وَإِنَّكَ",
+      "translation": "dan sesungguhnya kamu",
+      "transliteration": "wa-innaka"
+    },
+    {
+      "id": 64000,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_079_011.mp3",
+      "text": "لَتَعْلَمُ",
+      "translation": "tentu kamu mengetahui",
+      "transliteration": "lataʿlamu"
+    },
+    {
+      "id": 64001,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_079_012.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 64002,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_079_013.mp3",
+      "text": "نُرِيدُ",
+      "translation": "kami kehendaki",
+      "transliteration": "nurīdu"
+    },
+    {
+      "id": 64003,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٧٩",
+      "translation": "(79)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka menjawab, \"Sesungguhnya kamu telah tahu bahwa kami tidak mempunyai keinginan <sup foot_note=210500>1</sup> terhadap putri-putrimu dan sesungguhnya kamu tentu mengetahui apa yang sebenarnya kami kehendaki\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

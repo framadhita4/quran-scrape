@@ -1,0 +1,142 @@
+{
+  "id": 501,
+  "chapter_id": 4,
+  "verse_key": "4:8",
+  "hizb_number": 8,
+  "rub_el_hizb_number": 31,
+  "ruku_number": 62,
+  "manzil_number": 1,
+  "page_number": 78,
+  "juz_number": 4,
+  "text_uthmani": "وَإِذَا حَضَرَ ٱلْقِسْمَةَ أُو۟لُوا۟ ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينُ فَٱرْزُقُوهُم مِّنْهُ وَقُولُوا۟ لَهُمْ قَوْلًا مَّعْرُوفًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/501.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/501.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/501.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/501.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/501.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/501.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/501.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/501.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/501.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/501.mp3"
+  },
+  "words": [
+    {
+      "id": 8518,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_008_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 8519,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_008_002.mp3",
+      "text": "حَضَرَ",
+      "translation": "hadir",
+      "transliteration": "ḥaḍara"
+    },
+    {
+      "id": 8520,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_008_003.mp3",
+      "text": "ٱلْقِسْمَةَ",
+      "translation": "pembagian itu",
+      "transliteration": "l-qis'mata"
+    },
+    {
+      "id": 8521,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_008_004.mp3",
+      "text": "أُو۟لُوا۟",
+      "translation": "kelompok",
+      "transliteration": "ulū"
+    },
+    {
+      "id": 8522,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_008_005.mp3",
+      "text": "ٱلْقُرْبَىٰ",
+      "translation": "kerabat",
+      "transliteration": "l-qur'bā"
+    },
+    {
+      "id": 8523,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_008_006.mp3",
+      "text": "وَٱلْيَتَـٰمَىٰ",
+      "translation": "dan anak-anak yatim",
+      "transliteration": "wal-yatāmā"
+    },
+    {
+      "id": 8524,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_008_007.mp3",
+      "text": "وَٱلْمَسَـٰكِينُ",
+      "translation": "dan orang-orang miskin",
+      "transliteration": "wal-masākīnu"
+    },
+    {
+      "id": 8525,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_008_008.mp3",
+      "text": "فَٱرْزُقُوهُم",
+      "translation": "maka berilah mereka rezki",
+      "transliteration": "fa-ur'zuqūhum"
+    },
+    {
+      "id": 8526,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_008_009.mp3",
+      "text": "مِّنْهُ",
+      "translation": "dari padanya/harta",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 8527,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_008_010.mp3",
+      "text": "وَقُولُوا۟",
+      "translation": "dan katakanlah",
+      "transliteration": "waqūlū"
+    },
+    {
+      "id": 8528,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_008_011.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 8529,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_008_012.mp3",
+      "text": "قَوْلًۭا",
+      "translation": "perkataan",
+      "transliteration": "qawlan"
+    },
+    {
+      "id": 8530,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_008_013.mp3",
+      "text": "مَّعْرُوفًۭا",
+      "translation": "yang baik/patut",
+      "transliteration": "maʿrūfan"
+    },
+    {
+      "id": 8531,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila sewaktu pembagian itu hadir kerabat<sup foot_note=210040>1</sup>, anak yatim, dan orang miskin, maka berilah mereka dari harta itu (sekedarnya)<sup foot_note=210041>2</sup> dan ucapkanlah kepada mereka perkataan yang baik.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": 375,
+  "chapter_id": 3,
+  "verse_key": "3:82",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 24,
+  "ruku_number": 50,
+  "manzil_number": 1,
+  "page_number": 60,
+  "juz_number": 3,
+  "text_uthmani": "فَمَن تَوَلَّىٰ بَعْدَ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/375.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/375.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/375.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/375.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/375.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/375.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/375.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/375.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/375.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/375.mp3"
+  },
+  "words": [
+    {
+      "id": 65118,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_082_001.mp3",
+      "text": "فَمَن",
+      "translation": "maka barang siapa",
+      "transliteration": "faman"
+    },
+    {
+      "id": 65119,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_082_002.mp3",
+      "text": "تَوَلَّىٰ",
+      "translation": "(ia) berpaling",
+      "transliteration": "tawallā"
+    },
+    {
+      "id": 65120,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_082_003.mp3",
+      "text": "بَعْدَ",
+      "translation": "sesudah",
+      "transliteration": "baʿda"
+    },
+    {
+      "id": 65121,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_082_004.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 65122,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_082_005.mp3",
+      "text": "فَأُو۟لَـٰٓئِكَ",
+      "translation": "maka itulah",
+      "transliteration": "fa-ulāika"
+    },
+    {
+      "id": 65123,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_082_006.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 65124,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_082_007.mp3",
+      "text": "ٱلْفَـٰسِقُونَ",
+      "translation": "orang-orang yang fasik",
+      "transliteration": "l-fāsiqūna"
+    },
+    {
+      "id": 65125,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٨٢",
+      "translation": "(82)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Barang siapa yang berpaling sesudah itu, maka mereka itulah orang-orang yang fasik<sup foot_note=209980>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

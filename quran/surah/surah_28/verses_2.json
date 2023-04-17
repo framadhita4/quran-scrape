@@ -1,0 +1,70 @@
+{
+  "id": 3254,
+  "chapter_id": 28,
+  "verse_key": "28:2",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "ruku_number": 334,
+  "manzil_number": 5,
+  "page_number": 385,
+  "juz_number": 20,
+  "text_uthmani": "تِلْكَ ءَايَـٰتُ ٱلْكِتَـٰبِ ٱلْمُبِينِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3254.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3254.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3254.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3254.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3254.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3254.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3254.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3254.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3254.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3254.mp3"
+  },
+  "words": [
+    {
+      "id": 1823,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_002_001.mp3",
+      "text": "تِلْكَ",
+      "translation": "ini",
+      "transliteration": "til'ka"
+    },
+    {
+      "id": 1824,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_002_002.mp3",
+      "text": "ءَايَـٰتُ",
+      "translation": "ayat-ayat",
+      "transliteration": "āyātu"
+    },
+    {
+      "id": 1825,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_002_003.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "Kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 1826,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_002_004.mp3",
+      "text": "ٱلْمُبِينِ",
+      "translation": "yang nyata",
+      "transliteration": "l-mubīni"
+    },
+    {
+      "id": 1827,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ini adalah ayat-ayat Kitab (Al-Qur`ān) yang nyata (dari Allah).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

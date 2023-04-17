@@ -1,0 +1,70 @@
+{
+  "id": 4043,
+  "chapter_id": 38,
+  "verse_key": "38:73",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "فَسَجَدَ ٱلْمَلَـٰٓئِكَةُ كُلُّهُمْ أَجْمَعُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4043.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4043.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4043.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4043.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4043.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4043.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4043.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4043.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4043.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4043.mp3"
+  },
+  "words": [
+    {
+      "id": 61338,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_073_001.mp3",
+      "text": "فَسَجَدَ",
+      "translation": "maka bersujud",
+      "transliteration": "fasajada"
+    },
+    {
+      "id": 61339,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_073_002.mp3",
+      "text": "ٱلْمَلَـٰٓئِكَةُ",
+      "translation": "Malaikat",
+      "transliteration": "l-malāikatu"
+    },
+    {
+      "id": 61340,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_073_003.mp3",
+      "text": "كُلُّهُمْ",
+      "translation": "semua mereka",
+      "transliteration": "kulluhum"
+    },
+    {
+      "id": 61341,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_073_004.mp3",
+      "text": "أَجْمَعُونَ",
+      "translation": "semuanya",
+      "transliteration": "ajmaʿūna"
+    },
+    {
+      "id": 61342,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٧٣",
+      "translation": "(73)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu, seluruh malaikat-malaikat itu bersujud semuanya,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

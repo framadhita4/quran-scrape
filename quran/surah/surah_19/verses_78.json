@@ -1,0 +1,94 @@
+{
+  "id": 2328,
+  "chapter_id": 19,
+  "verse_key": "19:78",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "ruku_number": 268,
+  "manzil_number": 4,
+  "page_number": 311,
+  "juz_number": 16,
+  "text_uthmani": "أَطَّلَعَ ٱلْغَيْبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحْمَـٰنِ عَهْدًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2328.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2328.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2328.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2328.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2328.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2328.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2328.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2328.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2328.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2328.mp3"
+  },
+  "words": [
+    {
+      "id": 63588,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_078_001.mp3",
+      "text": "أَطَّلَعَ",
+      "translation": "adakah ia melihat",
+      "transliteration": "aṭṭalaʿa"
+    },
+    {
+      "id": 63589,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_078_002.mp3",
+      "text": "ٱلْغَيْبَ",
+      "translation": "yang gaib",
+      "transliteration": "l-ghayba"
+    },
+    {
+      "id": 63590,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_078_003.mp3",
+      "text": "أَمِ",
+      "translation": "atau",
+      "transliteration": "ami"
+    },
+    {
+      "id": 63591,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_078_004.mp3",
+      "text": "ٱتَّخَذَ",
+      "translation": "ia mengambil",
+      "transliteration": "ittakhadha"
+    },
+    {
+      "id": 63592,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_078_005.mp3",
+      "text": "عِندَ",
+      "translation": "disisi",
+      "transliteration": "ʿinda"
+    },
+    {
+      "id": 63593,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_078_006.mp3",
+      "text": "ٱلرَّحْمَـٰنِ",
+      "translation": "Yang Maha Pengasih",
+      "transliteration": "l-raḥmāni"
+    },
+    {
+      "id": 63594,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_078_007.mp3",
+      "text": "عَهْدًۭا",
+      "translation": "perjanjian",
+      "transliteration": "ʿahdan"
+    },
+    {
+      "id": 63595,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Adakah ia melihat yang gaib atau ia telah membuat perjanjian di sisi Tuhan Yang Maha Pemurah?,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

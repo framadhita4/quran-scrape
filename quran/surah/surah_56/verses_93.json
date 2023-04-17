@@ -1,0 +1,62 @@
+{
+  "id": 5072,
+  "chapter_id": 56,
+  "verse_key": "56:93",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "ruku_number": 473,
+  "manzil_number": 7,
+  "page_number": 537,
+  "juz_number": 27,
+  "text_uthmani": "فَنُزُلٌ مِّنْ حَمِيمٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5072.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5072.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5072.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5072.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5072.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5072.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5072.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5072.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5072.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5072.mp3"
+  },
+  "words": [
+    {
+      "id": 69111,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_093_001.mp3",
+      "text": "فَنُزُلٌۭ",
+      "translation": "maka hidangan",
+      "transliteration": "fanuzulun"
+    },
+    {
+      "id": 69112,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_093_002.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 69113,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_093_003.mp3",
+      "text": "حَمِيمٍۢ",
+      "translation": "air panas mendidih",
+      "transliteration": "ḥamīmin"
+    },
+    {
+      "id": 69114,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٩٣",
+      "translation": "(93)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka dia mendapat hidangan air yang mendidih,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

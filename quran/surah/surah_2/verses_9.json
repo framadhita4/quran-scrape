@@ -1,0 +1,118 @@
+{
+  "id": 16,
+  "chapter_id": 2,
+  "verse_key": "2:9",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 3,
+  "manzil_number": 1,
+  "page_number": 3,
+  "juz_number": 1,
+  "text_uthmani": "يُخَـٰدِعُونَ ٱللَّهَ وَٱلَّذِينَ ءَامَنُوا۟ وَمَا يَخْدَعُونَ إِلَّآ أَنفُسَهُمْ وَمَا يَشْعُرُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/16.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/16.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/16.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/16.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/16.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/16.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/16.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/16.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/16.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/16.mp3"
+  },
+  "words": [
+    {
+      "id": 9694,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_009_001.mp3",
+      "text": "يُخَـٰدِعُونَ",
+      "translation": "mereka hendak menipu",
+      "transliteration": "yukhādiʿūna"
+    },
+    {
+      "id": 9695,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_009_002.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 9696,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_009_003.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 9697,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_009_004.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 9698,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_009_005.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 9699,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_009_006.mp3",
+      "text": "يَخْدَعُونَ",
+      "translation": "mereka menipu",
+      "transliteration": "yakhdaʿūna"
+    },
+    {
+      "id": 9700,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_009_007.mp3",
+      "text": "إِلَّآ",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 9701,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_009_008.mp3",
+      "text": "أَنفُسَهُمْ",
+      "translation": "diri mereka",
+      "transliteration": "anfusahum"
+    },
+    {
+      "id": 9702,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_009_009.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 9703,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_009_010.mp3",
+      "text": "يَشْعُرُونَ",
+      "translation": "mereka menyadari",
+      "transliteration": "yashʿurūna"
+    },
+    {
+      "id": 9704,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka hendak menipu Allah dan orang-orang yang beriman, padahal mereka hanya menipu dirinya sendiri sedang mereka tidak sadar.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

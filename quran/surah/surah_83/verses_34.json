@@ -1,0 +1,86 @@
+{
+  "id": 5882,
+  "chapter_id": 83,
+  "verse_key": "83:34",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "فَٱلْيَوْمَ ٱلَّذِينَ ءَامَنُوا۟ مِنَ ٱلْكُفَّارِ يَضْحَكُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5882.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5882.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5882.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5882.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5882.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5882.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5882.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5882.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5882.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5882.mp3"
+  },
+  "words": [
+    {
+      "id": 36431,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_034_001.mp3",
+      "text": "فَٱلْيَوْمَ",
+      "translation": "maka pada hari",
+      "transliteration": "fal-yawma"
+    },
+    {
+      "id": 36432,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_034_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 36433,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_034_003.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 36434,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_034_004.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 36435,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_034_005.mp3",
+      "text": "ٱلْكُفَّارِ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kufāri"
+    },
+    {
+      "id": 36436,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_034_006.mp3",
+      "text": "يَضْحَكُونَ",
+      "translation": "menertawakan mereka",
+      "transliteration": "yaḍḥakūna"
+    },
+    {
+      "id": 36437,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka pada hari ini, orang-orang yang beriman menertawakan orang-orang kafir,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

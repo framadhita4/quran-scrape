@@ -1,0 +1,78 @@
+{
+  "id": 4840,
+  "chapter_id": 53,
+  "verse_key": "53:56",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "هَـٰذَا نَذِيرٌ مِّنَ ٱلنُّذُرِ ٱلْأُولَىٰٓ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4840.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4840.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4840.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4840.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4840.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4840.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4840.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4840.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4840.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4840.mp3"
+  },
+  "words": [
+    {
+      "id": 52182,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_056_001.mp3",
+      "text": "هَـٰذَا",
+      "translation": "Ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 52183,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_056_002.mp3",
+      "text": "نَذِيرٌۭ",
+      "translation": "pemberi peringatan",
+      "transliteration": "nadhīrun"
+    },
+    {
+      "id": 52184,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_056_003.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 52185,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_056_004.mp3",
+      "text": "ٱلنُّذُرِ",
+      "translation": "antara pemberi peringatan",
+      "transliteration": "l-nudhuri"
+    },
+    {
+      "id": 52186,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_056_005.mp3",
+      "text": "ٱلْأُولَىٰٓ",
+      "translation": "terdahulu",
+      "transliteration": "l-ūlā"
+    },
+    {
+      "id": 52187,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ini (Muhammad) adalah seorang pemberi peringatan di antara pemberi-pemberi peringatan yang terdahulu.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 159,
+  "chapter_id": 2,
+  "verse_key": "2:152",
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "ruku_number": 19,
+  "manzil_number": 1,
+  "page_number": 23,
+  "juz_number": 2,
+  "text_uthmani": "فَٱذْكُرُونِىٓ أَذْكُرْكُمْ وَٱشْكُرُوا۟ لِى وَلَا تَكْفُرُونِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/159.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/159.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/159.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/159.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/159.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/159.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/159.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/159.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/159.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/159.mp3"
+  },
+  "words": [
+    {
+      "id": 80663,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_152_001.mp3",
+      "text": "فَٱذْكُرُونِىٓ",
+      "translation": "maka ingatlah kepadaKU",
+      "transliteration": "fa-udh'kurūnī"
+    },
+    {
+      "id": 80664,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_152_002.mp3",
+      "text": "أَذْكُرْكُمْ",
+      "translation": "Aku ingat kepadamu",
+      "transliteration": "adhkur'kum"
+    },
+    {
+      "id": 80665,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_152_003.mp3",
+      "text": "وَٱشْكُرُوا۟",
+      "translation": "dan bersyukurlah",
+      "transliteration": "wa-ush'kurū"
+    },
+    {
+      "id": 80666,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_152_004.mp3",
+      "text": "لِى",
+      "translation": "kepadaKu",
+      "transliteration": "lī"
+    },
+    {
+      "id": 80667,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_152_005.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 80668,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_152_006.mp3",
+      "text": "تَكْفُرُونِ",
+      "translation": "kalian kafir",
+      "transliteration": "takfurūni"
+    },
+    {
+      "id": 80669,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٥٢",
+      "translation": "(152)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Karena itu, ingatlah kamu kepada-Ku niscaya Aku ingat (pula) kepadamu<sup foot_note=209868>1</sup>, dan bersyukurlah kepada-Ku, dan janganlah kamu mengingkari (nikmat)-Ku.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

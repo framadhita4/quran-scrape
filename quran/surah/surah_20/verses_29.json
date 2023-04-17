@@ -1,0 +1,78 @@
+{
+  "id": 2377,
+  "chapter_id": 20,
+  "verse_key": "20:29",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "وَٱجْعَل لِّى وَزِيرًا مِّنْ أَهْلِى",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2377.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2377.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2377.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2377.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2377.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2377.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2377.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2377.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2377.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2377.mp3"
+  },
+  "words": [
+    {
+      "id": 31804,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_029_001.mp3",
+      "text": "وَٱجْعَل",
+      "translation": "dan jadikanlah",
+      "transliteration": "wa-ij'ʿal"
+    },
+    {
+      "id": 31805,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_029_002.mp3",
+      "text": "لِّى",
+      "translation": "untukku",
+      "transliteration": "lī"
+    },
+    {
+      "id": 31806,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_029_003.mp3",
+      "text": "وَزِيرًۭا",
+      "translation": "seorang pembantu",
+      "transliteration": "wazīran"
+    },
+    {
+      "id": 31807,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_029_004.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 31808,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_029_005.mp3",
+      "text": "أَهْلِى",
+      "translation": "keluargaku",
+      "transliteration": "ahlī"
+    },
+    {
+      "id": 31809,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan jadikanlah untukku seorang pembantu dari keluargaku,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

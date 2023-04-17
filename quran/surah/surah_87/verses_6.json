@@ -1,0 +1,62 @@
+{
+  "id": 5954,
+  "chapter_id": 87,
+  "verse_key": "87:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "سَنُقْرِئُكَ فَلَا تَنسَىٰٓ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5954.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5954.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5954.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5954.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5954.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5954.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5954.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5954.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5954.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5954.mp3"
+  },
+  "words": [
+    {
+      "id": 6743,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_006_001.mp3",
+      "text": "سَنُقْرِئُكَ",
+      "translation": "Kami bacakan kepadamu",
+      "transliteration": "sanuq'ri-uka"
+    },
+    {
+      "id": 6744,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_006_002.mp3",
+      "text": "فَلَا",
+      "translation": "maka tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 6745,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_006_003.mp3",
+      "text": "تَنسَىٰٓ",
+      "translation": "kamu lupa",
+      "transliteration": "tansā"
+    },
+    {
+      "id": 6746,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kami akan membacakan (Al-Qur`ān) kepadamu (Muhammad) maka kamu tidak akan lupa,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

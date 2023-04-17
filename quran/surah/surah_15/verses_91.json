@@ -1,0 +1,70 @@
+{
+  "id": 1893,
+  "chapter_id": 15,
+  "verse_key": "15:91",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 267,
+  "juz_number": 14,
+  "text_uthmani": "ٱلَّذِينَ جَعَلُوا۟ ٱلْقُرْءَانَ عِضِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1893.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1893.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1893.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1893.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1893.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1893.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1893.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1893.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1893.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1893.mp3"
+  },
+  "words": [
+    {
+      "id": 68582,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_091_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 68583,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_091_002.mp3",
+      "text": "جَعَلُوا۟",
+      "translation": "(mereka) menjadikan",
+      "transliteration": "jaʿalū"
+    },
+    {
+      "id": 68584,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_091_003.mp3",
+      "text": "ٱلْقُرْءَانَ",
+      "translation": "Al Quran",
+      "transliteration": "l-qur'āna"
+    },
+    {
+      "id": 68585,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_091_004.mp3",
+      "text": "عِضِينَ",
+      "translation": "terbagi-bagi",
+      "transliteration": "ʿiḍīna"
+    },
+    {
+      "id": 68586,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٩١",
+      "translation": "(91)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang<sup foot_note=210585>1</sup> yang telah menjadikan Al-Qur`ān itu terbagi-bagi<sup foot_note=210586>2</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

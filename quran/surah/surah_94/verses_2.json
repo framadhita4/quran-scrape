@@ -1,0 +1,62 @@
+{
+  "id": 6092,
+  "chapter_id": 94,
+  "verse_key": "94:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 538,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6092.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6092.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6092.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6092.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6092.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6092.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6092.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6092.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6092.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6092.mp3"
+  },
+  "words": [
+    {
+      "id": 1361,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_002_001.mp3",
+      "text": "وَوَضَعْنَا",
+      "translation": "dan Kami letakkan/turunkan",
+      "transliteration": "wawaḍaʿnā"
+    },
+    {
+      "id": 1362,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_002_002.mp3",
+      "text": "عَنكَ",
+      "translation": "dari kamu",
+      "transliteration": "ʿanka"
+    },
+    {
+      "id": 1363,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_002_003.mp3",
+      "text": "وِزْرَكَ",
+      "translation": "bebanmu",
+      "transliteration": "wiz'raka"
+    },
+    {
+      "id": 1364,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Kami telah menghilangkan darimu bebanmu<sup foot_note=211354>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

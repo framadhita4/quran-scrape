@@ -1,0 +1,70 @@
+{
+  "id": 5392,
+  "chapter_id": 70,
+  "verse_key": "70:17",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "تَدْعُوا۟ مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5392.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5392.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5392.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5392.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5392.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5392.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5392.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5392.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5392.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5392.mp3"
+  },
+  "words": [
+    {
+      "id": 19511,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_017_001.mp3",
+      "text": "تَدْعُوا۟",
+      "translation": "ia memanggil",
+      "transliteration": "tadʿū"
+    },
+    {
+      "id": 19512,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_017_002.mp3",
+      "text": "مَنْ",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 19513,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_017_003.mp3",
+      "text": "أَدْبَرَ",
+      "translation": "dia membelakang",
+      "transliteration": "adbara"
+    },
+    {
+      "id": 19514,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_017_004.mp3",
+      "text": "وَتَوَلَّىٰ",
+      "translation": "dan dia berpaling",
+      "transliteration": "watawallā"
+    },
+    {
+      "id": 19515,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang memanggil orang yang membelakang dan yang berpaling (dari agama).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 5642,
+  "chapter_id": 77,
+  "verse_key": "77:20",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5642.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5642.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5642.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5642.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5642.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5642.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5642.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5642.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5642.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5642.mp3"
+  },
+  "words": [
+    {
+      "id": 22881,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_020_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "tidaklah/bukankah",
+      "transliteration": "alam"
+    },
+    {
+      "id": 22882,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_020_002.mp3",
+      "text": "نَخْلُقكُّم",
+      "translation": "Kami menciptakan",
+      "transliteration": "nakhluqkkum"
+    },
+    {
+      "id": 22883,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_020_003.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 22884,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_020_004.mp3",
+      "text": "مَّآءٍۢ",
+      "translation": "air",
+      "transliteration": "māin"
+    },
+    {
+      "id": 22885,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_020_005.mp3",
+      "text": "مَّهِينٍۢ",
+      "translation": "yang hina",
+      "transliteration": "mahīnin"
+    },
+    {
+      "id": 22886,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukankah Kami menciptakan kamu dari air yang hina?<sup foot_note=211310>1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

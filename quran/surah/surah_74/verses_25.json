@@ -1,0 +1,78 @@
+{
+  "id": 5520,
+  "chapter_id": 74,
+  "verse_key": "74:25",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "إِنْ هَـٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5520.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5520.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5520.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5520.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5520.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5520.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5520.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5520.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5520.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5520.mp3"
+  },
+  "words": [
+    {
+      "id": 28095,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_025_001.mp3",
+      "text": "إِنْ",
+      "translation": "tidaklah",
+      "transliteration": "in"
+    },
+    {
+      "id": 28096,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_025_002.mp3",
+      "text": "هَـٰذَآ",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 28097,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_025_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 28098,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_025_004.mp3",
+      "text": "قَوْلُ",
+      "translation": "perkataan",
+      "transliteration": "qawlu"
+    },
+    {
+      "id": 28099,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_025_005.mp3",
+      "text": "ٱلْبَشَرِ",
+      "translation": "manusia",
+      "transliteration": "l-bashari"
+    },
+    {
+      "id": 28100,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ini tidak lain hanyalah perkataan manusia\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

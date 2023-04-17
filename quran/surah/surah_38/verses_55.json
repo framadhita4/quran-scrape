@@ -1,0 +1,78 @@
+{
+  "id": 4025,
+  "chapter_id": 38,
+  "verse_key": "38:55",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 456,
+  "juz_number": 23,
+  "text_uthmani": "هَـٰذَا ۚ وَإِنَّ لِلطَّـٰغِينَ لَشَرَّ مَـَٔابٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4025.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4025.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4025.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4025.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4025.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4025.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4025.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4025.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4025.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4025.mp3"
+  },
+  "words": [
+    {
+      "id": 52037,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_055_001.mp3",
+      "text": "هَـٰذَا ۚ",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 52039,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_055_003.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 52040,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_055_004.mp3",
+      "text": "لِلطَّـٰغِينَ",
+      "translation": "bagi orang-orang yang durhaka",
+      "transliteration": "lilṭṭāghīna"
+    },
+    {
+      "id": 52041,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_055_005.mp3",
+      "text": "لَشَرَّ",
+      "translation": "benar-benar buruk",
+      "transliteration": "lasharra"
+    },
+    {
+      "id": 52042,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_055_006.mp3",
+      "text": "مَـَٔابٍۢ",
+      "translation": "tempat kembali",
+      "transliteration": "maābin"
+    },
+    {
+      "id": 52043,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Beginilah (keadaan mereka). Dan sesungguhnya bagi orang-orang yang durhaka benar-benar (disediakan) tempat kembali yang buruk,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

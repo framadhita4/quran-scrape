@@ -1,0 +1,54 @@
+{
+  "id": 5277,
+  "chapter_id": 68,
+  "verse_key": "68:6",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "بِأَييِّكُمُ ٱلْمَفْتُونُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5277.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5277.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5277.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5277.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5277.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5277.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5277.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5277.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5277.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5277.mp3"
+  },
+  "words": [
+    {
+      "id": 6484,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_006_001.mp3",
+      "text": "بِأَييِّكُمُ",
+      "translation": "siapa diantara kamu",
+      "transliteration": "bi-ayyikumu"
+    },
+    {
+      "id": 6485,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_006_002.mp3",
+      "text": "ٱلْمَفْتُونُ",
+      "translation": "yang di uji/gila",
+      "transliteration": "l-maftūnu"
+    },
+    {
+      "id": 6486,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "siapa di antara kamu yang gila.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 5707,
+  "chapter_id": 78,
+  "verse_key": "78:35",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 521,
+  "manzil_number": 7,
+  "page_number": 583,
+  "juz_number": 30,
+  "text_uthmani": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّٰبًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5707.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5707.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5707.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5707.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5707.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5707.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5707.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5707.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5707.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5707.mp3"
+  },
+  "words": [
+    {
+      "id": 37732,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_035_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 37733,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_035_002.mp3",
+      "text": "يَسْمَعُونَ",
+      "translation": "mereka mendengar",
+      "transliteration": "yasmaʿūna"
+    },
+    {
+      "id": 37734,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_035_003.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 37735,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_035_004.mp3",
+      "text": "لَغْوًۭا",
+      "translation": "sia-sia",
+      "transliteration": "laghwan"
+    },
+    {
+      "id": 37736,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_035_005.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 37737,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_035_006.mp3",
+      "text": "كِذَّٰبًۭا",
+      "translation": "dusta",
+      "transliteration": "kidhāban"
+    },
+    {
+      "id": 37738,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di dalamnya mereka tidak mendengar perkataan yang sia-sia dan tidak (pula) perkataan dusta.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

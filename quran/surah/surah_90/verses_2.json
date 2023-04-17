@@ -1,0 +1,70 @@
+{
+  "id": 6025,
+  "chapter_id": 90,
+  "verse_key": "90:2",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6025.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6025.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6025.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6025.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6025.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6025.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6025.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6025.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6025.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6025.mp3"
+  },
+  "words": [
+    {
+      "id": 1741,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_002_001.mp3",
+      "text": "وَأَنتَ",
+      "translation": "dan kamu",
+      "transliteration": "wa-anta"
+    },
+    {
+      "id": 1742,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_002_002.mp3",
+      "text": "حِلٌّۢ",
+      "translation": "halal/bertempat",
+      "transliteration": "ḥillun"
+    },
+    {
+      "id": 1743,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_002_003.mp3",
+      "text": "بِهَـٰذَا",
+      "translation": "dengan ini",
+      "transliteration": "bihādhā"
+    },
+    {
+      "id": 1744,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_002_004.mp3",
+      "text": "ٱلْبَلَدِ",
+      "translation": "negeri",
+      "transliteration": "l-baladi"
+    },
+    {
+      "id": 1745,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kamu (Muhammad) bertempat di kota Mekah ini,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

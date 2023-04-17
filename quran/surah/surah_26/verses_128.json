@@ -1,0 +1,78 @@
+{
+  "id": 3060,
+  "chapter_id": 26,
+  "verse_key": "26:128",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 322,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "أَتَبْنُونَ بِكُلِّ رِيعٍ ءَايَةً تَعْبَثُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3060.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3060.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3060.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3060.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3060.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3060.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3060.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3060.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3060.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3060.mp3"
+  },
+  "words": [
+    {
+      "id": 77683,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_128_001.mp3",
+      "text": "أَتَبْنُونَ",
+      "translation": "mengapa kamu membangun",
+      "transliteration": "atabnūna"
+    },
+    {
+      "id": 77684,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_128_002.mp3",
+      "text": "بِكُلِّ",
+      "translation": "pada tiap-tiap",
+      "transliteration": "bikulli"
+    },
+    {
+      "id": 77685,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_128_003.mp3",
+      "text": "رِيعٍ",
+      "translation": "tempat yang tinggi",
+      "transliteration": "rīʿin"
+    },
+    {
+      "id": 77686,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_128_004.mp3",
+      "text": "ءَايَةًۭ",
+      "translation": "suatu tanda",
+      "transliteration": "āyatan"
+    },
+    {
+      "id": 77687,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_128_005.mp3",
+      "text": "تَعْبَثُونَ",
+      "translation": "kamu berlaku sia-sia",
+      "transliteration": "taʿbathūna"
+    },
+    {
+      "id": 77688,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٢٨",
+      "translation": "(128)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah kamu mendirikan pada tiap-tiap tanah tinggi bangunan untuk bermain-main <sup foot_note=210856>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

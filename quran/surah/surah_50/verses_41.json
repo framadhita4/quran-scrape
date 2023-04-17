@@ -1,0 +1,94 @@
+{
+  "id": 4671,
+  "chapter_id": 50,
+  "verse_key": "50:41",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 456,
+  "manzil_number": 7,
+  "page_number": 520,
+  "juz_number": 26,
+  "text_uthmani": "وَٱسْتَمِعْ يَوْمَ يُنَادِ ٱلْمُنَادِ مِن مَّكَانٍ قَرِيبٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4671.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4671.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4671.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4671.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4671.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4671.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4671.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4671.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4671.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4671.mp3"
+  },
+  "words": [
+    {
+      "id": 42055,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_041_001.mp3",
+      "text": "وَٱسْتَمِعْ",
+      "translation": "dan dengarkanlah",
+      "transliteration": "wa-is'tamiʿ"
+    },
+    {
+      "id": 42056,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_041_002.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 42057,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_041_003.mp3",
+      "text": "يُنَادِ",
+      "translation": "menyeru",
+      "transliteration": "yunādi"
+    },
+    {
+      "id": 42058,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_041_004.mp3",
+      "text": "ٱلْمُنَادِ",
+      "translation": "penyeru",
+      "transliteration": "l-munādi"
+    },
+    {
+      "id": 42059,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_041_005.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 42060,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_041_006.mp3",
+      "text": "مَّكَانٍۢ",
+      "translation": "tempat",
+      "transliteration": "makānin"
+    },
+    {
+      "id": 42061,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_041_007.mp3",
+      "text": "قَرِيبٍۢ",
+      "translation": "dekat",
+      "transliteration": "qarībin"
+    },
+    {
+      "id": 42062,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٤١",
+      "translation": "(41)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan dengarkanlah (seruan) pada hari penyeru (malaikat) menyeru dari tempat yang dekat.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

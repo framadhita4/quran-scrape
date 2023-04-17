@@ -1,0 +1,78 @@
+{
+  "id": 4020,
+  "chapter_id": 38,
+  "verse_key": "38:50",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 456,
+  "juz_number": 23,
+  "text_uthmani": "جَنَّـٰتِ عَدْنٍ مُّفَتَّحَةً لَّهُمُ ٱلْأَبْوَٰبُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4020.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4020.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4020.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4020.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4020.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4020.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4020.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4020.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4020.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4020.mp3"
+  },
+  "words": [
+    {
+      "id": 49006,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_050_001.mp3",
+      "text": "جَنَّـٰتِ",
+      "translation": "sorga",
+      "transliteration": "jannāti"
+    },
+    {
+      "id": 49007,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_050_002.mp3",
+      "text": "عَدْنٍۢ",
+      "translation": "'Adn",
+      "transliteration": "ʿadnin"
+    },
+    {
+      "id": 49008,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_050_003.mp3",
+      "text": "مُّفَتَّحَةًۭ",
+      "translation": "terbuka",
+      "transliteration": "mufattaḥatan"
+    },
+    {
+      "id": 49009,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_050_004.mp3",
+      "text": "لَّهُمُ",
+      "translation": "bagi mereka",
+      "transliteration": "lahumu"
+    },
+    {
+      "id": 49010,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_050_005.mp3",
+      "text": "ٱلْأَبْوَٰبُ",
+      "translation": "pintu-pintu",
+      "transliteration": "l-abwābu"
+    },
+    {
+      "id": 49011,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) surga 'Adn yang pintu-pintunya terbuka bagi mereka,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

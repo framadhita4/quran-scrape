@@ -1,0 +1,70 @@
+{
+  "id": 5075,
+  "chapter_id": 56,
+  "verse_key": "56:96",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "ruku_number": 473,
+  "manzil_number": 7,
+  "page_number": 537,
+  "juz_number": 27,
+  "text_uthmani": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5075.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5075.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5075.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5075.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5075.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5075.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5075.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5075.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5075.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5075.mp3"
+  },
+  "words": [
+    {
+      "id": 70238,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_096_001.mp3",
+      "text": "فَسَبِّحْ",
+      "translation": "maka bertasbihlah",
+      "transliteration": "fasabbiḥ"
+    },
+    {
+      "id": 70239,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_096_002.mp3",
+      "text": "بِٱسْمِ",
+      "translation": "dengan nama",
+      "transliteration": "bi-is'mi"
+    },
+    {
+      "id": 70240,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_096_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 70241,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_096_004.mp3",
+      "text": "ٱلْعَظِيمِ",
+      "translation": "Maha Besar/Maha Agung",
+      "transliteration": "l-ʿaẓīmi"
+    },
+    {
+      "id": 70242,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٩٦",
+      "translation": "(96)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka bertasbihlah dengan (menyebut) nama Tuhan-mu yang Maha Besar.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

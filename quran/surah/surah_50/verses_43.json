@@ -1,0 +1,86 @@
+{
+  "id": 4673,
+  "chapter_id": 50,
+  "verse_key": "50:43",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 456,
+  "manzil_number": 7,
+  "page_number": 520,
+  "juz_number": 26,
+  "text_uthmani": "إِنَّا نَحْنُ نُحْىِۦ وَنُمِيتُ وَإِلَيْنَا ٱلْمَصِيرُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4673.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4673.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4673.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4673.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4673.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4673.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4673.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4673.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4673.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4673.mp3"
+  },
+  "words": [
+    {
+      "id": 43572,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_043_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 43573,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_043_002.mp3",
+      "text": "نَحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 43574,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_043_003.mp3",
+      "text": "نُحْىِۦ",
+      "translation": "Kami menghidupi",
+      "transliteration": "nuḥ'yī"
+    },
+    {
+      "id": 43575,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_043_004.mp3",
+      "text": "وَنُمِيتُ",
+      "translation": "dan Kami mematikan",
+      "transliteration": "wanumītu"
+    },
+    {
+      "id": 43576,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_043_005.mp3",
+      "text": "وَإِلَيْنَا",
+      "translation": "dan kepada Kami",
+      "transliteration": "wa-ilaynā"
+    },
+    {
+      "id": 43577,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_043_006.mp3",
+      "text": "ٱلْمَصِيرُ",
+      "translation": "tempat kembali",
+      "transliteration": "l-maṣīru"
+    },
+    {
+      "id": 43578,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤٣",
+      "translation": "(43)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami menghidupkan dan mematikan dan hanya kepada Kami-lah tempat kembali (semua makhluk).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

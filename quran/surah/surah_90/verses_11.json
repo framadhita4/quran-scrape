@@ -1,0 +1,62 @@
+{
+  "id": 6034,
+  "chapter_id": 90,
+  "verse_key": "90:11",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6034.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6034.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6034.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6034.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6034.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6034.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6034.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6034.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6034.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6034.mp3"
+  },
+  "words": [
+    {
+      "id": 12673,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_011_001.mp3",
+      "text": "فَلَا",
+      "translation": "maka/tetapi tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 12674,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_011_002.mp3",
+      "text": "ٱقْتَحَمَ",
+      "translation": "ia menempuh",
+      "transliteration": "iq'taḥama"
+    },
+    {
+      "id": 12675,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_011_003.mp3",
+      "text": "ٱلْعَقَبَةَ",
+      "translation": "pendakian/mendaki",
+      "transliteration": "l-ʿaqabata"
+    },
+    {
+      "id": 12676,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka tidakkah sebaiknya (dengan hartanya itu) ia menempuh jalan yang mendaki lagi sukar?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

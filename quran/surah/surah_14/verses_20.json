@@ -1,0 +1,78 @@
+{
+  "id": 1770,
+  "chapter_id": 14,
+  "verse_key": "14:20",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "ruku_number": 213,
+  "manzil_number": 3,
+  "page_number": 258,
+  "juz_number": 13,
+  "text_uthmani": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1770.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1770.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1770.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1770.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1770.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1770.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1770.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1770.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1770.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1770.mp3"
+  },
+  "words": [
+    {
+      "id": 23222,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_020_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 23223,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_020_002.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 23224,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_020_003.mp3",
+      "text": "عَلَى",
+      "translation": "atas/bagi",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 23225,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_020_004.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 23226,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_020_005.mp3",
+      "text": "بِعَزِيزٍۢ",
+      "translation": "dengan sukar/berat",
+      "transliteration": "biʿazīzin"
+    },
+    {
+      "id": 23227,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan yang demikian itu sekali-kali tidak sukar bagi Allah.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

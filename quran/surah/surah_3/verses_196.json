@@ -1,0 +1,94 @@
+{
+  "id": 489,
+  "chapter_id": 3,
+  "verse_key": "3:196",
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "ruku_number": 61,
+  "manzil_number": 1,
+  "page_number": 76,
+  "juz_number": 4,
+  "text_uthmani": "لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُوا۟ فِى ٱلْبِلَـٰدِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/489.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/489.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/489.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/489.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/489.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/489.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/489.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/489.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/489.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/489.mp3"
+  },
+  "words": [
+    {
+      "id": 84981,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_196_001.mp3",
+      "text": "لَا",
+      "translation": "jangan",
+      "transliteration": "lā"
+    },
+    {
+      "id": 84982,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_196_002.mp3",
+      "text": "يَغُرَّنَّكَ",
+      "translation": "kamu terperdaya",
+      "transliteration": "yaghurrannaka"
+    },
+    {
+      "id": 84983,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_196_003.mp3",
+      "text": "تَقَلُّبُ",
+      "translation": "hilir mudik",
+      "transliteration": "taqallubu"
+    },
+    {
+      "id": 84984,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_196_004.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 84985,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_196_005.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 84986,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_196_006.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 84987,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_196_007.mp3",
+      "text": "ٱلْبِلَـٰدِ",
+      "translation": "negeri",
+      "transliteration": "l-bilādi"
+    },
+    {
+      "id": 84988,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٩٦",
+      "translation": "(196)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Janganlah sekali-kali kamu terperdaya oleh kebebasan orang-orang kafir bergerak<sup foot_note=210030>1</sup> di dalam negeri.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": 1579,
+  "chapter_id": 11,
+  "verse_key": "11:106",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "ruku_number": 191,
+  "manzil_number": 3,
+  "page_number": 233,
+  "juz_number": 12,
+  "text_uthmani": "فَأَمَّا ٱلَّذِينَ شَقُوا۟ فَفِى ٱلنَّارِ لَهُمْ فِيهَا زَفِيرٌ وَشَهِيقٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1579.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1579.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1579.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1579.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1579.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1579.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1579.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1579.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1579.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1579.mp3"
+  },
+  "words": [
+    {
+      "id": 73039,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_106_001.mp3",
+      "text": "فَأَمَّا",
+      "translation": "maka adapun",
+      "transliteration": "fa-ammā"
+    },
+    {
+      "id": 73040,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_106_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 73041,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_106_003.mp3",
+      "text": "شَقُوا۟",
+      "translation": "(mereka) celaka",
+      "transliteration": "shaqū"
+    },
+    {
+      "id": 73042,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_106_004.mp3",
+      "text": "فَفِى",
+      "translation": "maka didalam",
+      "transliteration": "fafī"
+    },
+    {
+      "id": 73043,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_106_005.mp3",
+      "text": "ٱلنَّارِ",
+      "translation": "neraka",
+      "transliteration": "l-nāri"
+    },
+    {
+      "id": 73044,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_106_006.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 73045,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_106_007.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 73046,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_106_008.mp3",
+      "text": "زَفِيرٌۭ",
+      "translation": "menarik nafas",
+      "transliteration": "zafīrun"
+    },
+    {
+      "id": 73047,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_106_009.mp3",
+      "text": "وَشَهِيقٌ",
+      "translation": "dan merintih",
+      "transliteration": "washahīqun"
+    },
+    {
+      "id": 73048,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٠٦",
+      "translation": "(106)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Adapun orang-orang yang celaka, maka (tempatnya) di dalam neraka; di dalamnya mereka mengeluarkan dan menarik napas (dengan merintih),",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

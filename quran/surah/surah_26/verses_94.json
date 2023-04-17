@@ -1,0 +1,70 @@
+{
+  "id": 3026,
+  "chapter_id": 26,
+  "verse_key": "26:94",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "فَكُبْكِبُوا۟ فِيهَا هُمْ وَٱلْغَاوُۥنَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3026.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3026.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3026.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3026.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3026.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3026.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3026.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3026.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3026.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3026.mp3"
+  },
+  "words": [
+    {
+      "id": 69617,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_094_001.mp3",
+      "text": "فَكُبْكِبُوا۟",
+      "translation": "maka dijungkirkan",
+      "transliteration": "fakub'kibū"
+    },
+    {
+      "id": 69618,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_094_002.mp3",
+      "text": "فِيهَا",
+      "translation": "kedalamnya (dalam neraka)",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 69619,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_094_003.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 69620,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_094_004.mp3",
+      "text": "وَٱلْغَاوُۥنَ",
+      "translation": "dan/bersama orang-orang yang sesat",
+      "transliteration": "wal-ghāwūna"
+    },
+    {
+      "id": 69621,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩٤",
+      "translation": "(94)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka mereka (sembahan-sembahan itu) dijungkirkan ke dalam neraka bersama-sama orang-orang yang sesat,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

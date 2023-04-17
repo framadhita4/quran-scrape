@@ -1,0 +1,70 @@
+{
+  "id": 5537,
+  "chapter_id": 74,
+  "verse_key": "74:42",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "مَا سَلَكَكُمْ فِى سَقَرَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5537.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5537.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5537.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5537.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5537.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5537.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5537.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5537.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5537.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5537.mp3"
+  },
+  "words": [
+    {
+      "id": 42972,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_042_001.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 42973,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_042_002.mp3",
+      "text": "سَلَكَكُمْ",
+      "translation": "memasukkan kamu",
+      "transliteration": "salakakum"
+    },
+    {
+      "id": 42974,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_042_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 42975,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_042_004.mp3",
+      "text": "سَقَرَ",
+      "translation": "neraka saqar",
+      "transliteration": "saqara"
+    },
+    {
+      "id": 42976,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "\"Apakah yang memasukkan kamu ke dalam Saqar (neraka)?\"",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

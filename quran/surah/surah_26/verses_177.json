@@ -1,0 +1,86 @@
+{
+  "id": 3109,
+  "chapter_id": 26,
+  "verse_key": "26:177",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 325,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "إِذْ قَالَ لَهُمْ شُعَيْبٌ أَلَا تَتَّقُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3109.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3109.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3109.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3109.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3109.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3109.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3109.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3109.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3109.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3109.mp3"
+  },
+  "words": [
+    {
+      "id": 83507,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_177_001.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 83508,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_177_002.mp3",
+      "text": "قَالَ",
+      "translation": "berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 83509,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_177_003.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 83510,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_177_004.mp3",
+      "text": "شُعَيْبٌ",
+      "translation": "Syu'aib",
+      "transliteration": "shuʿaybun"
+    },
+    {
+      "id": 83511,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_177_005.mp3",
+      "text": "أَلَا",
+      "translation": "mengapa tidak",
+      "transliteration": "alā"
+    },
+    {
+      "id": 83512,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_177_006.mp3",
+      "text": "تَتَّقُونَ",
+      "translation": "kamu bertakwa",
+      "transliteration": "tattaqūna"
+    },
+    {
+      "id": 83513,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٧٧",
+      "translation": "(177)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "ketika Syuʻayb berkata kepada mereka, \"Mengapa kamu tidak bertakwa?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

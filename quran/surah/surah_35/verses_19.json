@@ -1,0 +1,70 @@
+{
+  "id": 3679,
+  "chapter_id": 35,
+  "verse_key": "35:19",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "ruku_number": 380,
+  "manzil_number": 5,
+  "page_number": 437,
+  "juz_number": 22,
+  "text_uthmani": "وَمَا يَسْتَوِى ٱلْأَعْمَىٰ وَٱلْبَصِيرُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3679.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3679.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3679.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3679.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3679.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3679.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3679.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3679.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3679.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3679.mp3"
+  },
+  "words": [
+    {
+      "id": 22226,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_019_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 22227,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_019_002.mp3",
+      "text": "يَسْتَوِى",
+      "translation": "sama",
+      "transliteration": "yastawī"
+    },
+    {
+      "id": 22228,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_019_003.mp3",
+      "text": "ٱلْأَعْمَىٰ",
+      "translation": "orang yang buta",
+      "transliteration": "l-aʿmā"
+    },
+    {
+      "id": 22229,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_019_004.mp3",
+      "text": "وَٱلْبَصِيرُ",
+      "translation": "dan orang yang melihat",
+      "transliteration": "wal-baṣīru"
+    },
+    {
+      "id": 22230,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tidaklah sama orang yang buta dengan orang yang melihat.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

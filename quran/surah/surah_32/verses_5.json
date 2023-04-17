@@ -1,0 +1,174 @@
+{
+  "id": 3508,
+  "chapter_id": 32,
+  "verse_key": "32:5",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "ruku_number": 360,
+  "manzil_number": 5,
+  "page_number": 415,
+  "juz_number": 21,
+  "text_uthmani": "يُدَبِّرُ ٱلْأَمْرَ مِنَ ٱلسَّمَآءِ إِلَى ٱلْأَرْضِ ثُمَّ يَعْرُجُ إِلَيْهِ فِى يَوْمٍ كَانَ مِقْدَارُهُۥٓ أَلْفَ سَنَةٍ مِّمَّا تَعُدُّونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3508.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3508.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3508.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3508.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3508.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3508.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3508.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3508.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3508.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3508.mp3"
+  },
+  "words": [
+    {
+      "id": 5669,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_001.mp3",
+      "text": "يُدَبِّرُ",
+      "translation": "Dia mengatur",
+      "transliteration": "yudabbiru"
+    },
+    {
+      "id": 5670,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_002.mp3",
+      "text": "ٱلْأَمْرَ",
+      "translation": "urusan",
+      "transliteration": "l-amra"
+    },
+    {
+      "id": 5671,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 5672,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_004.mp3",
+      "text": "ٱلسَّمَآءِ",
+      "translation": "langit",
+      "transliteration": "l-samāi"
+    },
+    {
+      "id": 5673,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_005.mp3",
+      "text": "إِلَى",
+      "translation": "sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 5674,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_006.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 5675,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_007.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 5676,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_008.mp3",
+      "text": "يَعْرُجُ",
+      "translation": "ia naik",
+      "transliteration": "yaʿruju"
+    },
+    {
+      "id": 5677,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_009.mp3",
+      "text": "إِلَيْهِ",
+      "translation": "kepada-Nya",
+      "transliteration": "ilayhi"
+    },
+    {
+      "id": 5678,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_010.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 5679,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_011.mp3",
+      "text": "يَوْمٍۢ",
+      "translation": "satu hari",
+      "transliteration": "yawmin"
+    },
+    {
+      "id": 5680,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_012.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 5681,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_013.mp3",
+      "text": "مِقْدَارُهُۥٓ",
+      "translation": "ukurannya",
+      "transliteration": "miq'dāruhu"
+    },
+    {
+      "id": 5682,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_014.mp3",
+      "text": "أَلْفَ",
+      "translation": "seribu",
+      "transliteration": "alfa"
+    },
+    {
+      "id": 5683,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_015.mp3",
+      "text": "سَنَةٍۢ",
+      "translation": "tahun",
+      "transliteration": "sanatin"
+    },
+    {
+      "id": 5684,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_016.mp3",
+      "text": "مِّمَّا",
+      "translation": "dari apa(menurut)",
+      "transliteration": "mimmā"
+    },
+    {
+      "id": 5685,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_005_017.mp3",
+      "text": "تَعُدُّونَ",
+      "translation": "perhitunganmu",
+      "transliteration": "taʿuddūna"
+    },
+    {
+      "id": 5686,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia mengatur urusan dari langit ke bumi, kemudian (urusan) itu naik kepada-Nya dalam satu hari yang kadarnya (lamanya) adalah seribu tahun menurut perhitunganmu <sup foot_note=210959>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

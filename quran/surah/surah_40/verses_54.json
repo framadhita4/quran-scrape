@@ -1,0 +1,70 @@
+{
+  "id": 4187,
+  "chapter_id": 40,
+  "verse_key": "40:54",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "ruku_number": 411,
+  "manzil_number": 6,
+  "page_number": 473,
+  "juz_number": 24,
+  "text_uthmani": "هُدًى وَذِكْرَىٰ لِأُو۟لِى ٱلْأَلْبَـٰبِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4187.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4187.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4187.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4187.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4187.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4187.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4187.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4187.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4187.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4187.mp3"
+  },
+  "words": [
+    {
+      "id": 50974,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_054_001.mp3",
+      "text": "هُدًۭى",
+      "translation": "petunjuk",
+      "transliteration": "hudan"
+    },
+    {
+      "id": 50975,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_054_002.mp3",
+      "text": "وَذِكْرَىٰ",
+      "translation": "dan peringatan",
+      "transliteration": "wadhik'rā"
+    },
+    {
+      "id": 50976,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_054_003.mp3",
+      "text": "لِأُو۟لِى",
+      "translation": "bagi orang-orang yang mempunyai",
+      "transliteration": "li-ulī"
+    },
+    {
+      "id": 50977,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_054_004.mp3",
+      "text": "ٱلْأَلْبَـٰبِ",
+      "translation": "pikiran",
+      "transliteration": "l-albābi"
+    },
+    {
+      "id": 50978,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥٤",
+      "translation": "(54)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "untuk menjadi petunjuk dan peringatan bagi orang-orang yang berpikir.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

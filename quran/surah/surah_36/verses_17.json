@@ -1,0 +1,78 @@
+{
+  "id": 3722,
+  "chapter_id": 36,
+  "verse_key": "36:17",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 384,
+  "manzil_number": 5,
+  "page_number": 441,
+  "juz_number": 22,
+  "text_uthmani": "وَمَا عَلَيْنَآ إِلَّا ٱلْبَلَـٰغُ ٱلْمُبِينُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3722.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3722.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3722.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3722.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3722.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3722.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3722.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3722.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3722.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3722.mp3"
+  },
+  "words": [
+    {
+      "id": 20037,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_017_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak ada",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 20038,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_017_002.mp3",
+      "text": "عَلَيْنَآ",
+      "translation": "atas kami",
+      "transliteration": "ʿalaynā"
+    },
+    {
+      "id": 20039,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_017_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 20040,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_017_004.mp3",
+      "text": "ٱلْبَلَـٰغُ",
+      "translation": "penyampaian",
+      "transliteration": "l-balāghu"
+    },
+    {
+      "id": 20041,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_017_005.mp3",
+      "text": "ٱلْمُبِينُ",
+      "translation": "yang nyata",
+      "transliteration": "l-mubīnu"
+    },
+    {
+      "id": 20042,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kewajiban kami tidak lain hanyalah menyampaikan (perintah Allah) dengan jelas\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

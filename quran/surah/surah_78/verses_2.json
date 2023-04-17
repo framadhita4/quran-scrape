@@ -1,0 +1,62 @@
+{
+  "id": 5674,
+  "chapter_id": 78,
+  "verse_key": "78:2",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5674.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5674.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5674.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5674.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5674.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5674.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5674.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5674.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5674.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5674.mp3"
+  },
+  "words": [
+    {
+      "id": 1691,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_002_001.mp3",
+      "text": "عَنِ",
+      "translation": "dari/tentang",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 1692,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_002_002.mp3",
+      "text": "ٱلنَّبَإِ",
+      "translation": "berita",
+      "transliteration": "l-naba-i"
+    },
+    {
+      "id": 1693,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_002_003.mp3",
+      "text": "ٱلْعَظِيمِ",
+      "translation": "besar",
+      "transliteration": "l-ʿaẓīmi"
+    },
+    {
+      "id": 1694,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tentang berita yang besar<sup foot_note=211314>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

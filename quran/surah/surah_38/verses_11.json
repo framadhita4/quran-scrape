@@ -1,0 +1,86 @@
+{
+  "id": 3981,
+  "chapter_id": 38,
+  "verse_key": "38:11",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 393,
+  "manzil_number": 6,
+  "page_number": 453,
+  "juz_number": 23,
+  "text_uthmani": "جُندٌ مَّا هُنَالِكَ مَهْزُومٌ مِّنَ ٱلْأَحْزَابِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3981.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3981.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3981.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3981.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3981.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3981.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3981.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3981.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3981.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3981.mp3"
+  },
+  "words": [
+    {
+      "id": 13367,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_011_001.mp3",
+      "text": "جُندٌۭ",
+      "translation": "bala tentara",
+      "transliteration": "jundun"
+    },
+    {
+      "id": 13368,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_011_002.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 13369,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_011_003.mp3",
+      "text": "هُنَالِكَ",
+      "translation": "ada disana",
+      "transliteration": "hunālika"
+    },
+    {
+      "id": 13370,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_011_004.mp3",
+      "text": "مَهْزُومٌۭ",
+      "translation": "dibinasakan/dikalahkan",
+      "transliteration": "mahzūmun"
+    },
+    {
+      "id": 13371,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_011_005.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 13372,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_011_006.mp3",
+      "text": "ٱلْأَحْزَابِ",
+      "translation": "golongan yang berserikat",
+      "transliteration": "l-aḥzābi"
+    },
+    {
+      "id": 13373,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Suatu tentara yang besar yang berada di sana dari golongan-golongan yang berserikat pasti akan dikalahkan <sup foot_note=211067>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

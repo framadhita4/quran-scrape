@@ -1,0 +1,94 @@
+{
+  "id": 923,
+  "chapter_id": 6,
+  "verse_key": "6:134",
+  "hizb_number": 15,
+  "rub_el_hizb_number": 58,
+  "ruku_number": 117,
+  "manzil_number": 2,
+  "page_number": 145,
+  "juz_number": 8,
+  "text_uthmani": "إِنَّ مَا تُوعَدُونَ لَـَٔاتٍ ۖ وَمَآ أَنتُم بِمُعْجِزِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/923.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/923.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/923.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/923.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/923.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/923.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/923.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/923.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/923.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/923.mp3"
+  },
+  "words": [
+    {
+      "id": 78346,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_134_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 78347,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_134_002.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 78348,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_134_003.mp3",
+      "text": "تُوعَدُونَ",
+      "translation": "dijanjikan kepadamu",
+      "transliteration": "tūʿadūna"
+    },
+    {
+      "id": 78349,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_134_004.mp3",
+      "text": "لَـَٔاتٍۢ ۖ",
+      "translation": "pasti akan datang",
+      "transliteration": "laātin"
+    },
+    {
+      "id": 78351,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_134_006.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 78352,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_134_007.mp3",
+      "text": "أَنتُم",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 78353,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_134_008.mp3",
+      "text": "بِمُعْجِزِينَ",
+      "translation": "orang-orang yang menolak",
+      "transliteration": "bimuʿ'jizīna"
+    },
+    {
+      "id": 78354,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٣٤",
+      "translation": "(134)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya apa yang dijanjikan kepadamu pasti datang, dan kamu sekali-kali tidak sanggup menolaknya.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

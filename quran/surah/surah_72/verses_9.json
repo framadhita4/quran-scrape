@@ -1,0 +1,142 @@
+{
+  "id": 5456,
+  "chapter_id": 72,
+  "verse_key": "72:9",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 508,
+  "manzil_number": 7,
+  "page_number": 572,
+  "juz_number": 29,
+  "text_uthmani": "وَأَنَّا كُنَّا نَقْعُدُ مِنْهَا مَقَـٰعِدَ لِلسَّمْعِ ۖ فَمَن يَسْتَمِعِ ٱلْـَٔانَ يَجِدْ لَهُۥ شِهَابًا رَّصَدًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5456.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5456.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5456.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5456.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5456.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5456.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5456.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5456.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5456.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5456.mp3"
+  },
+  "words": [
+    {
+      "id": 10313,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_009_001.mp3",
+      "text": "وَأَنَّا",
+      "translation": "dan bahwasannya kami",
+      "transliteration": "wa-annā"
+    },
+    {
+      "id": 10314,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_009_002.mp3",
+      "text": "كُنَّا",
+      "translation": "adalah kami",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 10315,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_009_003.mp3",
+      "text": "نَقْعُدُ",
+      "translation": "kami duduk",
+      "transliteration": "naqʿudu"
+    },
+    {
+      "id": 10316,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_009_004.mp3",
+      "text": "مِنْهَا",
+      "translation": "daripadanya (langit)",
+      "transliteration": "min'hā"
+    },
+    {
+      "id": 10317,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_009_005.mp3",
+      "text": "مَقَـٰعِدَ",
+      "translation": "tempat-tempat duduk",
+      "transliteration": "maqāʿida"
+    },
+    {
+      "id": 10318,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_009_006.mp3",
+      "text": "لِلسَّمْعِ ۖ",
+      "translation": "untuk mendengarkan",
+      "transliteration": "lilssamʿi"
+    },
+    {
+      "id": 10320,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_009_008.mp3",
+      "text": "فَمَن",
+      "translation": "maka barangsiapa",
+      "transliteration": "faman"
+    },
+    {
+      "id": 10321,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_009_009.mp3",
+      "text": "يَسْتَمِعِ",
+      "translation": "ia mendengarkan",
+      "transliteration": "yastamiʿi"
+    },
+    {
+      "id": 10322,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_009_010.mp3",
+      "text": "ٱلْـَٔانَ",
+      "translation": "sekarang",
+      "transliteration": "l-āna"
+    },
+    {
+      "id": 10323,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_009_011.mp3",
+      "text": "يَجِدْ",
+      "translation": "ia mendapati",
+      "transliteration": "yajid"
+    },
+    {
+      "id": 10324,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_009_012.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 10325,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_009_013.mp3",
+      "text": "شِهَابًۭا",
+      "translation": "suluh api yang menyala",
+      "transliteration": "shihāban"
+    },
+    {
+      "id": 10326,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/072_009_014.mp3",
+      "text": "رَّصَدًۭا",
+      "translation": "mengintai",
+      "transliteration": "raṣadan"
+    },
+    {
+      "id": 10327,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya kami dahulu dapat menduduki beberapa tempat di langit itu untuk mendengar-dengarkan (berita-beritanya).  Tetapi sekarang<sup foot_note=211294>1</sup> barang siapa yang (mencoba) mendengar-dengarkan (seperti itu), tentu akan menjumpai panah api yang mengintai (untuk membakarnya).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

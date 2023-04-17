@@ -1,0 +1,102 @@
+{
+  "id": 2938,
+  "chapter_id": 26,
+  "verse_key": "26:6",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 316,
+  "manzil_number": 5,
+  "page_number": 367,
+  "juz_number": 19,
+  "text_uthmani": "فَقَدْ كَذَّبُوا۟ فَسَيَأْتِيهِمْ أَنۢبَـٰٓؤُا۟ مَا كَانُوا۟ بِهِۦ يَسْتَهْزِءُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2938.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2938.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2938.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2938.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2938.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2938.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2938.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2938.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2938.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2938.mp3"
+  },
+  "words": [
+    {
+      "id": 5968,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_006_001.mp3",
+      "text": "فَقَدْ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "faqad"
+    },
+    {
+      "id": 5969,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_006_002.mp3",
+      "text": "كَذَّبُوا۟",
+      "translation": "mereka telah mendustakan",
+      "transliteration": "kadhabū"
+    },
+    {
+      "id": 5970,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_006_003.mp3",
+      "text": "فَسَيَأْتِيهِمْ",
+      "translation": "maka kelak akan datang kepada mereka",
+      "transliteration": "fasayatīhim"
+    },
+    {
+      "id": 5971,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_006_004.mp3",
+      "text": "أَنۢبَـٰٓؤُا۟",
+      "translation": "berita-berita",
+      "transliteration": "anbāu"
+    },
+    {
+      "id": 5972,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_006_005.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 5973,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_006_006.mp3",
+      "text": "كَانُوا۟",
+      "translation": "mereka adalah",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 5974,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_006_007.mp3",
+      "text": "بِهِۦ",
+      "translation": "kepadanya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 5975,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_006_008.mp3",
+      "text": "يَسْتَهْزِءُونَ",
+      "translation": "mereka memperolok-olokan",
+      "transliteration": "yastahziūna"
+    },
+    {
+      "id": 5976,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sungguh mereka telah mendustakan (Al-Qur`ān), maka kelak akan datang kepada mereka (kenyataan dari) berita-berita yang selalu mereka perolok-olokkan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": 4186,
+  "chapter_id": 40,
+  "verse_key": "40:53",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "ruku_number": 411,
+  "manzil_number": 6,
+  "page_number": 473,
+  "juz_number": 24,
+  "text_uthmani": "وَلَقَدْ ءَاتَيْنَا مُوسَى ٱلْهُدَىٰ وَأَوْرَثْنَا بَنِىٓ إِسْرَٰٓءِيلَ ٱلْكِتَـٰبَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4186.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4186.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4186.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4186.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4186.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4186.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4186.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4186.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4186.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4186.mp3"
+  },
+  "words": [
+    {
+      "id": 50861,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_053_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 50862,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_053_002.mp3",
+      "text": "ءَاتَيْنَا",
+      "translation": "telah Kami berikan",
+      "transliteration": "ātaynā"
+    },
+    {
+      "id": 50863,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_053_003.mp3",
+      "text": "مُوسَى",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 50864,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_053_004.mp3",
+      "text": "ٱلْهُدَىٰ",
+      "translation": "petunjuk",
+      "transliteration": "l-hudā"
+    },
+    {
+      "id": 50865,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_053_005.mp3",
+      "text": "وَأَوْرَثْنَا",
+      "translation": "dan Kami wariskan",
+      "transliteration": "wa-awrathnā"
+    },
+    {
+      "id": 50866,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_053_006.mp3",
+      "text": "بَنِىٓ",
+      "translation": "Bani",
+      "transliteration": "banī"
+    },
+    {
+      "id": 50867,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_053_007.mp3",
+      "text": "إِسْرَٰٓءِيلَ",
+      "translation": "Israil",
+      "transliteration": "is'rāīla"
+    },
+    {
+      "id": 50868,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_053_008.mp3",
+      "text": "ٱلْكِتَـٰبَ",
+      "translation": "kitab",
+      "transliteration": "l-kitāba"
+    },
+    {
+      "id": 50869,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٥٣",
+      "translation": "(53)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya telah Kami berikan petunjuk kepada Musa dan Kami wariskan Taurat kepada Bani Isrā`īl,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

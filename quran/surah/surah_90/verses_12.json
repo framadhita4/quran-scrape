@@ -1,0 +1,70 @@
+{
+  "id": 6035,
+  "chapter_id": 90,
+  "verse_key": "90:12",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6035.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6035.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6035.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6035.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6035.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6035.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6035.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6035.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6035.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6035.mp3"
+  },
+  "words": [
+    {
+      "id": 13388,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_012_001.mp3",
+      "text": "وَمَآ",
+      "translation": "da apakah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 13389,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_012_002.mp3",
+      "text": "أَدْرَىٰكَ",
+      "translation": "kamu tahu",
+      "transliteration": "adrāka"
+    },
+    {
+      "id": 13390,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_012_003.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 13391,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_012_004.mp3",
+      "text": "ٱلْعَقَبَةُ",
+      "translation": "pendakian itu",
+      "transliteration": "l-ʿaqabatu"
+    },
+    {
+      "id": 13392,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tahukah kamu apakah jalan yang mendaki lagi sukar itu?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

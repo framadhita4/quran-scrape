@@ -1,0 +1,86 @@
+{
+  "id": 2715,
+  "chapter_id": 23,
+  "verse_key": "23:42",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "page_number": 344,
+  "juz_number": 18,
+  "text_uthmani": "ثُمَّ أَنشَأْنَا مِنۢ بَعْدِهِمْ قُرُونًا ءَاخَرِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2715.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2715.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2715.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2715.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2715.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2715.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2715.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2715.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2715.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2715.mp3"
+  },
+  "words": [
+    {
+      "id": 43340,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_042_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 43341,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_042_002.mp3",
+      "text": "أَنشَأْنَا",
+      "translation": "Kami tumbuhkan/jadikan",
+      "transliteration": "anshanā"
+    },
+    {
+      "id": 43342,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_042_003.mp3",
+      "text": "مِنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 43343,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_042_004.mp3",
+      "text": "بَعْدِهِمْ",
+      "translation": "sesudah mereka",
+      "transliteration": "baʿdihim"
+    },
+    {
+      "id": 43344,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_042_005.mp3",
+      "text": "قُرُونًا",
+      "translation": "ummat-ummat/generasi",
+      "transliteration": "qurūnan"
+    },
+    {
+      "id": 43345,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_042_006.mp3",
+      "text": "ءَاخَرِينَ",
+      "translation": "yang lain",
+      "transliteration": "ākharīna"
+    },
+    {
+      "id": 43346,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, Kami ciptakan sesudah mereka umat-umat yang lain <sup foot_note=210771>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

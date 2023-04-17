@@ -1,0 +1,54 @@
+{
+  "id": 5325,
+  "chapter_id": 69,
+  "verse_key": "69:2",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 566,
+  "juz_number": 29,
+  "text_uthmani": "مَا ٱلْحَآقَّةُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5325.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5325.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5325.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5325.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5325.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5325.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5325.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5325.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5325.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5325.mp3"
+  },
+  "words": [
+    {
+      "id": 1484,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_002_001.mp3",
+      "text": "مَا",
+      "translation": "apakah",
+      "transliteration": "mā"
+    },
+    {
+      "id": 1485,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_002_002.mp3",
+      "text": "ٱلْحَآقَّةُ",
+      "translation": "keadaan yang sebenarnya",
+      "transliteration": "l-ḥāqatu"
+    },
+    {
+      "id": 1486,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "apakah hari kiamat itu?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

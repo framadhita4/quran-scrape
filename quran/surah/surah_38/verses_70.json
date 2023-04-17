@@ -1,0 +1,102 @@
+{
+  "id": 4040,
+  "chapter_id": 38,
+  "verse_key": "38:70",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "إِن يُوحَىٰٓ إِلَىَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٌ مُّبِينٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4040.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4040.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4040.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4040.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4040.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4040.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4040.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4040.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4040.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4040.mp3"
+  },
+  "words": [
+    {
+      "id": 59810,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_070_001.mp3",
+      "text": "إِن",
+      "translation": "tidak",
+      "transliteration": "in"
+    },
+    {
+      "id": 59811,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_070_002.mp3",
+      "text": "يُوحَىٰٓ",
+      "translation": "diwahyukan",
+      "transliteration": "yūḥā"
+    },
+    {
+      "id": 59812,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_070_003.mp3",
+      "text": "إِلَىَّ",
+      "translation": "kepadaku",
+      "transliteration": "ilayya"
+    },
+    {
+      "id": 59813,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_070_004.mp3",
+      "text": "إِلَّآ",
+      "translation": "kecuali/melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 59814,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_070_005.mp3",
+      "text": "أَنَّمَآ",
+      "translation": "bahwa sesungguhnya hanyalah",
+      "transliteration": "annamā"
+    },
+    {
+      "id": 59815,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_070_006.mp3",
+      "text": "أَنَا۠",
+      "translation": "aku",
+      "transliteration": "anā"
+    },
+    {
+      "id": 59816,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_070_007.mp3",
+      "text": "نَذِيرٌۭ",
+      "translation": "seorang pemberi peringatan",
+      "transliteration": "nadhīrun"
+    },
+    {
+      "id": 59817,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_070_008.mp3",
+      "text": "مُّبِينٌ",
+      "translation": "nyata",
+      "transliteration": "mubīnun"
+    },
+    {
+      "id": 59818,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٧٠",
+      "translation": "(70)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidak diwahyukan kepadaku, melainkan bahwa sesungguhnya aku hanyalah seorang pemberi peringatan yang nyata\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": 2572,
+  "chapter_id": 21,
+  "verse_key": "21:89",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 283,
+  "manzil_number": 4,
+  "page_number": 329,
+  "juz_number": 17,
+  "text_uthmani": "وَزَكَرِيَّآ إِذْ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرْنِى فَرْدًا وَأَنتَ خَيْرُ ٱلْوَٰرِثِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2572.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2572.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2572.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2572.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2572.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2572.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2572.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2572.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2572.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2572.mp3"
+  },
+  "words": [
+    {
+      "id": 67823,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_089_001.mp3",
+      "text": "وَزَكَرِيَّآ",
+      "translation": "dan Zakaria",
+      "transliteration": "wazakariyyā"
+    },
+    {
+      "id": 67824,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_089_002.mp3",
+      "text": "إِذْ",
+      "translation": "tatkala",
+      "transliteration": "idh"
+    },
+    {
+      "id": 67825,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_089_003.mp3",
+      "text": "نَادَىٰ",
+      "translation": "dia berseru/berdo'a",
+      "transliteration": "nādā"
+    },
+    {
+      "id": 67826,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_089_004.mp3",
+      "text": "رَبَّهُۥ",
+      "translation": "Tuhannya",
+      "transliteration": "rabbahu"
+    },
+    {
+      "id": 67827,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_089_005.mp3",
+      "text": "رَبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 67828,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_089_006.mp3",
+      "text": "لَا",
+      "translation": "janganlah",
+      "transliteration": "lā"
+    },
+    {
+      "id": 67829,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_089_007.mp3",
+      "text": "تَذَرْنِى",
+      "translation": "Engkau biarkan aku",
+      "transliteration": "tadharnī"
+    },
+    {
+      "id": 67830,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_089_008.mp3",
+      "text": "فَرْدًۭا",
+      "translation": "sendirian",
+      "transliteration": "fardan"
+    },
+    {
+      "id": 67831,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_089_009.mp3",
+      "text": "وَأَنتَ",
+      "translation": "dan Engkau",
+      "transliteration": "wa-anta"
+    },
+    {
+      "id": 67832,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_089_010.mp3",
+      "text": "خَيْرُ",
+      "translation": "paling baik",
+      "transliteration": "khayru"
+    },
+    {
+      "id": 67833,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_089_011.mp3",
+      "text": "ٱلْوَٰرِثِينَ",
+      "translation": "pusaka/waris",
+      "transliteration": "l-wārithīna"
+    },
+    {
+      "id": 67834,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٨٩",
+      "translation": "(89)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (ingatlah kisah) Zakariyyā tatkala ia menyeru Tuhan-nya, \"Ya Tuhan-ku janganlah Engkau membiarkan aku hidup seorang diri <sup foot_note=210737>1</sup> dan Engkau-lah waris yang paling baik <sup foot_note=210738>2</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

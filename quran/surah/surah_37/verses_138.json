@@ -1,0 +1,62 @@
+{
+  "id": 3926,
+  "chapter_id": 37,
+  "verse_key": "37:138",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "وَبِٱلَّيْلِ ۗ أَفَلَا تَعْقِلُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3926.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3926.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3926.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3926.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3926.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3926.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3926.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3926.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3926.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3926.mp3"
+  },
+  "words": [
+    {
+      "id": 78920,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_138_001.mp3",
+      "text": "وَبِٱلَّيْلِ ۗ",
+      "translation": "dan diwaktu malam",
+      "transliteration": "wabi-al-layli"
+    },
+    {
+      "id": 78922,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_138_003.mp3",
+      "text": "أَفَلَا",
+      "translation": "apakah maka tidak",
+      "transliteration": "afalā"
+    },
+    {
+      "id": 78923,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_138_004.mp3",
+      "text": "تَعْقِلُونَ",
+      "translation": "kalian menggunakan akal",
+      "transliteration": "taʿqilūna"
+    },
+    {
+      "id": 78924,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٣٨",
+      "translation": "(138)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan pada waktu malam.  Maka apakah kamu tidak memikirkan?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

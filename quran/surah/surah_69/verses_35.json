@@ -1,0 +1,78 @@
+{
+  "id": 5358,
+  "chapter_id": 69,
+  "verse_key": "69:35",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "فَلَيْسَ لَهُ ٱلْيَوْمَ هَـٰهُنَا حَمِيمٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5358.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5358.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5358.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5358.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5358.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5358.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5358.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5358.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5358.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5358.mp3"
+  },
+  "words": [
+    {
+      "id": 37301,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_035_001.mp3",
+      "text": "فَلَيْسَ",
+      "translation": "maka tidak",
+      "transliteration": "falaysa"
+    },
+    {
+      "id": 37302,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_035_002.mp3",
+      "text": "لَهُ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 37303,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_035_003.mp3",
+      "text": "ٱلْيَوْمَ",
+      "translation": "hari ini",
+      "transliteration": "l-yawma"
+    },
+    {
+      "id": 37304,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_035_004.mp3",
+      "text": "هَـٰهُنَا",
+      "translation": "di sini",
+      "transliteration": "hāhunā"
+    },
+    {
+      "id": 37305,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_035_005.mp3",
+      "text": "حَمِيمٌۭ",
+      "translation": "seorang teman",
+      "transliteration": "ḥamīmun"
+    },
+    {
+      "id": 37306,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka tiada seorang teman pun baginya pada hari ini di sini.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

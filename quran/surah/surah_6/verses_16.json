@@ -1,0 +1,110 @@
+{
+  "id": 805,
+  "chapter_id": 6,
+  "verse_key": "6:16",
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "ruku_number": 103,
+  "manzil_number": 2,
+  "page_number": 129,
+  "juz_number": 7,
+  "text_uthmani": "مَّن يُصْرَفْ عَنْهُ يَوْمَئِذٍ فَقَدْ رَحِمَهُۥ ۚ وَذَٰلِكَ ٱلْفَوْزُ ٱلْمُبِينُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/805.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/805.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/805.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/805.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/805.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/805.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/805.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/805.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/805.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/805.mp3"
+  },
+  "words": [
+    {
+      "id": 18729,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_016_001.mp3",
+      "text": "مَّن",
+      "translation": "barang siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 18730,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_016_002.mp3",
+      "text": "يُصْرَفْ",
+      "translation": "dipalingkan/dijauhkan",
+      "transliteration": "yuṣ'raf"
+    },
+    {
+      "id": 18731,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_016_003.mp3",
+      "text": "عَنْهُ",
+      "translation": "dari padanya/azab",
+      "transliteration": "ʿanhu"
+    },
+    {
+      "id": 18732,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_016_004.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 18733,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_016_005.mp3",
+      "text": "فَقَدْ",
+      "translation": "maka sungguh",
+      "transliteration": "faqad"
+    },
+    {
+      "id": 18734,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_016_006.mp3",
+      "text": "رَحِمَهُۥ ۚ",
+      "translation": "Dia telah merahmatinya",
+      "transliteration": "raḥimahu"
+    },
+    {
+      "id": 18736,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_016_008.mp3",
+      "text": "وَذَٰلِكَ",
+      "translation": "dan demikian/itulah",
+      "transliteration": "wadhālika"
+    },
+    {
+      "id": 18737,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_016_009.mp3",
+      "text": "ٱلْفَوْزُ",
+      "translation": "keuntungan",
+      "transliteration": "l-fawzu"
+    },
+    {
+      "id": 18738,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_016_010.mp3",
+      "text": "ٱلْمُبِينُ",
+      "translation": "nyata",
+      "transliteration": "l-mubīnu"
+    },
+    {
+      "id": 18739,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Barang siapa yang dijauhkan azab darinya pada hari itu, maka sungguh Allah telah memberikan rahmat kepadanya.  Dan itulah keberuntungan yang nyata.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

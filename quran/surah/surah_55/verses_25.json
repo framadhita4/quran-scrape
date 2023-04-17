@@ -1,0 +1,70 @@
+{
+  "id": 4926,
+  "chapter_id": 55,
+  "verse_key": "55:25",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 532,
+  "juz_number": 27,
+  "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4926.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4926.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4926.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4926.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4926.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4926.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4926.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4926.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4926.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4926.mp3"
+  },
+  "words": [
+    {
+      "id": 27898,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_025_001.mp3",
+      "text": "فَبِأَىِّ",
+      "translation": "maka yang mana",
+      "transliteration": "fabi-ayyi"
+    },
+    {
+      "id": 27899,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_025_002.mp3",
+      "text": "ءَالَآءِ",
+      "translation": "ni'mat",
+      "transliteration": "ālāi"
+    },
+    {
+      "id": 27900,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_025_003.mp3",
+      "text": "رَبِّكُمَا",
+      "translation": "Tuhanmu berdua",
+      "transliteration": "rabbikumā"
+    },
+    {
+      "id": 27901,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_025_004.mp3",
+      "text": "تُكَذِّبَانِ",
+      "translation": "kamu berdua dustakan",
+      "transliteration": "tukadhibāni"
+    },
+    {
+      "id": 27902,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka nikmat Tuhan kamu yang manakah yang kamu dustakan?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

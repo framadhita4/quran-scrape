@@ -1,0 +1,62 @@
+{
+  "id": 5965,
+  "chapter_id": 87,
+  "verse_key": "87:17",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلْـَٔاخِرَةُ خَيْرٌ وَأَبْقَىٰٓ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5965.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5965.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5965.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5965.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5965.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5965.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5965.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5965.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5965.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5965.mp3"
+  },
+  "words": [
+    {
+      "id": 19712,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_017_001.mp3",
+      "text": "وَٱلْـَٔاخِرَةُ",
+      "translation": "dan akherat",
+      "transliteration": "wal-ākhiratu"
+    },
+    {
+      "id": 19713,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_017_002.mp3",
+      "text": "خَيْرٌۭ",
+      "translation": "lebih baik",
+      "transliteration": "khayrun"
+    },
+    {
+      "id": 19714,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_017_003.mp3",
+      "text": "وَأَبْقَىٰٓ",
+      "translation": "dan lebih kekal",
+      "transliteration": "wa-abqā"
+    },
+    {
+      "id": 19715,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sedang kehidupan akhirat adalah lebih baik dan lebih kekal.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

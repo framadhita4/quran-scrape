@@ -1,0 +1,86 @@
+{
+  "id": 2944,
+  "chapter_id": 26,
+  "verse_key": "26:12",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 367,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ رَبِّ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2944.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2944.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2944.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2944.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2944.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2944.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2944.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2944.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2944.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2944.mp3"
+  },
+  "words": [
+    {
+      "id": 14287,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_012_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Musa) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 14288,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_012_002.mp3",
+      "text": "رَبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 14289,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_012_003.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 14290,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_012_004.mp3",
+      "text": "أَخَافُ",
+      "translation": "takut",
+      "transliteration": "akhāfu"
+    },
+    {
+      "id": 14291,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_012_005.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 14292,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_012_006.mp3",
+      "text": "يُكَذِّبُونِ",
+      "translation": "mereka akan mendustakan aku",
+      "transliteration": "yukadhibūni"
+    },
+    {
+      "id": 14293,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkata Musa, \"Ya Tuhan-ku, sesungguhnya aku takut bahwa mereka akan mendustakan aku.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

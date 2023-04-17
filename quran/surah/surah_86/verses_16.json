@@ -1,0 +1,54 @@
+{
+  "id": 5947,
+  "chapter_id": 86,
+  "verse_key": "86:16",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "وَأَكِيدُ كَيْدًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5947.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5947.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5947.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5947.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5947.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5947.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5947.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5947.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5947.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5947.mp3"
+  },
+  "words": [
+    {
+      "id": 18777,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_016_001.mp3",
+      "text": "وَأَكِيدُ",
+      "translation": "dan AKu membuat tipu daya",
+      "transliteration": "wa-akīdu"
+    },
+    {
+      "id": 18778,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/086_016_002.mp3",
+      "text": "كَيْدًۭا",
+      "translation": "tipu daya",
+      "transliteration": "kaydan"
+    },
+    {
+      "id": 18779,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Aku pun membuat rencana (pula) dengan sebenar-benarnya.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

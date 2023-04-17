@@ -1,0 +1,54 @@
+{
+  "id": 5624,
+  "chapter_id": 77,
+  "verse_key": "77:2",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "فَٱلْعَـٰصِفَـٰتِ عَصْفًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5624.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5624.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5624.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5624.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5624.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5624.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5624.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5624.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5624.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5624.mp3"
+  },
+  "words": [
+    {
+      "id": 1659,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_002_001.mp3",
+      "text": "فَٱلْعَـٰصِفَـٰتِ",
+      "translation": "lalu yang bertiup",
+      "transliteration": "fal-ʿāṣifāti"
+    },
+    {
+      "id": 1660,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_002_002.mp3",
+      "text": "عَصْفًۭا",
+      "translation": "keras/kencang",
+      "transliteration": "ʿaṣfan"
+    },
+    {
+      "id": 1661,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (malaikat-malaikat) yang terbang dengan kencangnya<sup foot_note=211307>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

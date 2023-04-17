@@ -1,0 +1,70 @@
+{
+  "id": 5410,
+  "chapter_id": 70,
+  "verse_key": "70:35",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "أُو۟لَـٰٓئِكَ فِى جَنَّـٰتٍ مُّكْرَمُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5410.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5410.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5410.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5410.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5410.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5410.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5410.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5410.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5410.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5410.mp3"
+  },
+  "words": [
+    {
+      "id": 37394,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_035_001.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itu",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 37395,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_035_002.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 37396,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_035_003.mp3",
+      "text": "جَنَّـٰتٍۢ",
+      "translation": "sorga",
+      "transliteration": "jannātin"
+    },
+    {
+      "id": 37397,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_035_004.mp3",
+      "text": "مُّكْرَمُونَ",
+      "translation": "orang-orang yang dimuliakan",
+      "transliteration": "muk'ramūna"
+    },
+    {
+      "id": 37398,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka itu (kekal) di surga lagi dimuliakan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

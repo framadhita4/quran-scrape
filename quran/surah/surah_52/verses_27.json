@@ -1,0 +1,86 @@
+{
+  "id": 4762,
+  "chapter_id": 52,
+  "verse_key": "52:27",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 524,
+  "juz_number": 27,
+  "text_uthmani": "فَمَنَّ ٱللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4762.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4762.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4762.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4762.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4762.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4762.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4762.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4762.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4762.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4762.mp3"
+  },
+  "words": [
+    {
+      "id": 30275,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_027_001.mp3",
+      "text": "فَمَنَّ",
+      "translation": "maka memberi karunia",
+      "transliteration": "famanna"
+    },
+    {
+      "id": 30276,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_027_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 30277,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_027_003.mp3",
+      "text": "عَلَيْنَا",
+      "translation": "atas kami",
+      "transliteration": "ʿalaynā"
+    },
+    {
+      "id": 30278,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_027_004.mp3",
+      "text": "وَوَقَىٰنَا",
+      "translation": "dan Dia memelihara kami",
+      "transliteration": "wawaqānā"
+    },
+    {
+      "id": 30279,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_027_005.mp3",
+      "text": "عَذَابَ",
+      "translation": "azab",
+      "transliteration": "ʿadhāba"
+    },
+    {
+      "id": 30280,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_027_006.mp3",
+      "text": "ٱلسَّمُومِ",
+      "translation": "sangat panas",
+      "transliteration": "l-samūmi"
+    },
+    {
+      "id": 30281,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٧",
+      "translation": "(27)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Allah memberikan karunia kepada kami dan memelihara kami dari azab neraka.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

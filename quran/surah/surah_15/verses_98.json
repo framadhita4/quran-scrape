@@ -1,0 +1,86 @@
+{
+  "id": 1900,
+  "chapter_id": 15,
+  "verse_key": "15:98",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 267,
+  "juz_number": 14,
+  "text_uthmani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُن مِّنَ ٱلسَّـٰجِدِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1900.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1900.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1900.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1900.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1900.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1900.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1900.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1900.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1900.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1900.mp3"
+  },
+  "words": [
+    {
+      "id": 70814,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_098_001.mp3",
+      "text": "فَسَبِّحْ",
+      "translation": "maka bertasbihlah kamu",
+      "transliteration": "fasabbiḥ"
+    },
+    {
+      "id": 70815,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_098_002.mp3",
+      "text": "بِحَمْدِ",
+      "translation": "dengan memuji",
+      "transliteration": "biḥamdi"
+    },
+    {
+      "id": 70816,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_098_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 70817,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_098_004.mp3",
+      "text": "وَكُن",
+      "translation": "dan jadilah kamu",
+      "transliteration": "wakun"
+    },
+    {
+      "id": 70818,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_098_005.mp3",
+      "text": "مِّنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 70819,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_098_006.mp3",
+      "text": "ٱلسَّـٰجِدِينَ",
+      "translation": "orang-orang yang bersujud",
+      "transliteration": "l-sājidīna"
+    },
+    {
+      "id": 70820,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩٨",
+      "translation": "(98)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka bertasbihlah dengan memuji Tuhan-mu dan jadilah kamu di antara orang-orang yang bersujud (salat),",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

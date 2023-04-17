@@ -1,0 +1,78 @@
+{
+  "id": 6002,
+  "chapter_id": 89,
+  "verse_key": "89:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6002.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6002.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6002.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6002.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6002.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6002.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6002.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6002.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6002.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6002.mp3"
+  },
+  "words": [
+    {
+      "id": 10277,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_009_001.mp3",
+      "text": "وَثَمُودَ",
+      "translation": "dan Samud",
+      "transliteration": "wathamūda"
+    },
+    {
+      "id": 10278,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_009_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 10279,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_009_003.mp3",
+      "text": "جَابُوا۟",
+      "translation": "(mereka) memotong",
+      "transliteration": "jābū"
+    },
+    {
+      "id": 10280,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_009_004.mp3",
+      "text": "ٱلصَّخْرَ",
+      "translation": "batu-batu besar",
+      "transliteration": "l-ṣakhra"
+    },
+    {
+      "id": 10281,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_009_005.mp3",
+      "text": "بِٱلْوَادِ",
+      "translation": "di lembah",
+      "transliteration": "bil-wādi"
+    },
+    {
+      "id": 10282,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kaum Ṡamūd yang memotong batu-batu besar di lembah<sup foot_note=211344>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": 2549,
+  "chapter_id": 21,
+  "verse_key": "21:66",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "ruku_number": 282,
+  "manzil_number": 4,
+  "page_number": 327,
+  "juz_number": 17,
+  "text_uthmani": "قَالَ أَفَتَعْبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكُمْ شَيْـًٔا وَلَا يَضُرُّكُمْ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2549.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2549.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2549.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2549.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2549.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2549.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2549.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2549.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2549.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2549.mp3"
+  },
+  "words": [
+    {
+      "id": 57680,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_066_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Ibrahim) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 57681,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_066_002.mp3",
+      "text": "أَفَتَعْبُدُونَ",
+      "translation": "maka mengapa kamu menyembah",
+      "transliteration": "afataʿbudūna"
+    },
+    {
+      "id": 57682,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_066_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 57683,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_066_004.mp3",
+      "text": "دُونِ",
+      "translation": "selain",
+      "transliteration": "dūni"
+    },
+    {
+      "id": 57684,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_066_005.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 57685,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_066_006.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 57686,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_066_007.mp3",
+      "text": "لَا",
+      "translation": "yang tidak dapat",
+      "transliteration": "lā"
+    },
+    {
+      "id": 57687,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_066_008.mp3",
+      "text": "يَنفَعُكُمْ",
+      "translation": "memberi manfaat kepadamu",
+      "transliteration": "yanfaʿukum"
+    },
+    {
+      "id": 57688,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_066_009.mp3",
+      "text": "شَيْـًۭٔا",
+      "translation": "sedikitpun",
+      "transliteration": "shayan"
+    },
+    {
+      "id": 57689,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_066_010.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 57690,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/021_066_011.mp3",
+      "text": "يَضُرُّكُمْ",
+      "translation": "memberi mudarat kepadamu",
+      "transliteration": "yaḍurrukum"
+    },
+    {
+      "id": 57691,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٦٦",
+      "translation": "(66)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ibrāhīm berkata, \"Maka mengapakah kamu menyembah selain Allah sesuatu yang tidak dapat memberi manfaat sedikit pun dan tidak (pula) memberi mudarat kepada kamu?\"",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

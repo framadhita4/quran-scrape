@@ -1,0 +1,102 @@
+{
+  "id": 644,
+  "chapter_id": 4,
+  "verse_key": "4:151",
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "ruku_number": 82,
+  "manzil_number": 1,
+  "page_number": 102,
+  "juz_number": 6,
+  "text_uthmani": "أُو۟لَـٰٓئِكَ هُمُ ٱلْكَـٰفِرُونَ حَقًّا ۚ وَأَعْتَدْنَا لِلْكَـٰفِرِينَ عَذَابًا مُّهِينًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/644.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/644.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/644.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/644.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/644.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/644.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/644.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/644.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/644.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/644.mp3"
+  },
+  "words": [
+    {
+      "id": 80617,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_151_001.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itulah",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 80618,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_151_002.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 80619,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_151_003.mp3",
+      "text": "ٱلْكَـٰفِرُونَ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kāfirūna"
+    },
+    {
+      "id": 80620,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_151_004.mp3",
+      "text": "حَقًّۭا ۚ",
+      "translation": "sebenar-benarnya",
+      "transliteration": "ḥaqqan"
+    },
+    {
+      "id": 80622,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_151_006.mp3",
+      "text": "وَأَعْتَدْنَا",
+      "translation": "dan Kami menyediakan",
+      "transliteration": "wa-aʿtadnā"
+    },
+    {
+      "id": 80623,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_151_007.mp3",
+      "text": "لِلْكَـٰفِرِينَ",
+      "translation": "untuk orang-orang kafir",
+      "transliteration": "lil'kāfirīna"
+    },
+    {
+      "id": 80624,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_151_008.mp3",
+      "text": "عَذَابًۭا",
+      "translation": "siksa",
+      "transliteration": "ʿadhāban"
+    },
+    {
+      "id": 80625,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_151_009.mp3",
+      "text": "مُّهِينًۭا",
+      "translation": "menghinakan",
+      "transliteration": "muhīnan"
+    },
+    {
+      "id": 80626,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٥١",
+      "translation": "(151)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "merekalah orang-orang yang kafir sebenar-benarnya.  Kami telah menyediakan untuk orang-orang yang kafir itu siksaan yang menghinakan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

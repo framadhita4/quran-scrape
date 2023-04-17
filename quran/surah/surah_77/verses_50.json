@@ -1,0 +1,70 @@
+{
+  "id": 5672,
+  "chapter_id": 77,
+  "verse_key": "77:50",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 519,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5672.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5672.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5672.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5672.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5672.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5672.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5672.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5672.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5672.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5672.mp3"
+  },
+  "words": [
+    {
+      "id": 48620,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_050_001.mp3",
+      "text": "فَبِأَىِّ",
+      "translation": "maka yang manakah",
+      "transliteration": "fabi-ayyi"
+    },
+    {
+      "id": 48621,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_050_002.mp3",
+      "text": "حَدِيثٍۭ",
+      "translation": "perkataan",
+      "transliteration": "ḥadīthin"
+    },
+    {
+      "id": 48622,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_050_003.mp3",
+      "text": "بَعْدَهُۥ",
+      "translation": "sesudahnya (Al Qur'an)",
+      "transliteration": "baʿdahu"
+    },
+    {
+      "id": 48623,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_050_004.mp3",
+      "text": "يُؤْمِنُونَ",
+      "translation": "mereka akan beriman",
+      "transliteration": "yu'minūna"
+    },
+    {
+      "id": 48624,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka kepada perkataan apakah selain Al-Qur`ān ini mereka akan beriman?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

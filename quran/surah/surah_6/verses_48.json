@@ -1,0 +1,158 @@
+{
+  "id": 837,
+  "chapter_id": 6,
+  "verse_key": "6:48",
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "ruku_number": 106,
+  "manzil_number": 2,
+  "page_number": 133,
+  "juz_number": 7,
+  "text_uthmani": "وَمَا نُرْسِلُ ٱلْمُرْسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَ ۖ فَمَنْ ءَامَنَ وَأَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/837.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/837.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/837.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/837.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/837.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/837.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/837.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/837.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/837.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/837.mp3"
+  },
+  "words": [
+    {
+      "id": 47550,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 47551,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_002.mp3",
+      "text": "نُرْسِلُ",
+      "translation": "Kami mengutus",
+      "transliteration": "nur'silu"
+    },
+    {
+      "id": 47552,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_003.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para Rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 47553,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_004.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 47554,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_005.mp3",
+      "text": "مُبَشِّرِينَ",
+      "translation": "memberi kabar gembira",
+      "transliteration": "mubashirīna"
+    },
+    {
+      "id": 47555,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_006.mp3",
+      "text": "وَمُنذِرِينَ ۖ",
+      "translation": "dan memberi peringatan",
+      "transliteration": "wamundhirīna"
+    },
+    {
+      "id": 47557,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_008.mp3",
+      "text": "فَمَنْ",
+      "translation": "maka barang siapa",
+      "transliteration": "faman"
+    },
+    {
+      "id": 47558,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_009.mp3",
+      "text": "ءَامَنَ",
+      "translation": "beriman",
+      "transliteration": "āmana"
+    },
+    {
+      "id": 47559,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_010.mp3",
+      "text": "وَأَصْلَحَ",
+      "translation": "dan mengadakan perbaikan",
+      "transliteration": "wa-aṣlaḥa"
+    },
+    {
+      "id": 47560,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_011.mp3",
+      "text": "فَلَا",
+      "translation": "maka tidak ada",
+      "transliteration": "falā"
+    },
+    {
+      "id": 47561,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_012.mp3",
+      "text": "خَوْفٌ",
+      "translation": "rasa takut",
+      "transliteration": "khawfun"
+    },
+    {
+      "id": 47562,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_013.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 47563,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_014.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 47564,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_015.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 47565,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_048_016.mp3",
+      "text": "يَحْزَنُونَ",
+      "translation": "mereka bersedih hati",
+      "transliteration": "yaḥzanūna"
+    },
+    {
+      "id": 47566,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tidaklah Kami mengutus para rasul itu melainkan untuk memberi kabar gembira dan memberi peringatan.  Barang siapa yang beriman dan mengadakan perbaikan<sup foot_note=210243>1</sup>, maka tak ada kekhawatiran terhadap mereka dan tidak (pula) mereka bersedih hati.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

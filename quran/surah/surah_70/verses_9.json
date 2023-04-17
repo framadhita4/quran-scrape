@@ -1,0 +1,62 @@
+{
+  "id": 5384,
+  "chapter_id": 70,
+  "verse_key": "70:9",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5384.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5384.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5384.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5384.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5384.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5384.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5384.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5384.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5384.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5384.mp3"
+  },
+  "words": [
+    {
+      "id": 10295,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_009_001.mp3",
+      "text": "وَتَكُونُ",
+      "translation": "dan adalah",
+      "transliteration": "watakūnu"
+    },
+    {
+      "id": 10296,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_009_002.mp3",
+      "text": "ٱلْجِبَالُ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibālu"
+    },
+    {
+      "id": 10297,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_009_003.mp3",
+      "text": "كَٱلْعِهْنِ",
+      "translation": "seperti bulu",
+      "transliteration": "kal-ʿih'ni"
+    },
+    {
+      "id": 10298,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan gunung-gunung menjadi seperti bulu (yang berterbangan).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

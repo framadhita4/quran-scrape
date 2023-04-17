@@ -1,0 +1,62 @@
+{
+  "id": 5550,
+  "chapter_id": 74,
+  "verse_key": "74:55",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "فَمَن شَآءَ ذَكَرَهُۥ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5550.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5550.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5550.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5550.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5550.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5550.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5550.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5550.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5550.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5550.mp3"
+  },
+  "words": [
+    {
+      "id": 51729,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_055_001.mp3",
+      "text": "فَمَن",
+      "translation": "maka barangsiapa",
+      "transliteration": "faman"
+    },
+    {
+      "id": 51730,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_055_002.mp3",
+      "text": "شَآءَ",
+      "translation": "dia menghendaki",
+      "transliteration": "shāa"
+    },
+    {
+      "id": 51731,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_055_003.mp3",
+      "text": "ذَكَرَهُۥ",
+      "translation": "dia mengingatnya",
+      "transliteration": "dhakarahu"
+    },
+    {
+      "id": 51732,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka barang siapa menghendaki, niscaya dia mengambil pelajaran darinya (Al-Qur`ān).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

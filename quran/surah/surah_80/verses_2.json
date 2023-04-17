@@ -1,0 +1,62 @@
+{
+  "id": 5760,
+  "chapter_id": 80,
+  "verse_key": "80:2",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5760.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5760.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5760.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5760.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5760.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5760.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5760.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5760.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5760.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5760.mp3"
+  },
+  "words": [
+    {
+      "id": 1718,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_002_001.mp3",
+      "text": "أَن",
+      "translation": "sesungguhnya",
+      "transliteration": "an"
+    },
+    {
+      "id": 1719,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_002_002.mp3",
+      "text": "جَآءَهُ",
+      "translation": "datang kepadanya",
+      "transliteration": "jāahu"
+    },
+    {
+      "id": 1720,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_002_003.mp3",
+      "text": "ٱلْأَعْمَىٰ",
+      "translation": "seorang buta",
+      "transliteration": "l-aʿmā"
+    },
+    {
+      "id": 1721,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "karena telah datang seorang buta<sup foot_note=211324>1</sup> kepadanya.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

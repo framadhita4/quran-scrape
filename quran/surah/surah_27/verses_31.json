@@ -1,0 +1,78 @@
+{
+  "id": 3190,
+  "chapter_id": 27,
+  "verse_key": "27:31",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "ruku_number": 328,
+  "manzil_number": 5,
+  "page_number": 379,
+  "juz_number": 19,
+  "text_uthmani": "أَلَّا تَعْلُوا۟ عَلَىَّ وَأْتُونِى مُسْلِمِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3190.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3190.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3190.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3190.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3190.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3190.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3190.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3190.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3190.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3190.mp3"
+  },
+  "words": [
+    {
+      "id": 33866,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_031_001.mp3",
+      "text": "أَلَّا",
+      "translation": "janganlah",
+      "transliteration": "allā"
+    },
+    {
+      "id": 33867,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_031_002.mp3",
+      "text": "تَعْلُوا۟",
+      "translation": "kamu berlaku sombong",
+      "transliteration": "taʿlū"
+    },
+    {
+      "id": 33868,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_031_003.mp3",
+      "text": "عَلَىَّ",
+      "translation": "atasku",
+      "transliteration": "ʿalayya"
+    },
+    {
+      "id": 33869,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_031_004.mp3",
+      "text": "وَأْتُونِى",
+      "translation": "dan datanglah kepadaku",
+      "transliteration": "watūnī"
+    },
+    {
+      "id": 33870,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/027_031_005.mp3",
+      "text": "مُسْلِمِينَ",
+      "translation": "orang-orang yang berserah diri",
+      "transliteration": "mus'limīna"
+    },
+    {
+      "id": 33871,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bahwa janganlah kamu sekalian berlaku sombong terhadapku dan datanglah kepadaku sebagai orang-orang yang berserah diri\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

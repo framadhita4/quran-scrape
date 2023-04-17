@@ -1,0 +1,62 @@
+{
+  "id": 4738,
+  "chapter_id": 52,
+  "verse_key": "52:3",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "فِى رَقٍّ مَّنشُورٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4738.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4738.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4738.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4738.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4738.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4738.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4738.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4738.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4738.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4738.mp3"
+  },
+  "words": [
+    {
+      "id": 2192,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_003_001.mp3",
+      "text": "فِى",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 2193,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_003_002.mp3",
+      "text": "رَقٍّۢ",
+      "translation": "lembaran",
+      "transliteration": "raqqin"
+    },
+    {
+      "id": 2194,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_003_003.mp3",
+      "text": "مَّنشُورٍۢ",
+      "translation": "terbentang",
+      "transliteration": "manshūrin"
+    },
+    {
+      "id": 2195,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "pada lembaran yang terbuka,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

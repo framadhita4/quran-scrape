@@ -1,0 +1,102 @@
+{
+  "id": 3314,
+  "chapter_id": 28,
+  "verse_key": "28:62",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "ruku_number": 340,
+  "manzil_number": 5,
+  "page_number": 393,
+  "juz_number": 20,
+  "text_uthmani": "وَيَوْمَ يُنَادِيهِمْ فَيَقُولُ أَيْنَ شُرَكَآءِىَ ٱلَّذِينَ كُنتُمْ تَزْعُمُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3314.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3314.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3314.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3314.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3314.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3314.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3314.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3314.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3314.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3314.mp3"
+  },
+  "words": [
+    {
+      "id": 55761,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_062_001.mp3",
+      "text": "وَيَوْمَ",
+      "translation": "dan pada hari itu",
+      "transliteration": "wayawma"
+    },
+    {
+      "id": 55762,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_062_002.mp3",
+      "text": "يُنَادِيهِمْ",
+      "translation": "Dia memanggil mereka",
+      "transliteration": "yunādīhim"
+    },
+    {
+      "id": 55763,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_062_003.mp3",
+      "text": "فَيَقُولُ",
+      "translation": "lalu Dia berfirman",
+      "transliteration": "fayaqūlu"
+    },
+    {
+      "id": 55764,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_062_004.mp3",
+      "text": "أَيْنَ",
+      "translation": "dimanakah",
+      "transliteration": "ayna"
+    },
+    {
+      "id": 55765,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_062_005.mp3",
+      "text": "شُرَكَآءِىَ",
+      "translation": "sekutu-sekutuKu",
+      "transliteration": "shurakāiya"
+    },
+    {
+      "id": 55766,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_062_006.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 55767,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_062_007.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 55768,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_062_008.mp3",
+      "text": "تَزْعُمُونَ",
+      "translation": "kamu sangkakan/katakan",
+      "transliteration": "tazʿumūna"
+    },
+    {
+      "id": 55769,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٦٢",
+      "translation": "(62)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (ingatlah) hari (pada waktu) Allah menyeru mereka seraya berkata, \"Di manakah sekutu-sekutu-Ku yang dahulu kamu katakan?\"",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

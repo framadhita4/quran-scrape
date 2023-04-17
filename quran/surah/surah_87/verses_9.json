@@ -1,0 +1,70 @@
+{
+  "id": 5957,
+  "chapter_id": 87,
+  "verse_key": "87:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 591,
+  "juz_number": 30,
+  "text_uthmani": "فَذَكِّرْ إِن نَّفَعَتِ ٱلذِّكْرَىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5957.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5957.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5957.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5957.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5957.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5957.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5957.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5957.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5957.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5957.mp3"
+  },
+  "words": [
+    {
+      "id": 10457,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_009_001.mp3",
+      "text": "فَذَكِّرْ",
+      "translation": "maka berilah peringatan",
+      "transliteration": "fadhakkir"
+    },
+    {
+      "id": 10458,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_009_002.mp3",
+      "text": "إِن",
+      "translation": "sesungguhnya",
+      "transliteration": "in"
+    },
+    {
+      "id": 10459,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_009_003.mp3",
+      "text": "نَّفَعَتِ",
+      "translation": "berguna",
+      "transliteration": "nafaʿati"
+    },
+    {
+      "id": 10460,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_009_004.mp3",
+      "text": "ٱلذِّكْرَىٰ",
+      "translation": "peringatan",
+      "transliteration": "l-dhik'rā"
+    },
+    {
+      "id": 10461,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "oleh sebab itu, berikanlah peringatan karena peringatan itu bermanfaat,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

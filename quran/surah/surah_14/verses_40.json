@@ -1,0 +1,110 @@
+{
+  "id": 1790,
+  "chapter_id": 14,
+  "verse_key": "14:40",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "ruku_number": 216,
+  "manzil_number": 3,
+  "page_number": 260,
+  "juz_number": 13,
+  "text_uthmani": "رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى ۚ رَبَّنَا وَتَقَبَّلْ دُعَآءِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1790.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1790.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1790.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1790.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1790.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1790.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1790.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1790.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1790.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1790.mp3"
+  },
+  "words": [
+    {
+      "id": 41255,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_040_001.mp3",
+      "text": "رَبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 41256,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_040_002.mp3",
+      "text": "ٱجْعَلْنِى",
+      "translation": "jadikanlah aku",
+      "transliteration": "ij'ʿalnī"
+    },
+    {
+      "id": 41257,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_040_003.mp3",
+      "text": "مُقِيمَ",
+      "translation": "orang yang mendirikan",
+      "transliteration": "muqīma"
+    },
+    {
+      "id": 41258,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_040_004.mp3",
+      "text": "ٱلصَّلَوٰةِ",
+      "translation": "sholat",
+      "transliteration": "l-ṣalati"
+    },
+    {
+      "id": 41259,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_040_005.mp3",
+      "text": "وَمِن",
+      "translation": "dan dari",
+      "transliteration": "wamin"
+    },
+    {
+      "id": 41260,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_040_006.mp3",
+      "text": "ذُرِّيَّتِى ۚ",
+      "translation": "anak-cucuku",
+      "transliteration": "dhurriyyatī"
+    },
+    {
+      "id": 41262,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_040_008.mp3",
+      "text": "رَبَّنَا",
+      "translation": "ya Tuhan kami",
+      "transliteration": "rabbanā"
+    },
+    {
+      "id": 41263,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_040_009.mp3",
+      "text": "وَتَقَبَّلْ",
+      "translation": "dan perkenankanlah",
+      "transliteration": "wataqabbal"
+    },
+    {
+      "id": 41264,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_040_010.mp3",
+      "text": "دُعَآءِ",
+      "translation": "doaku",
+      "transliteration": "duʿāi"
+    },
+    {
+      "id": 41265,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٠",
+      "translation": "(40)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ya Tuhan-ku, jadikanlah aku dan anak cucuku orang-orang yang tetap mendirikan salat, ya Tuhan kami, perkenankanlah doaku.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1073,
+  "chapter_id": 7,
+  "verse_key": "7:119",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "ruku_number": 135,
+  "manzil_number": 2,
+  "page_number": 164,
+  "juz_number": 9,
+  "text_uthmani": "فَغُلِبُوا۟ هُنَالِكَ وَٱنقَلَبُوا۟ صَـٰغِرِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1073.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1073.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1073.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1073.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1073.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1073.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1073.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1073.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1073.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1073.mp3"
+  },
+  "words": [
+    {
+      "id": 76203,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_119_001.mp3",
+      "text": "فَغُلِبُوا۟",
+      "translation": "maka mereka dikalahkan",
+      "transliteration": "faghulibū"
+    },
+    {
+      "id": 76204,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_119_002.mp3",
+      "text": "هُنَالِكَ",
+      "translation": "disana (ditempat itu)",
+      "transliteration": "hunālika"
+    },
+    {
+      "id": 76205,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_119_003.mp3",
+      "text": "وَٱنقَلَبُوا۟",
+      "translation": "dan mereka kembali",
+      "transliteration": "wa-inqalabū"
+    },
+    {
+      "id": 76206,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_119_004.mp3",
+      "text": "صَـٰغِرِينَ",
+      "translation": "menjadi kecil (kehinaan)",
+      "transliteration": "ṣāghirīna"
+    },
+    {
+      "id": 76207,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١١٩",
+      "translation": "(119)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka mereka kalah di tempat itu dan jadilah mereka orang-orang yang hina.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": 6052,
+  "chapter_id": 91,
+  "verse_key": "91:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "قَدْ أَفْلَحَ مَن زَكَّىٰهَا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6052.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6052.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6052.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6052.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6052.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6052.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6052.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6052.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6052.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6052.mp3"
+  },
+  "words": [
+    {
+      "id": 10792,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_009_001.mp3",
+      "text": "قَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "qad"
+    },
+    {
+      "id": 10793,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_009_002.mp3",
+      "text": "أَفْلَحَ",
+      "translation": "beruntung",
+      "transliteration": "aflaḥa"
+    },
+    {
+      "id": 10794,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_009_003.mp3",
+      "text": "مَن",
+      "translation": "siapa/orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 10795,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_009_004.mp3",
+      "text": "زَكَّىٰهَا",
+      "translation": "mensucikannya",
+      "transliteration": "zakkāhā"
+    },
+    {
+      "id": 10796,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya beruntunglah orang yang menyucikan jiwa itu,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

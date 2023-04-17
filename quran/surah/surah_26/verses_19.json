@@ -1,0 +1,94 @@
+{
+  "id": 2951,
+  "chapter_id": 26,
+  "verse_key": "26:19",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 367,
+  "juz_number": 19,
+  "text_uthmani": "وَفَعَلْتَ فَعْلَتَكَ ٱلَّتِى فَعَلْتَ وَأَنتَ مِنَ ٱلْكَـٰفِرِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2951.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2951.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2951.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2951.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2951.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2951.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2951.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2951.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2951.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2951.mp3"
+  },
+  "words": [
+    {
+      "id": 22102,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_019_001.mp3",
+      "text": "وَفَعَلْتَ",
+      "translation": "dan kamu telah berbuat",
+      "transliteration": "wafaʿalta"
+    },
+    {
+      "id": 22103,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_019_002.mp3",
+      "text": "فَعْلَتَكَ",
+      "translation": "perbuatanmu",
+      "transliteration": "faʿlataka"
+    },
+    {
+      "id": 22104,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_019_003.mp3",
+      "text": "ٱلَّتِى",
+      "translation": "yang",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 22105,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_019_004.mp3",
+      "text": "فَعَلْتَ",
+      "translation": "kamu telah lakukan/perbuat",
+      "transliteration": "faʿalta"
+    },
+    {
+      "id": 22106,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_019_005.mp3",
+      "text": "وَأَنتَ",
+      "translation": "dan kamu",
+      "transliteration": "wa-anta"
+    },
+    {
+      "id": 22107,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_019_006.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 22108,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_019_007.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang kafir/tak membalas budi",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 22109,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kamu telah berbuat suatu perbuatan yang telah kamu lakukan itu <sup foot_note=210848>1</sup> dan kamu termasuk golongan orang-orang yang tidak membalas guna.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

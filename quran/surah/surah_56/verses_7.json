@@ -1,0 +1,62 @@
+{
+  "id": 4986,
+  "chapter_id": 56,
+  "verse_key": "56:7",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 471,
+  "manzil_number": 7,
+  "page_number": 534,
+  "juz_number": 27,
+  "text_uthmani": "وَكُنتُمْ أَزْوَٰجًا ثَلَـٰثَةً",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4986.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4986.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4986.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4986.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4986.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4986.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4986.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4986.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4986.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4986.mp3"
+  },
+  "words": [
+    {
+      "id": 7500,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_007_001.mp3",
+      "text": "وَكُنتُمْ",
+      "translation": "dan kalian",
+      "transliteration": "wakuntum"
+    },
+    {
+      "id": 7501,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_007_002.mp3",
+      "text": "أَزْوَٰجًۭا",
+      "translation": "pasangan/golongan",
+      "transliteration": "azwājan"
+    },
+    {
+      "id": 7502,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_007_003.mp3",
+      "text": "ثَلَـٰثَةًۭ",
+      "translation": "tiga",
+      "transliteration": "thalāthatan"
+    },
+    {
+      "id": 7503,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kamu menjadi tiga golongan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

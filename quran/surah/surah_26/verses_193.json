@@ -1,0 +1,70 @@
+{
+  "id": 3125,
+  "chapter_id": 26,
+  "verse_key": "26:193",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 375,
+  "juz_number": 19,
+  "text_uthmani": "نَزَلَ بِهِ ٱلرُّوحُ ٱلْأَمِينُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3125.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3125.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3125.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3125.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3125.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3125.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3125.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3125.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3125.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3125.mp3"
+  },
+  "words": [
+    {
+      "id": 84745,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_193_001.mp3",
+      "text": "نَزَلَ",
+      "translation": "(dibawa) turun",
+      "transliteration": "nazala"
+    },
+    {
+      "id": 84746,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_193_002.mp3",
+      "text": "بِهِ",
+      "translation": "dengannya (Al-Qur'an)",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 84747,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_193_003.mp3",
+      "text": "ٱلرُّوحُ",
+      "translation": "Ruhul",
+      "transliteration": "l-rūḥu"
+    },
+    {
+      "id": 84748,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_193_004.mp3",
+      "text": "ٱلْأَمِينُ",
+      "translation": "Amin",
+      "transliteration": "l-amīnu"
+    },
+    {
+      "id": 84749,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٩٣",
+      "translation": "(193)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dia dibawa turun oleh Ar-Rūḥ Al-‘Amīn (Jibril),",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

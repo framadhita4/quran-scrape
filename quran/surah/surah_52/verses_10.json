@@ -1,0 +1,62 @@
+{
+  "id": 4745,
+  "chapter_id": 52,
+  "verse_key": "52:10",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "وَتَسِيرُ ٱلْجِبَالُ سَيْرًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4745.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4745.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4745.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4745.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4745.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4745.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4745.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4745.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4745.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4745.mp3"
+  },
+  "words": [
+    {
+      "id": 11059,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_010_001.mp3",
+      "text": "وَتَسِيرُ",
+      "translation": "dan berjalan",
+      "transliteration": "watasīru"
+    },
+    {
+      "id": 11060,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_010_002.mp3",
+      "text": "ٱلْجِبَالُ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibālu"
+    },
+    {
+      "id": 11061,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_010_003.mp3",
+      "text": "سَيْرًۭا",
+      "translation": "sungguh-sungguh berjalan",
+      "transliteration": "sayran"
+    },
+    {
+      "id": 11062,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan gunung benar-benar berjalan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

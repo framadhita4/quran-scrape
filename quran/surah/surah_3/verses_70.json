@@ -1,0 +1,102 @@
+{
+  "id": 363,
+  "chapter_id": 3,
+  "verse_key": "3:70",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "ruku_number": 48,
+  "manzil_number": 1,
+  "page_number": 58,
+  "juz_number": 3,
+  "text_uthmani": "يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تَكْفُرُونَ بِـَٔايَـٰتِ ٱللَّهِ وَأَنتُمْ تَشْهَدُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/363.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/363.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/363.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/363.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/363.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/363.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/363.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/363.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/363.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/363.mp3"
+  },
+  "words": [
+    {
+      "id": 59595,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_070_001.mp3",
+      "text": "يَـٰٓأَهْلَ",
+      "translation": "Wahai ahli",
+      "transliteration": "yāahla"
+    },
+    {
+      "id": 59596,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_070_002.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "Kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 59597,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_070_003.mp3",
+      "text": "لِمَ",
+      "translation": "mengapa",
+      "transliteration": "lima"
+    },
+    {
+      "id": 59598,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_070_004.mp3",
+      "text": "تَكْفُرُونَ",
+      "translation": "kalian kafir",
+      "transliteration": "takfurūna"
+    },
+    {
+      "id": 59599,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_070_005.mp3",
+      "text": "بِـَٔايَـٰتِ",
+      "translation": "pada ayat-ayat",
+      "transliteration": "biāyāti"
+    },
+    {
+      "id": 59600,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_070_006.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 59601,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_070_007.mp3",
+      "text": "وَأَنتُمْ",
+      "translation": "dan kalian",
+      "transliteration": "wa-antum"
+    },
+    {
+      "id": 59602,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_070_008.mp3",
+      "text": "تَشْهَدُونَ",
+      "translation": "(kamu) menyaksikan",
+      "transliteration": "tashhadūna"
+    },
+    {
+      "id": 59603,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٧٠",
+      "translation": "(70)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai ahli kitab, mengapa kamu mengingkari ayat-ayat Allah<sup foot_note=209972>1</sup>, padahal kamu mengetahui (kebenarannya).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

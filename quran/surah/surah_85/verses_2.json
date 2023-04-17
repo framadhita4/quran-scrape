@@ -1,0 +1,54 @@
+{
+  "id": 5911,
+  "chapter_id": 85,
+  "verse_key": "85:2",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 529,
+  "manzil_number": 7,
+  "page_number": 590,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلْيَوْمِ ٱلْمَوْعُودِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5911.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5911.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5911.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5911.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5911.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5911.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5911.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5911.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5911.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5911.mp3"
+  },
+  "words": [
+    {
+      "id": 1746,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_002_001.mp3",
+      "text": "وَٱلْيَوْمِ",
+      "translation": "dan hari",
+      "transliteration": "wal-yawmi"
+    },
+    {
+      "id": 1747,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/085_002_002.mp3",
+      "text": "ٱلْمَوْعُودِ",
+      "translation": "dijanjikan",
+      "transliteration": "l-mawʿūdi"
+    },
+    {
+      "id": 1748,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan hari yang dijanjikan,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

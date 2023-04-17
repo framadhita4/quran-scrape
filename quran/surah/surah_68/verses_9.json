@@ -1,0 +1,70 @@
+{
+  "id": 5280,
+  "chapter_id": 68,
+  "verse_key": "68:9",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5280.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5280.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5280.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5280.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5280.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5280.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5280.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5280.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5280.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5280.mp3"
+  },
+  "words": [
+    {
+      "id": 10283,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_009_001.mp3",
+      "text": "وَدُّوا۟",
+      "translation": "mereka menginginkan",
+      "transliteration": "waddū"
+    },
+    {
+      "id": 10284,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_009_002.mp3",
+      "text": "لَوْ",
+      "translation": "sekiranya/supaya",
+      "transliteration": "law"
+    },
+    {
+      "id": 10285,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_009_003.mp3",
+      "text": "تُدْهِنُ",
+      "translation": "kamu bersikap lemah lembut",
+      "transliteration": "tud'hinu"
+    },
+    {
+      "id": 10286,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_009_004.mp3",
+      "text": "فَيُدْهِنُونَ",
+      "translation": "maka mereka akan bersikap lemah lembut",
+      "transliteration": "fayud'hinūna"
+    },
+    {
+      "id": 10287,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka mereka menginginkan supaya kamu bersikap lunak lalu mereka bersikap lunak (pula kepadamu).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

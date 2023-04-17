@@ -1,0 +1,70 @@
+{
+  "id": 5838,
+  "chapter_id": 82,
+  "verse_key": "82:9",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5838.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5838.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5838.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5838.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5838.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5838.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5838.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5838.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5838.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5838.mp3"
+  },
+  "words": [
+    {
+      "id": 10425,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_009_001.mp3",
+      "text": "كَلَّا",
+      "translation": "sekali-kali jangan",
+      "transliteration": "kallā"
+    },
+    {
+      "id": 10426,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_009_002.mp3",
+      "text": "بَلْ",
+      "translation": "tetap/bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 10427,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_009_003.mp3",
+      "text": "تُكَذِّبُونَ",
+      "translation": "kamu mendustakan",
+      "transliteration": "tukadhibūna"
+    },
+    {
+      "id": 10428,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/082_009_004.mp3",
+      "text": "بِٱلدِّينِ",
+      "translation": "pada hari pembalasan",
+      "transliteration": "bil-dīni"
+    },
+    {
+      "id": 10429,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bukan hanya durhaka saja, bahkan kamu mendustakan hari pembalasan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

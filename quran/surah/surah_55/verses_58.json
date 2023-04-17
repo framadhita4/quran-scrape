@@ -1,0 +1,62 @@
+{
+  "id": 4959,
+  "chapter_id": 55,
+  "verse_key": "55:58",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 470,
+  "manzil_number": 7,
+  "page_number": 533,
+  "juz_number": 27,
+  "text_uthmani": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4959.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4959.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4959.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4959.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4959.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4959.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4959.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4959.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4959.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4959.mp3"
+  },
+  "words": [
+    {
+      "id": 53397,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_058_001.mp3",
+      "text": "كَأَنَّهُنَّ",
+      "translation": "seakan-akan mereka",
+      "transliteration": "ka-annahunna"
+    },
+    {
+      "id": 53398,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_058_002.mp3",
+      "text": "ٱلْيَاقُوتُ",
+      "translation": "yakut",
+      "transliteration": "l-yāqūtu"
+    },
+    {
+      "id": 53399,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_058_003.mp3",
+      "text": "وَٱلْمَرْجَانُ",
+      "translation": "dan marjan",
+      "transliteration": "wal-marjānu"
+    },
+    {
+      "id": 53400,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٥٨",
+      "translation": "(58)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Seakan-akan bidadari itu permata yakut dan merjan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

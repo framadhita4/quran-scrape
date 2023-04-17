@@ -1,0 +1,62 @@
+{
+  "id": 5667,
+  "chapter_id": 77,
+  "verse_key": "77:45",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 519,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5667.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5667.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5667.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5667.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5667.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5667.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5667.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5667.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5667.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5667.mp3"
+  },
+  "words": [
+    {
+      "id": 45191,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_045_001.mp3",
+      "text": "وَيْلٌۭ",
+      "translation": "kecelakaan",
+      "transliteration": "waylun"
+    },
+    {
+      "id": 45192,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_045_002.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 45193,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_045_003.mp3",
+      "text": "لِّلْمُكَذِّبِينَ",
+      "translation": "bagi orang-orang yang mendustakan",
+      "transliteration": "lil'mukadhibīna"
+    },
+    {
+      "id": 45194,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kecelakaan yang besarlah pada hari itu bagi orang-orang yang mendustakan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

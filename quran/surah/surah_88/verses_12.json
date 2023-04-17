@@ -1,0 +1,62 @@
+{
+  "id": 5979,
+  "chapter_id": 88,
+  "verse_key": "88:12",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "فِيهَا عَيْنٌ جَارِيَةٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5979.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5979.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5979.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5979.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5979.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5979.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5979.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5979.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5979.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5979.mp3"
+  },
+  "words": [
+    {
+      "id": 13384,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_012_001.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 13385,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_012_002.mp3",
+      "text": "عَيْنٌۭ",
+      "translation": "mata air",
+      "transliteration": "ʿaynun"
+    },
+    {
+      "id": 13386,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_012_003.mp3",
+      "text": "جَارِيَةٌۭ",
+      "translation": "mengalir",
+      "transliteration": "jāriyatun"
+    },
+    {
+      "id": 13387,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di dalamnya ada mata air yang mengalir.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

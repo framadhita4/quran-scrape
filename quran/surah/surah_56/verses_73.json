@@ -1,0 +1,78 @@
+{
+  "id": 5052,
+  "chapter_id": 56,
+  "verse_key": "56:73",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "نَحْنُ جَعَلْنَـٰهَا تَذْكِرَةً وَمَتَـٰعًا لِّلْمُقْوِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5052.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5052.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5052.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5052.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5052.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5052.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5052.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5052.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5052.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5052.mp3"
+  },
+  "words": [
+    {
+      "id": 60967,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_073_001.mp3",
+      "text": "نَحْنُ",
+      "translation": "Kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 60968,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_073_002.mp3",
+      "text": "جَعَلْنَـٰهَا",
+      "translation": "Kami menjadikannya",
+      "transliteration": "jaʿalnāhā"
+    },
+    {
+      "id": 60969,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_073_003.mp3",
+      "text": "تَذْكِرَةًۭ",
+      "translation": "peringatan/pengajaran",
+      "transliteration": "tadhkiratan"
+    },
+    {
+      "id": 60970,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_073_004.mp3",
+      "text": "وَمَتَـٰعًۭا",
+      "translation": "dan kesenangan/bahan yang berguna",
+      "transliteration": "wamatāʿan"
+    },
+    {
+      "id": 60971,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_073_005.mp3",
+      "text": "لِّلْمُقْوِينَ",
+      "translation": "bagi orang-orang yang musafir",
+      "transliteration": "lil'muq'wīna"
+    },
+    {
+      "id": 60972,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٧٣",
+      "translation": "(73)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kami menjadikan api itu untuk peringatan dan bahan yang berguna bagi musafir di padang pasir.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

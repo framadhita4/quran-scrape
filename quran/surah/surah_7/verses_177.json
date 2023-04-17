@@ -1,0 +1,110 @@
+{
+  "id": 1131,
+  "chapter_id": 7,
+  "verse_key": "7:177",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 69,
+  "ruku_number": 143,
+  "manzil_number": 2,
+  "page_number": 173,
+  "juz_number": 9,
+  "text_uthmani": "سَآءَ مَثَلًا ٱلْقَوْمُ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِنَا وَأَنفُسَهُمْ كَانُوا۟ يَظْلِمُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1131.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1131.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1131.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1131.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1131.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1131.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1131.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1131.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1131.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1131.mp3"
+  },
+  "words": [
+    {
+      "id": 83590,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_177_001.mp3",
+      "text": "سَآءَ",
+      "translation": "amat buruk",
+      "transliteration": "sāa"
+    },
+    {
+      "id": 83591,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_177_002.mp3",
+      "text": "مَثَلًا",
+      "translation": "perumpamaan",
+      "transliteration": "mathalan"
+    },
+    {
+      "id": 83592,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_177_003.mp3",
+      "text": "ٱلْقَوْمُ",
+      "translation": "kaum",
+      "transliteration": "l-qawmu"
+    },
+    {
+      "id": 83593,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_177_004.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 83594,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_177_005.mp3",
+      "text": "كَذَّبُوا۟",
+      "translation": "(mereka) mendustakan",
+      "transliteration": "kadhabū"
+    },
+    {
+      "id": 83595,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_177_006.mp3",
+      "text": "بِـَٔايَـٰتِنَا",
+      "translation": "pada ayat-ayat Kami",
+      "transliteration": "biāyātinā"
+    },
+    {
+      "id": 83596,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_177_007.mp3",
+      "text": "وَأَنفُسَهُمْ",
+      "translation": "dan diri mereka",
+      "transliteration": "wa-anfusahum"
+    },
+    {
+      "id": 83597,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_177_008.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 83598,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_177_009.mp3",
+      "text": "يَظْلِمُونَ",
+      "translation": "mereka berbuat dzalim",
+      "transliteration": "yaẓlimūna"
+    },
+    {
+      "id": 83599,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٧٧",
+      "translation": "(177)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Amat buruklah perumpamaan orang-orang yang mendustakan ayat-ayat Kami dan kepada diri mereka sendirilah mereka berbuat zalim.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

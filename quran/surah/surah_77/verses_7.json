@@ -1,0 +1,62 @@
+{
+  "id": 5629,
+  "chapter_id": 77,
+  "verse_key": "77:7",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5629.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5629.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5629.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5629.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5629.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5629.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5629.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5629.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5629.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5629.mp3"
+  },
+  "words": [
+    {
+      "id": 8009,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_007_001.mp3",
+      "text": "إِنَّمَا",
+      "translation": "sesungguhnya hanyalah",
+      "transliteration": "innamā"
+    },
+    {
+      "id": 8010,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_007_002.mp3",
+      "text": "تُوعَدُونَ",
+      "translation": "kamu dijanjikan",
+      "transliteration": "tūʿadūna"
+    },
+    {
+      "id": 8011,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_007_003.mp3",
+      "text": "لَوَٰقِعٌۭ",
+      "translation": "pasti terjadi",
+      "transliteration": "lawāqiʿun"
+    },
+    {
+      "id": 8012,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesungguhnya apa yang dijanjikan kepadamu itu pasti terjadi.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

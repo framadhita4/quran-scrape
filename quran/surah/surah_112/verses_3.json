@@ -1,0 +1,70 @@
+{
+  "id": 6224,
+  "chapter_id": 112,
+  "verse_key": "112:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 556,
+  "manzil_number": 7,
+  "page_number": 604,
+  "juz_number": 30,
+  "text_uthmani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6224.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6224.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6224.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6224.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6224.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6224.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6224.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6224.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6224.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6224.mp3"
+  },
+  "words": [
+    {
+      "id": 2746,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/112_003_001.mp3",
+      "text": "لَمْ",
+      "translation": "tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 2747,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/112_003_002.mp3",
+      "text": "يَلِدْ",
+      "translation": "beranak",
+      "transliteration": "yalid"
+    },
+    {
+      "id": 2748,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/112_003_003.mp3",
+      "text": "وَلَمْ",
+      "translation": "dan tidak",
+      "transliteration": "walam"
+    },
+    {
+      "id": 2749,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/112_003_004.mp3",
+      "text": "يُولَدْ",
+      "translation": "diperanakkan",
+      "transliteration": "yūlad"
+    },
+    {
+      "id": 2750,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dia tiada beranak dan tiada pula diperanakkan,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

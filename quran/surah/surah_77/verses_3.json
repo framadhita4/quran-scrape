@@ -1,0 +1,54 @@
+{
+  "id": 5625,
+  "chapter_id": 77,
+  "verse_key": "77:3",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "وَٱلنَّـٰشِرَٰتِ نَشْرًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5625.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5625.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5625.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5625.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5625.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5625.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5625.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5625.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5625.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5625.mp3"
+  },
+  "words": [
+    {
+      "id": 2790,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_003_001.mp3",
+      "text": "وَٱلنَّـٰشِرَٰتِ",
+      "translation": "dan yang menyebarkan",
+      "transliteration": "wal-nāshirāti"
+    },
+    {
+      "id": 2791,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_003_002.mp3",
+      "text": "نَشْرًۭا",
+      "translation": "sebaran seluas-luasnya",
+      "transliteration": "nashran"
+    },
+    {
+      "id": 2792,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (malaikat-malaikat) yang menyebarkan (rahmat Tuhan-nya) dengan seluas-luasnya<sup foot_note=211308>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

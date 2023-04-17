@@ -1,0 +1,78 @@
+{
+  "id": 5737,
+  "chapter_id": 79,
+  "verse_key": "79:25",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلْـَٔاخِرَةِ وَٱلْأُولَىٰٓ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5737.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5737.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5737.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5737.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5737.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5737.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5737.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5737.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5737.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5737.mp3"
+  },
+  "words": [
+    {
+      "id": 28127,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_025_001.mp3",
+      "text": "فَأَخَذَهُ",
+      "translation": "maka mengambil/menyiksanya",
+      "transliteration": "fa-akhadhahu"
+    },
+    {
+      "id": 28128,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_025_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 28129,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_025_003.mp3",
+      "text": "نَكَالَ",
+      "translation": "siksa",
+      "transliteration": "nakāla"
+    },
+    {
+      "id": 28130,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_025_004.mp3",
+      "text": "ٱلْـَٔاخِرَةِ",
+      "translation": "akhirat",
+      "transliteration": "l-ākhirati"
+    },
+    {
+      "id": 28131,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_025_005.mp3",
+      "text": "وَٱلْأُولَىٰٓ",
+      "translation": "dan dunia",
+      "transliteration": "wal-ūlā"
+    },
+    {
+      "id": 28132,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Allah mengazabnya dengan azab di akhirat dan azab di dunia.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

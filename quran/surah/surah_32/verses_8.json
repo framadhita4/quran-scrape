@@ -1,0 +1,102 @@
+{
+  "id": 3511,
+  "chapter_id": 32,
+  "verse_key": "32:8",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "ruku_number": 360,
+  "manzil_number": 5,
+  "page_number": 415,
+  "juz_number": 21,
+  "text_uthmani": "ثُمَّ جَعَلَ نَسْلَهُۥ مِن سُلَـٰلَةٍ مِّن مَّآءٍ مَّهِينٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3511.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3511.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3511.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3511.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3511.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3511.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3511.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3511.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3511.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3511.mp3"
+  },
+  "words": [
+    {
+      "id": 9460,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 9461,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_002.mp3",
+      "text": "جَعَلَ",
+      "translation": "Dia menjadikan",
+      "transliteration": "jaʿala"
+    },
+    {
+      "id": 9462,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_003.mp3",
+      "text": "نَسْلَهُۥ",
+      "translation": "keturunannya",
+      "transliteration": "naslahu"
+    },
+    {
+      "id": 9463,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_004.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 9464,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_005.mp3",
+      "text": "سُلَـٰلَةٍۢ",
+      "translation": "sari pati",
+      "transliteration": "sulālatin"
+    },
+    {
+      "id": 9465,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_006.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 9466,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_007.mp3",
+      "text": "مَّآءٍۢ",
+      "translation": "air",
+      "transliteration": "māin"
+    },
+    {
+      "id": 9467,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/032_008_008.mp3",
+      "text": "مَّهِينٍۢ",
+      "translation": "yang hina",
+      "transliteration": "mahīnin"
+    },
+    {
+      "id": 9468,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, Dia menjadikan keturunannya dari sari pati air yang hina (air mani).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

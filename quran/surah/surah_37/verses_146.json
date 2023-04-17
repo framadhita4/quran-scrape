@@ -1,0 +1,78 @@
+{
+  "id": 3934,
+  "chapter_id": 37,
+  "verse_key": "37:146",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "وَأَنۢبَتْنَا عَلَيْهِ شَجَرَةً مِّن يَقْطِينٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3934.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3934.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3934.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3934.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3934.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3934.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3934.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3934.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3934.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3934.mp3"
+  },
+  "words": [
+    {
+      "id": 79925,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_146_001.mp3",
+      "text": "وَأَنۢبَتْنَا",
+      "translation": "dan Kami tumbuhkan",
+      "transliteration": "wa-anbatnā"
+    },
+    {
+      "id": 79926,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_146_002.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya/untuknya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 79927,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_146_003.mp3",
+      "text": "شَجَرَةًۭ",
+      "translation": "sebatang pohon",
+      "transliteration": "shajaratan"
+    },
+    {
+      "id": 79928,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_146_004.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 79929,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_146_005.mp3",
+      "text": "يَقْطِينٍۢ",
+      "translation": "jenis labu",
+      "transliteration": "yaqṭīnin"
+    },
+    {
+      "id": 79930,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٤٦",
+      "translation": "(146)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami tumbuhkan untuk dia sebatang pohon dari jenis labu.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

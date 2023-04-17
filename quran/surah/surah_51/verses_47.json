@@ -1,0 +1,78 @@
+{
+  "id": 4722,
+  "chapter_id": 51,
+  "verse_key": "51:47",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 459,
+  "manzil_number": 7,
+  "page_number": 522,
+  "juz_number": 27,
+  "text_uthmani": "وَٱلسَّمَآءَ بَنَيْنَـٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4722.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4722.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4722.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4722.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4722.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4722.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4722.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4722.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4722.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4722.mp3"
+  },
+  "words": [
+    {
+      "id": 46488,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_047_001.mp3",
+      "text": "وَٱلسَّمَآءَ",
+      "translation": "dan langit",
+      "transliteration": "wal-samāa"
+    },
+    {
+      "id": 46489,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_047_002.mp3",
+      "text": "بَنَيْنَـٰهَا",
+      "translation": "Kami bangun ia",
+      "transliteration": "banaynāhā"
+    },
+    {
+      "id": 46490,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_047_003.mp3",
+      "text": "بِأَيْي۟دٍۢ",
+      "translation": "dengan kekuasaan",
+      "transliteration": "bi-aydin"
+    },
+    {
+      "id": 46491,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_047_004.mp3",
+      "text": "وَإِنَّا",
+      "translation": "dan sesungguhnya Kami",
+      "transliteration": "wa-innā"
+    },
+    {
+      "id": 46492,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_047_005.mp3",
+      "text": "لَمُوسِعُونَ",
+      "translation": "benar-benar luas",
+      "transliteration": "lamūsiʿūna"
+    },
+    {
+      "id": 46493,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٧",
+      "translation": "(47)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan langit itu Kami bangun dengan kekuasaan (Kami) dan sesungguhnya Kami benar-benar berkuasa",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

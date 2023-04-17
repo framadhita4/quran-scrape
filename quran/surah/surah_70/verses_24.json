@@ -1,0 +1,78 @@
+{
+  "id": 5399,
+  "chapter_id": 70,
+  "verse_key": "70:24",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "page_number": 569,
+  "juz_number": 29,
+  "text_uthmani": "وَٱلَّذِينَ فِىٓ أَمْوَٰلِهِمْ حَقٌّ مَّعْلُومٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5399.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5399.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5399.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5399.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5399.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5399.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5399.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5399.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5399.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5399.mp3"
+  },
+  "words": [
+    {
+      "id": 27029,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_024_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 27030,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_024_002.mp3",
+      "text": "فِىٓ",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 27031,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_024_003.mp3",
+      "text": "أَمْوَٰلِهِمْ",
+      "translation": "harta mereka",
+      "transliteration": "amwālihim"
+    },
+    {
+      "id": 27032,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_024_004.mp3",
+      "text": "حَقٌّۭ",
+      "translation": "hak/bagian",
+      "transliteration": "ḥaqqun"
+    },
+    {
+      "id": 27033,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/070_024_005.mp3",
+      "text": "مَّعْلُومٌۭ",
+      "translation": "tertentu",
+      "transliteration": "maʿlūmun"
+    },
+    {
+      "id": 27034,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan orang-orang yang dalam hartanya tersedia bagian tertentu,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

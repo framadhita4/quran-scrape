@@ -1,0 +1,62 @@
+{
+  "id": 6050,
+  "chapter_id": 91,
+  "verse_key": "91:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 535,
+  "manzil_number": 7,
+  "page_number": 595,
+  "juz_number": 30,
+  "text_uthmani": "وَنَفْسٍ وَمَا سَوَّىٰهَا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6050.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6050.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6050.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6050.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6050.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6050.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6050.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6050.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6050.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6050.mp3"
+  },
+  "words": [
+    {
+      "id": 8376,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_007_001.mp3",
+      "text": "وَنَفْسٍۢ",
+      "translation": "dan manusia/jiwa",
+      "transliteration": "wanafsin"
+    },
+    {
+      "id": 8377,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_007_002.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 8378,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/091_007_003.mp3",
+      "text": "سَوَّىٰهَا",
+      "translation": "penyempurnaanya",
+      "transliteration": "sawwāhā"
+    },
+    {
+      "id": 8379,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan jiwa serta penyempurnaannya (ciptaannya),",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

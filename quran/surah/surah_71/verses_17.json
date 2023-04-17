@@ -1,0 +1,78 @@
+{
+  "id": 5436,
+  "chapter_id": 71,
+  "verse_key": "71:17",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "page_number": 571,
+  "juz_number": 29,
+  "text_uthmani": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلْأَرْضِ نَبَاتًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5436.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5436.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5436.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5436.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5436.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5436.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5436.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5436.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5436.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5436.mp3"
+  },
+  "words": [
+    {
+      "id": 19527,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_017_001.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 19528,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_017_002.mp3",
+      "text": "أَنۢبَتَكُم",
+      "translation": "menumbuhkan kamu",
+      "transliteration": "anbatakum"
+    },
+    {
+      "id": 19529,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_017_003.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 19530,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_017_004.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 19531,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_017_005.mp3",
+      "text": "نَبَاتًۭا",
+      "translation": "pertumbuhan",
+      "transliteration": "nabātan"
+    },
+    {
+      "id": 19532,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Allah menumbuhkan kamu dari tanah dengan sebaik-baiknya,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

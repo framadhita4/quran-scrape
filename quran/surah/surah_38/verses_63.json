@@ -1,0 +1,86 @@
+{
+  "id": 4033,
+  "chapter_id": 38,
+  "verse_key": "38:63",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "أَتَّخَذْنَـٰهُمْ سِخْرِيًّا أَمْ زَاغَتْ عَنْهُمُ ٱلْأَبْصَـٰرُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4033.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4033.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4033.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4033.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4033.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4033.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4033.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4033.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4033.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4033.mp3"
+  },
+  "words": [
+    {
+      "id": 56436,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_063_001.mp3",
+      "text": "أَتَّخَذْنَـٰهُمْ",
+      "translation": "apakah kami menjadikan mereka",
+      "transliteration": "attakhadhnāhum"
+    },
+    {
+      "id": 56437,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_063_002.mp3",
+      "text": "سِخْرِيًّا",
+      "translation": "ejekan/olok-olokan",
+      "transliteration": "sikh'riyyan"
+    },
+    {
+      "id": 56438,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_063_003.mp3",
+      "text": "أَمْ",
+      "translation": "atau",
+      "transliteration": "am"
+    },
+    {
+      "id": 56439,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_063_004.mp3",
+      "text": "زَاغَتْ",
+      "translation": "suram/tidak melihat",
+      "transliteration": "zāghat"
+    },
+    {
+      "id": 56440,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_063_005.mp3",
+      "text": "عَنْهُمُ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhumu"
+    },
+    {
+      "id": 56441,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_063_006.mp3",
+      "text": "ٱلْأَبْصَـٰرُ",
+      "translation": "penglihatan",
+      "transliteration": "l-abṣāru"
+    },
+    {
+      "id": 56442,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٦٣",
+      "translation": "(63)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah kami dahulu menjadikan mereka olok-olokan ataukah karena mata kami tidak melihat mereka?\"",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

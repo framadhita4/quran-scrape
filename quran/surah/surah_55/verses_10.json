@@ -1,0 +1,62 @@
+{
+  "id": 4911,
+  "chapter_id": 55,
+  "verse_key": "55:10",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "page_number": 531,
+  "juz_number": 27,
+  "text_uthmani": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4911.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4911.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4911.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4911.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4911.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4911.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4911.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4911.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4911.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4911.mp3"
+  },
+  "words": [
+    {
+      "id": 11167,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_010_001.mp3",
+      "text": "وَٱلْأَرْضَ",
+      "translation": "dan bumi",
+      "transliteration": "wal-arḍa"
+    },
+    {
+      "id": 11168,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_010_002.mp3",
+      "text": "وَضَعَهَا",
+      "translation": "Dia letakkan/hamparkannya",
+      "transliteration": "waḍaʿahā"
+    },
+    {
+      "id": 11169,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/055_010_003.mp3",
+      "text": "لِلْأَنَامِ",
+      "translation": "untuk makhluk",
+      "transliteration": "lil'anāmi"
+    },
+    {
+      "id": 11170,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Allah telah meratakan bumi untuk makhluk-(Nya).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

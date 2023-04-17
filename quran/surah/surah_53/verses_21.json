@@ -1,0 +1,70 @@
+{
+  "id": 4805,
+  "chapter_id": 53,
+  "verse_key": "53:21",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلْأُنثَىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4805.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4805.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4805.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4805.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4805.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4805.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4805.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4805.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4805.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4805.mp3"
+  },
+  "words": [
+    {
+      "id": 23720,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_021_001.mp3",
+      "text": "أَلَكُمُ",
+      "translation": "apakah bagimu",
+      "transliteration": "alakumu"
+    },
+    {
+      "id": 23721,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_021_002.mp3",
+      "text": "ٱلذَّكَرُ",
+      "translation": "laki-laki",
+      "transliteration": "l-dhakaru"
+    },
+    {
+      "id": 23722,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_021_003.mp3",
+      "text": "وَلَهُ",
+      "translation": "dan bagi-Nya",
+      "transliteration": "walahu"
+    },
+    {
+      "id": 23723,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_021_004.mp3",
+      "text": "ٱلْأُنثَىٰ",
+      "translation": "perempuan",
+      "transliteration": "l-unthā"
+    },
+    {
+      "id": 23724,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Apakah (patut) untuk kamu (anak) laki-laki dan untuk Allah (anak) perempuan?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

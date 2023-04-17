@@ -1,0 +1,70 @@
+{
+  "id": 5964,
+  "chapter_id": 87,
+  "verse_key": "87:16",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 531,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "بَلْ تُؤْثِرُونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5964.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5964.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5964.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5964.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5964.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5964.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5964.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5964.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5964.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5964.mp3"
+  },
+  "words": [
+    {
+      "id": 18745,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_016_001.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan/tetapi",
+      "transliteration": "bal"
+    },
+    {
+      "id": 18746,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_016_002.mp3",
+      "text": "تُؤْثِرُونَ",
+      "translation": "kamu memilih",
+      "transliteration": "tu'thirūna"
+    },
+    {
+      "id": 18747,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_016_003.mp3",
+      "text": "ٱلْحَيَوٰةَ",
+      "translation": "kehidupan",
+      "transliteration": "l-ḥayata"
+    },
+    {
+      "id": 18748,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/087_016_004.mp3",
+      "text": "ٱلدُّنْيَا",
+      "translation": "dunia",
+      "transliteration": "l-dun'yā"
+    },
+    {
+      "id": 18749,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tetapi kamu (orang-orang kafir) memilih kehidupan duniawi.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

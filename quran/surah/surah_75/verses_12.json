@@ -1,0 +1,70 @@
+{
+  "id": 5563,
+  "chapter_id": 75,
+  "verse_key": "75:12",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 577,
+  "juz_number": 29,
+  "text_uthmani": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ ٱلْمُسْتَقَرُّ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5563.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5563.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5563.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5563.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5563.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5563.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5563.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5563.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5563.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5563.mp3"
+  },
+  "words": [
+    {
+      "id": 14131,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_012_001.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 14132,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_012_002.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 14133,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_012_003.mp3",
+      "text": "يَوْمَئِذٍ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 14134,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_012_004.mp3",
+      "text": "ٱلْمُسْتَقَرُّ",
+      "translation": "tempat menetap/kembali",
+      "transliteration": "l-mus'taqaru"
+    },
+    {
+      "id": 14135,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hanya kepada Tuhan-mu sajalah pada hari itu tempat kembali.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

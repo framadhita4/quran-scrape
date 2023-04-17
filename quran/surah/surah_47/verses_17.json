@@ -1,0 +1,86 @@
+{
+  "id": 4562,
+  "chapter_id": 47,
+  "verse_key": "47:17",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "ruku_number": 445,
+  "manzil_number": 6,
+  "page_number": 508,
+  "juz_number": 26,
+  "text_uthmani": "وَٱلَّذِينَ ٱهْتَدَوْا۟ زَادَهُمْ هُدًى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4562.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4562.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4562.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4562.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4562.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4562.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4562.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4562.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4562.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4562.mp3"
+  },
+  "words": [
+    {
+      "id": 19202,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_017_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 19203,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_017_002.mp3",
+      "text": "ٱهْتَدَوْا۟",
+      "translation": "mereka mendapat petunjuk",
+      "transliteration": "ih'tadaw"
+    },
+    {
+      "id": 19204,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_017_003.mp3",
+      "text": "زَادَهُمْ",
+      "translation": "Dia menambah mereka",
+      "transliteration": "zādahum"
+    },
+    {
+      "id": 19205,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_017_004.mp3",
+      "text": "هُدًۭى",
+      "translation": "petunjuk",
+      "transliteration": "hudan"
+    },
+    {
+      "id": 19206,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_017_005.mp3",
+      "text": "وَءَاتَىٰهُمْ",
+      "translation": "dan Dia memberi mereka",
+      "transliteration": "waātāhum"
+    },
+    {
+      "id": 19207,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/047_017_006.mp3",
+      "text": "تَقْوَىٰهُمْ",
+      "translation": "ketakwaan mereka",
+      "transliteration": "taqwāhum"
+    },
+    {
+      "id": 19208,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang-orang yang mendapat petunjuk, Allah menambah petunjuk kepada mereka dan memberikan kepada mereka (balasan) ketakwaannya.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

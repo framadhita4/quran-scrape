@@ -1,0 +1,62 @@
+{
+  "id": 561,
+  "chapter_id": 4,
+  "verse_key": "4:68",
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "ruku_number": 70,
+  "manzil_number": 1,
+  "page_number": 89,
+  "juz_number": 5,
+  "text_uthmani": "وَلَهَدَيْنَـٰهُمْ صِرَٰطًا مُّسْتَقِيمًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/561.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/561.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/561.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/561.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/561.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/561.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/561.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/561.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/561.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/561.mp3"
+  },
+  "words": [
+    {
+      "id": 58529,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_068_001.mp3",
+      "text": "وَلَهَدَيْنَـٰهُمْ",
+      "translation": "dan pasti Kami beri petunjuk mereka",
+      "transliteration": "walahadaynāhum"
+    },
+    {
+      "id": 58530,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_068_002.mp3",
+      "text": "صِرَٰطًۭا",
+      "translation": "jalan",
+      "transliteration": "ṣirāṭan"
+    },
+    {
+      "id": 58531,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_068_003.mp3",
+      "text": "مُّسْتَقِيمًۭا",
+      "translation": "lurus/benar",
+      "transliteration": "mus'taqīman"
+    },
+    {
+      "id": 58532,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٦٨",
+      "translation": "(68)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan pasti Kami tunjuki mereka kepada jalan yang lurus.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

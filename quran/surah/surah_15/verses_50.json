@@ -1,0 +1,78 @@
+{
+  "id": 1852,
+  "chapter_id": 15,
+  "verse_key": "15:50",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 221,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "وَأَنَّ عَذَابِى هُوَ ٱلْعَذَابُ ٱلْأَلِيمُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1852.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1852.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1852.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1852.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1852.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1852.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1852.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1852.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1852.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1852.mp3"
+  },
+  "words": [
+    {
+      "id": 48983,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_050_001.mp3",
+      "text": "وَأَنَّ",
+      "translation": "Dan bahwa",
+      "transliteration": "wa-anna"
+    },
+    {
+      "id": 48984,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_050_002.mp3",
+      "text": "عَذَابِى",
+      "translation": "azabKu",
+      "transliteration": "ʿadhābī"
+    },
+    {
+      "id": 48985,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_050_003.mp3",
+      "text": "هُوَ",
+      "translation": "ia/adalah",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 48986,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_050_004.mp3",
+      "text": "ٱلْعَذَابُ",
+      "translation": "azab",
+      "transliteration": "l-ʿadhābu"
+    },
+    {
+      "id": 48987,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_050_005.mp3",
+      "text": "ٱلْأَلِيمُ",
+      "translation": "sangat pedih",
+      "transliteration": "l-alīmu"
+    },
+    {
+      "id": 48988,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٥٠",
+      "translation": "(50)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bahwa sesungguhnya azab-Ku adalah azab yang sangat pedih.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

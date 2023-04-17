@@ -1,0 +1,70 @@
+{
+  "id": 4655,
+  "chapter_id": 50,
+  "verse_key": "50:25",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 455,
+  "manzil_number": 7,
+  "page_number": 519,
+  "juz_number": 26,
+  "text_uthmani": "مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ مُّرِيبٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4655.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4655.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4655.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4655.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4655.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4655.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4655.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4655.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4655.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4655.mp3"
+  },
+  "words": [
+    {
+      "id": 27847,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_025_001.mp3",
+      "text": "مَّنَّاعٍۢ",
+      "translation": "yang sangat menghalangi",
+      "transliteration": "mannāʿin"
+    },
+    {
+      "id": 27848,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_025_002.mp3",
+      "text": "لِّلْخَيْرِ",
+      "translation": "pada kebaikan",
+      "transliteration": "lil'khayri"
+    },
+    {
+      "id": 27849,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_025_003.mp3",
+      "text": "مُعْتَدٍۢ",
+      "translation": "melampaui batas",
+      "transliteration": "muʿ'tadin"
+    },
+    {
+      "id": 27850,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_025_004.mp3",
+      "text": "مُّرِيبٍ",
+      "translation": "ragu-ragu",
+      "transliteration": "murībin"
+    },
+    {
+      "id": 27851,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang sangat menghalangi kebajikan, melanggar batas lagi ragu-ragu,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

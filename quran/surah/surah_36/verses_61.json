@@ -1,0 +1,78 @@
+{
+  "id": 3766,
+  "chapter_id": 36,
+  "verse_key": "36:61",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 386,
+  "manzil_number": 5,
+  "page_number": 444,
+  "juz_number": 23,
+  "text_uthmani": "وَأَنِ ٱعْبُدُونِى ۚ هَـٰذَا صِرَٰطٌ مُّسْتَقِيمٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3766.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3766.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3766.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3766.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3766.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3766.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3766.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3766.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3766.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3766.mp3"
+  },
+  "words": [
+    {
+      "id": 55338,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_061_001.mp3",
+      "text": "وَأَنِ",
+      "translation": "dan hendaklah",
+      "transliteration": "wa-ani"
+    },
+    {
+      "id": 55339,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_061_002.mp3",
+      "text": "ٱعْبُدُونِى ۚ",
+      "translation": "kamu menyembah-Ku",
+      "transliteration": "uʿ'budūnī"
+    },
+    {
+      "id": 55341,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_061_004.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 55342,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_061_005.mp3",
+      "text": "صِرَٰطٌۭ",
+      "translation": "jalan",
+      "transliteration": "ṣirāṭun"
+    },
+    {
+      "id": 55343,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_061_006.mp3",
+      "text": "مُّسْتَقِيمٌۭ",
+      "translation": "lurus",
+      "transliteration": "mus'taqīmun"
+    },
+    {
+      "id": 55344,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٦١",
+      "translation": "(61)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan hendaklah kamu menyembah-Ku. Inilah jalan yang lurus.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

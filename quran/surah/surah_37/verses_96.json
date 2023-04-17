@@ -1,0 +1,70 @@
+{
+  "id": 3884,
+  "chapter_id": 37,
+  "verse_key": "37:96",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "وَٱللَّهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3884.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3884.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3884.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3884.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3884.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3884.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3884.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3884.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3884.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3884.mp3"
+  },
+  "words": [
+    {
+      "id": 69988,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_096_001.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan/padahal Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 69989,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_096_002.mp3",
+      "text": "خَلَقَكُمْ",
+      "translation": "menciptakan kalian",
+      "transliteration": "khalaqakum"
+    },
+    {
+      "id": 69990,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_096_003.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 69991,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_096_004.mp3",
+      "text": "تَعْمَلُونَ",
+      "translation": "kamu perbuat",
+      "transliteration": "taʿmalūna"
+    },
+    {
+      "id": 69992,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٩٦",
+      "translation": "(96)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Padahal Allah-lah yang menciptakan kamu dan apa yang kamu perbuat itu\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

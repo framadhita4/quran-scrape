@@ -1,0 +1,62 @@
+{
+  "id": 5345,
+  "chapter_id": 69,
+  "verse_key": "69:22",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "فِى جَنَّةٍ عَالِيَةٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5345.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5345.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5345.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5345.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5345.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5345.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5345.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5345.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5345.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5345.mp3"
+  },
+  "words": [
+    {
+      "id": 24905,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_022_001.mp3",
+      "text": "فِى",
+      "translation": "di dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 24906,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_022_002.mp3",
+      "text": "جَنَّةٍ",
+      "translation": "surga",
+      "transliteration": "jannatin"
+    },
+    {
+      "id": 24907,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_022_003.mp3",
+      "text": "عَالِيَةٍۢ",
+      "translation": "yang tinggi",
+      "transliteration": "ʿāliyatin"
+    },
+    {
+      "id": 24908,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dalam surga yang tinggi,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

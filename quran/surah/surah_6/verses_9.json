@@ -1,0 +1,110 @@
+{
+  "id": 798,
+  "chapter_id": 6,
+  "verse_key": "6:9",
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "ruku_number": 102,
+  "manzil_number": 2,
+  "page_number": 129,
+  "juz_number": 7,
+  "text_uthmani": "وَلَوْ جَعَلْنَـٰهُ مَلَكًا لَّجَعَلْنَـٰهُ رَجُلًا وَلَلَبَسْنَا عَلَيْهِم مَّا يَلْبِسُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/798.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/798.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/798.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/798.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/798.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/798.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/798.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/798.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/798.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/798.mp3"
+  },
+  "words": [
+    {
+      "id": 10480,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_009_001.mp3",
+      "text": "وَلَوْ",
+      "translation": "dan jika",
+      "transliteration": "walaw"
+    },
+    {
+      "id": 10481,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_009_002.mp3",
+      "text": "جَعَلْنَـٰهُ",
+      "translation": "Kami jadikannya",
+      "transliteration": "jaʿalnāhu"
+    },
+    {
+      "id": 10482,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_009_003.mp3",
+      "text": "مَلَكًۭا",
+      "translation": "seorang Malaikat",
+      "transliteration": "malakan"
+    },
+    {
+      "id": 10483,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_009_004.mp3",
+      "text": "لَّجَعَلْنَـٰهُ",
+      "translation": "tentu Kami jadikan dia",
+      "transliteration": "lajaʿalnāhu"
+    },
+    {
+      "id": 10484,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_009_005.mp3",
+      "text": "رَجُلًۭا",
+      "translation": "seorang laki-laki",
+      "transliteration": "rajulan"
+    },
+    {
+      "id": 10485,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_009_006.mp3",
+      "text": "وَلَلَبَسْنَا",
+      "translation": "tentu Kami membuat ragu-ragu",
+      "transliteration": "walalabasnā"
+    },
+    {
+      "id": 10486,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_009_007.mp3",
+      "text": "عَلَيْهِم",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 10487,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_009_008.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 10488,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_009_009.mp3",
+      "text": "يَلْبِسُونَ",
+      "translation": "mereka ragu-ragukan",
+      "transliteration": "yalbisūna"
+    },
+    {
+      "id": 10489,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kalau Kami jadikan rasul itu (dari) malaikat, tentulah Kami jadikan dia berupa laki-laki dan (jika Kami jadikan ia berupa laki-laki), Kami pun akan jadikan mereka tetap ragu sebagaimana kini mereka ragu<sup foot_note=210230>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

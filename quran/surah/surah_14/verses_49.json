@@ -1,0 +1,86 @@
+{
+  "id": 1799,
+  "chapter_id": 14,
+  "verse_key": "14:49",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "ruku_number": 217,
+  "manzil_number": 3,
+  "page_number": 261,
+  "juz_number": 13,
+  "text_uthmani": "وَتَرَى ٱلْمُجْرِمِينَ يَوْمَئِذٍ مُّقَرَّنِينَ فِى ٱلْأَصْفَادِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1799.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1799.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1799.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1799.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1799.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1799.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1799.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1799.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1799.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1799.mp3"
+  },
+  "words": [
+    {
+      "id": 48290,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_049_001.mp3",
+      "text": "وَتَرَى",
+      "translation": "dan kamu akan melihat",
+      "transliteration": "watarā"
+    },
+    {
+      "id": 48291,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_049_002.mp3",
+      "text": "ٱلْمُجْرِمِينَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimīna"
+    },
+    {
+      "id": 48292,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_049_003.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 48293,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_049_004.mp3",
+      "text": "مُّقَرَّنِينَ",
+      "translation": "mereka bersama-sama",
+      "transliteration": "muqarranīna"
+    },
+    {
+      "id": 48294,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_049_005.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 48295,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_049_006.mp3",
+      "text": "ٱلْأَصْفَادِ",
+      "translation": "belenggu",
+      "transliteration": "l-aṣfādi"
+    },
+    {
+      "id": 48296,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kamu akan melihat orang-orang yang berdosa pada hari itu diikat bersama-sama dengan belenggu.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 5636,
+  "chapter_id": 77,
+  "verse_key": "77:14",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5636.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5636.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5636.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5636.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5636.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5636.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5636.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5636.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5636.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5636.mp3"
+  },
+  "words": [
+    {
+      "id": 16336,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_014_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan apakah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 16337,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_014_002.mp3",
+      "text": "أَدْرَىٰكَ",
+      "translation": "tahukah kamu",
+      "transliteration": "adrāka"
+    },
+    {
+      "id": 16338,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_014_003.mp3",
+      "text": "مَا",
+      "translation": "apakah",
+      "transliteration": "mā"
+    },
+    {
+      "id": 16339,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_014_004.mp3",
+      "text": "يَوْمُ",
+      "translation": "hari",
+      "transliteration": "yawmu"
+    },
+    {
+      "id": 16340,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_014_005.mp3",
+      "text": "ٱلْفَصْلِ",
+      "translation": "keputusan",
+      "transliteration": "l-faṣli"
+    },
+    {
+      "id": 16341,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٤",
+      "translation": "(14)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tahukah kamu apakah hari keputusan itu?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

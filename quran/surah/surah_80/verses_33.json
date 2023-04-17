@@ -1,0 +1,62 @@
+{
+  "id": 5791,
+  "chapter_id": 80,
+  "verse_key": "80:33",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "page_number": 585,
+  "juz_number": 30,
+  "text_uthmani": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5791.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5791.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5791.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5791.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5791.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5791.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5791.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5791.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5791.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5791.mp3"
+  },
+  "words": [
+    {
+      "id": 35590,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_033_001.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka apabila",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 35591,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_033_002.mp3",
+      "text": "جَآءَتِ",
+      "translation": "telah datang",
+      "transliteration": "jāati"
+    },
+    {
+      "id": 35592,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/080_033_003.mp3",
+      "text": "ٱلصَّآخَّةُ",
+      "translation": "suara memekakan",
+      "transliteration": "l-ṣākhatu"
+    },
+    {
+      "id": 35593,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila datang suara yang memekakkan (tiupan sangkakala yang kedua),",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

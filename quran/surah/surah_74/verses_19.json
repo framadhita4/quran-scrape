@@ -1,0 +1,62 @@
+{
+  "id": 5514,
+  "chapter_id": 74,
+  "verse_key": "74:19",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "فَقُتِلَ كَيْفَ قَدَّرَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5514.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5514.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5514.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5514.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5514.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5514.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5514.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5514.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5514.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5514.mp3"
+  },
+  "words": [
+    {
+      "id": 21696,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_019_001.mp3",
+      "text": "فَقُتِلَ",
+      "translation": "maka celakalah ia",
+      "transliteration": "faqutila"
+    },
+    {
+      "id": 21697,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_019_002.mp3",
+      "text": "كَيْفَ",
+      "translation": "bagaimanakah",
+      "transliteration": "kayfa"
+    },
+    {
+      "id": 21698,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_019_003.mp3",
+      "text": "قَدَّرَ",
+      "translation": "dia menetapkan",
+      "transliteration": "qaddara"
+    },
+    {
+      "id": 21699,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٩",
+      "translation": "(19)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka celakalah dia! Bagaimanakah dia menetapkan?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

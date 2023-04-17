@@ -1,0 +1,70 @@
+{
+  "id": 3155,
+  "chapter_id": 26,
+  "verse_key": "26:223",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "page_number": 376,
+  "juz_number": 19,
+  "text_uthmani": "يُلْقُونَ ٱلسَّمْعَ وَأَكْثَرُهُمْ كَـٰذِبُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3155.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3155.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3155.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3155.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3155.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3155.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3155.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3155.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3155.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3155.mp3"
+  },
+  "words": [
+    {
+      "id": 86116,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_223_001.mp3",
+      "text": "يُلْقُونَ",
+      "translation": "mereka melemparkan/menyampaikan",
+      "transliteration": "yul'qūna"
+    },
+    {
+      "id": 86117,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_223_002.mp3",
+      "text": "ٱلسَّمْعَ",
+      "translation": "pendengaran",
+      "transliteration": "l-samʿa"
+    },
+    {
+      "id": 86118,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_223_003.mp3",
+      "text": "وَأَكْثَرُهُمْ",
+      "translation": "dan kebanyakan mereka",
+      "transliteration": "wa-aktharuhum"
+    },
+    {
+      "id": 86119,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_223_004.mp3",
+      "text": "كَـٰذِبُونَ",
+      "translation": "orang-orang yang berdusta",
+      "transliteration": "kādhibūna"
+    },
+    {
+      "id": 86120,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٢٣",
+      "translation": "(223)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka menghadapkan pendengaran (kepada setan) itu dan kebanyakan mereka adalah orang-orang pendusta.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

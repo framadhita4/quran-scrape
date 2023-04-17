@@ -1,0 +1,78 @@
+{
+  "id": 6235,
+  "chapter_id": 114,
+  "verse_key": "114:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 558,
+  "manzil_number": 7,
+  "page_number": 604,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6235.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6235.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6235.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6235.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6235.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6235.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6235.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6235.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6235.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6235.mp3"
+  },
+  "words": [
+    {
+      "id": 5496,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_005_001.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 5497,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_005_002.mp3",
+      "text": "يُوَسْوِسُ",
+      "translation": "membisik-bisikan",
+      "transliteration": "yuwaswisu"
+    },
+    {
+      "id": 5498,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_005_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 5499,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_005_004.mp3",
+      "text": "صُدُورِ",
+      "translation": "dada",
+      "transliteration": "ṣudūri"
+    },
+    {
+      "id": 5500,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/114_005_005.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 5501,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang membisikkan (kejahatan) ke dalam dada manusia,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

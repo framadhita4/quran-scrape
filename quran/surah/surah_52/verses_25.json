@@ -1,0 +1,78 @@
+{
+  "id": 4760,
+  "chapter_id": 52,
+  "verse_key": "52:25",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 524,
+  "juz_number": 27,
+  "text_uthmani": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4760.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4760.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4760.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4760.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4760.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4760.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4760.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4760.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4760.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4760.mp3"
+  },
+  "words": [
+    {
+      "id": 27863,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_025_001.mp3",
+      "text": "وَأَقْبَلَ",
+      "translation": "dan menghadap",
+      "transliteration": "wa-aqbala"
+    },
+    {
+      "id": 27864,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_025_002.mp3",
+      "text": "بَعْضُهُمْ",
+      "translation": "sebagian mereka",
+      "transliteration": "baʿḍuhum"
+    },
+    {
+      "id": 27865,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_025_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 27866,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_025_004.mp3",
+      "text": "بَعْضٍۢ",
+      "translation": "sebagian",
+      "transliteration": "baʿḍin"
+    },
+    {
+      "id": 27867,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_025_005.mp3",
+      "text": "يَتَسَآءَلُونَ",
+      "translation": "mereka saling tanya menanya",
+      "transliteration": "yatasāalūna"
+    },
+    {
+      "id": 27868,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sebagian mereka menghadap kepada sebagian yang lain saling bertanya.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

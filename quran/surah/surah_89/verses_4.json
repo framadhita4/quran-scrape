@@ -1,0 +1,62 @@
+{
+  "id": 5997,
+  "chapter_id": 89,
+  "verse_key": "89:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "وَٱلَّيْلِ إِذَا يَسْرِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5997.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5997.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5997.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5997.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5997.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5997.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5997.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5997.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5997.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5997.mp3"
+  },
+  "words": [
+    {
+      "id": 3817,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_004_001.mp3",
+      "text": "وَٱلَّيْلِ",
+      "translation": "dan malam",
+      "transliteration": "wa-al-layli"
+    },
+    {
+      "id": 3818,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_004_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 3819,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_004_003.mp3",
+      "text": "يَسْرِ",
+      "translation": "berlalu",
+      "transliteration": "yasri"
+    },
+    {
+      "id": 3820,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan malam bila berlalu.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

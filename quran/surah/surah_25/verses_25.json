@@ -1,0 +1,94 @@
+{
+  "id": 2880,
+  "chapter_id": 25,
+  "verse_key": "25:25",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "ruku_number": 312,
+  "manzil_number": 4,
+  "page_number": 362,
+  "juz_number": 19,
+  "text_uthmani": "وَيَوْمَ تَشَقَّقُ ٱلسَّمَآءُ بِٱلْغَمَـٰمِ وَنُزِّلَ ٱلْمَلَـٰٓئِكَةُ تَنزِيلًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2880.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2880.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2880.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2880.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2880.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2880.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2880.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2880.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2880.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2880.mp3"
+  },
+  "words": [
+    {
+      "id": 28107,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_025_001.mp3",
+      "text": "وَيَوْمَ",
+      "translation": "dan pada hari itu",
+      "transliteration": "wayawma"
+    },
+    {
+      "id": 28108,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_025_002.mp3",
+      "text": "تَشَقَّقُ",
+      "translation": "pecah belah",
+      "transliteration": "tashaqqaqu"
+    },
+    {
+      "id": 28109,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_025_003.mp3",
+      "text": "ٱلسَّمَآءُ",
+      "translation": "langit",
+      "transliteration": "l-samāu"
+    },
+    {
+      "id": 28110,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_025_004.mp3",
+      "text": "بِٱلْغَمَـٰمِ",
+      "translation": "dengan awan/kabut",
+      "transliteration": "bil-ghamāmi"
+    },
+    {
+      "id": 28111,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_025_005.mp3",
+      "text": "وَنُزِّلَ",
+      "translation": "dan diturunkan",
+      "transliteration": "wanuzzila"
+    },
+    {
+      "id": 28112,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_025_006.mp3",
+      "text": "ٱلْمَلَـٰٓئِكَةُ",
+      "translation": "malaikat",
+      "transliteration": "l-malāikatu"
+    },
+    {
+      "id": 28113,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/025_025_007.mp3",
+      "text": "تَنزِيلًا",
+      "translation": "sebenar-benar turun",
+      "transliteration": "tanzīlan"
+    },
+    {
+      "id": 28114,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (ingatlah) hari (ketika) langit pecah belah mengeluarkan kabut putih dan diturunkanlah malaikat bergelombang-gelombang.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

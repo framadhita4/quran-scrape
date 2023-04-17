@@ -1,0 +1,102 @@
+{
+  "id": 4719,
+  "chapter_id": 51,
+  "verse_key": "51:44",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 458,
+  "manzil_number": 7,
+  "page_number": 522,
+  "juz_number": 27,
+  "text_uthmani": "فَعَتَوْا۟ عَنْ أَمْرِ رَبِّهِمْ فَأَخَذَتْهُمُ ٱلصَّـٰعِقَةُ وَهُمْ يَنظُرُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4719.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4719.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4719.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4719.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4719.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4719.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4719.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4719.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4719.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4719.mp3"
+  },
+  "words": [
+    {
+      "id": 44396,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_044_001.mp3",
+      "text": "فَعَتَوْا۟",
+      "translation": "maka mereka angkuh",
+      "transliteration": "faʿataw"
+    },
+    {
+      "id": 44397,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_044_002.mp3",
+      "text": "عَنْ",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 44398,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_044_003.mp3",
+      "text": "أَمْرِ",
+      "translation": "perintah",
+      "transliteration": "amri"
+    },
+    {
+      "id": 44399,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_044_004.mp3",
+      "text": "رَبِّهِمْ",
+      "translation": "Tuhan mereka",
+      "transliteration": "rabbihim"
+    },
+    {
+      "id": 44400,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_044_005.mp3",
+      "text": "فَأَخَذَتْهُمُ",
+      "translation": "maka menyambar",
+      "transliteration": "fa-akhadhathumu"
+    },
+    {
+      "id": 44401,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_044_006.mp3",
+      "text": "ٱلصَّـٰعِقَةُ",
+      "translation": "petir",
+      "transliteration": "l-ṣāʿiqatu"
+    },
+    {
+      "id": 44402,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_044_007.mp3",
+      "text": "وَهُمْ",
+      "translation": "sedang mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 44403,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_044_008.mp3",
+      "text": "يَنظُرُونَ",
+      "translation": "mereka melihat",
+      "transliteration": "yanẓurūna"
+    },
+    {
+      "id": 44404,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka mereka berlaku angkuh terhadap perintah Tuhan-nya, lalu mereka disambar petir sedang mereka melihatnya.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

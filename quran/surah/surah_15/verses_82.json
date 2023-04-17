@@ -1,0 +1,86 @@
+{
+  "id": 1884,
+  "chapter_id": 15,
+  "verse_key": "15:82",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "وَكَانُوا۟ يَنْحِتُونَ مِنَ ٱلْجِبَالِ بُيُوتًا ءَامِنِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1884.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1884.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1884.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1884.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1884.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1884.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1884.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1884.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1884.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1884.mp3"
+  },
+  "words": [
+    {
+      "id": 65222,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_082_001.mp3",
+      "text": "وَكَانُوا۟",
+      "translation": "dan adalah mereka",
+      "transliteration": "wakānū"
+    },
+    {
+      "id": 65223,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_082_002.mp3",
+      "text": "يَنْحِتُونَ",
+      "translation": "mereka memahat",
+      "transliteration": "yanḥitūna"
+    },
+    {
+      "id": 65224,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_082_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 65225,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_082_004.mp3",
+      "text": "ٱلْجِبَالِ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibāli"
+    },
+    {
+      "id": 65226,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_082_005.mp3",
+      "text": "بُيُوتًا",
+      "translation": "rumah-rumah",
+      "transliteration": "buyūtan"
+    },
+    {
+      "id": 65227,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_082_006.mp3",
+      "text": "ءَامِنِينَ",
+      "translation": "aman",
+      "transliteration": "āminīna"
+    },
+    {
+      "id": 65228,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٨٢",
+      "translation": "(82)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan mereka memahat rumah-rumah dari gunung-gunung batu (yang didiami) dengan aman.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

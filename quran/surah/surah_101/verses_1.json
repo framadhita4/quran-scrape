@@ -1,0 +1,46 @@
+{
+  "id": 6158,
+  "chapter_id": 101,
+  "verse_key": "101:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 545,
+  "manzil_number": 7,
+  "page_number": 600,
+  "juz_number": 30,
+  "text_uthmani": " ٱلْقَارِعَةُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6158.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6158.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6158.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6158.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6158.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6158.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6158.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6158.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6158.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6158.mp3"
+  },
+  "words": [
+    {
+      "id": 272,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/101_001_001.mp3",
+      "text": "ٱلْقَارِعَةُ",
+      "translation": "hari kiamat",
+      "transliteration": "al-qāriʿatu"
+    },
+    {
+      "id": 273,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hari kiamat,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

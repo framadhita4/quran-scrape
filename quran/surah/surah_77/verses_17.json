@@ -1,0 +1,62 @@
+{
+  "id": 5639,
+  "chapter_id": 77,
+  "verse_key": "77:17",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5639.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5639.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5639.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5639.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5639.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5639.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5639.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5639.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5639.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5639.mp3"
+  },
+  "words": [
+    {
+      "id": 19650,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_017_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 19651,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_017_002.mp3",
+      "text": "نُتْبِعُهُمُ",
+      "translation": "Kami ikutkan/iringi mereka",
+      "transliteration": "nut'biʿuhumu"
+    },
+    {
+      "id": 19652,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_017_003.mp3",
+      "text": "ٱلْـَٔاخِرِينَ",
+      "translation": "orang-orang yang kemudian",
+      "transliteration": "l-ākhirīna"
+    },
+    {
+      "id": 19653,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٧",
+      "translation": "(17)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Lalu Kami iringkan (azab Kami terhadap) mereka dengan (mengazab) orang-orang yang datang kemudian.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

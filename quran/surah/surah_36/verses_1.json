@@ -1,0 +1,46 @@
+{
+  "id": 3706,
+  "chapter_id": 36,
+  "verse_key": "36:1",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 383,
+  "manzil_number": 5,
+  "page_number": 440,
+  "juz_number": 22,
+  "text_uthmani": " يسٓ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3706.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3706.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3706.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3706.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3706.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3706.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3706.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3706.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3706.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3706.mp3"
+  },
+  "words": [
+    {
+      "id": 887,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_001_001.mp3",
+      "text": "يسٓ",
+      "translation": "Yâ­Sîn",
+      "transliteration": "ya-seen"
+    },
+    {
+      "id": 888,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Yā sīn <sup foot_note=211032>1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

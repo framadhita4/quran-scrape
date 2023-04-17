@@ -1,0 +1,62 @@
+{
+  "id": 6000,
+  "chapter_id": 89,
+  "verse_key": "89:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6000.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6000.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6000.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6000.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6000.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6000.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6000.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6000.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6000.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6000.mp3"
+  },
+  "words": [
+    {
+      "id": 7765,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_007_001.mp3",
+      "text": "إِرَمَ",
+      "translation": "kaum Iram",
+      "transliteration": "irama"
+    },
+    {
+      "id": 7766,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_007_002.mp3",
+      "text": "ذَاتِ",
+      "translation": "memiliki",
+      "transliteration": "dhāti"
+    },
+    {
+      "id": 7767,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_007_003.mp3",
+      "text": "ٱلْعِمَادِ",
+      "translation": "tiang/bangunan tinggi",
+      "transliteration": "l-ʿimādi"
+    },
+    {
+      "id": 7768,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) penduduk Iram<sup foot_note=211343>1</sup> yang mempunyai bangunan-bangunan yang tinggi,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

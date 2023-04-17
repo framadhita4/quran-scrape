@@ -1,0 +1,78 @@
+{
+  "id": 4884,
+  "chapter_id": 54,
+  "verse_key": "54:38",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 466,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "وَلَقَدْ صَبَّحَهُم بُكْرَةً عَذَابٌ مُّسْتَقِرٌّ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4884.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4884.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4884.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4884.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4884.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4884.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4884.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4884.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4884.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4884.mp3"
+  },
+  "words": [
+    {
+      "id": 39775,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_038_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 39776,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_038_002.mp3",
+      "text": "صَبَّحَهُم",
+      "translation": "mengenai/menimpa mereka",
+      "transliteration": "ṣabbaḥahum"
+    },
+    {
+      "id": 39777,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_038_003.mp3",
+      "text": "بُكْرَةً",
+      "translation": "pagi hari",
+      "transliteration": "buk'ratan"
+    },
+    {
+      "id": 39778,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_038_004.mp3",
+      "text": "عَذَابٌۭ",
+      "translation": "azab",
+      "transliteration": "ʿadhābun"
+    },
+    {
+      "id": 39779,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_038_005.mp3",
+      "text": "مُّسْتَقِرٌّۭ",
+      "translation": "tetap",
+      "transliteration": "mus'taqirrun"
+    },
+    {
+      "id": 39780,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya pada esok harinya mereka ditimpa azab yang kekal.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

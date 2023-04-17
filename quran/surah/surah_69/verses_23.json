@@ -1,0 +1,54 @@
+{
+  "id": 5346,
+  "chapter_id": 69,
+  "verse_key": "69:23",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "قُطُوفُهَا دَانِيَةٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5346.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5346.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5346.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5346.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5346.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5346.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5346.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5346.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5346.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5346.mp3"
+  },
+  "words": [
+    {
+      "id": 25970,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_023_001.mp3",
+      "text": "قُطُوفُهَا",
+      "translation": "buah-buahannya",
+      "transliteration": "quṭūfuhā"
+    },
+    {
+      "id": 25971,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_023_002.mp3",
+      "text": "دَانِيَةٌۭ",
+      "translation": "dekat",
+      "transliteration": "dāniyatun"
+    },
+    {
+      "id": 25972,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "buah-buahannya dekat,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

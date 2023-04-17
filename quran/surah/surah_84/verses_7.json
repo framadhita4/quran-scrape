@@ -1,0 +1,78 @@
+{
+  "id": 5891,
+  "chapter_id": 84,
+  "verse_key": "84:7",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "فَأَمَّا مَنْ أُوتِىَ كِتَـٰبَهُۥ بِيَمِينِهِۦ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5891.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5891.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5891.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5891.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5891.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5891.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5891.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5891.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5891.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5891.mp3"
+  },
+  "words": [
+    {
+      "id": 8068,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_007_001.mp3",
+      "text": "فَأَمَّا",
+      "translation": "maka adapun",
+      "transliteration": "fa-ammā"
+    },
+    {
+      "id": 8069,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_007_002.mp3",
+      "text": "مَنْ",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 8070,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_007_003.mp3",
+      "text": "أُوتِىَ",
+      "translation": "diberikan",
+      "transliteration": "ūtiya"
+    },
+    {
+      "id": 8071,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_007_004.mp3",
+      "text": "كِتَـٰبَهُۥ",
+      "translation": "kitabnya/catatannya",
+      "transliteration": "kitābahu"
+    },
+    {
+      "id": 8072,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_007_005.mp3",
+      "text": "بِيَمِينِهِۦ",
+      "translation": "sebelah kanannya",
+      "transliteration": "biyamīnihi"
+    },
+    {
+      "id": 8073,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Adapun orang yang diberikan kitabnya dari sebelah kanannya,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

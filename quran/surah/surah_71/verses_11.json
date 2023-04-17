@@ -1,0 +1,70 @@
+{
+  "id": 5430,
+  "chapter_id": 71,
+  "verse_key": "71:11",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "page_number": 571,
+  "juz_number": 29,
+  "text_uthmani": "يُرْسِلِ ٱلسَّمَآءَ عَلَيْكُم مِّدْرَارًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5430.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5430.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5430.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5430.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5430.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5430.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5430.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5430.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5430.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5430.mp3"
+  },
+  "words": [
+    {
+      "id": 12854,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_011_001.mp3",
+      "text": "يُرْسِلِ",
+      "translation": "Dia akan mengirimkan",
+      "transliteration": "yur'sili"
+    },
+    {
+      "id": 12855,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_011_002.mp3",
+      "text": "ٱلسَّمَآءَ",
+      "translation": "langit (hujan)",
+      "transliteration": "l-samāa"
+    },
+    {
+      "id": 12856,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_011_003.mp3",
+      "text": "عَلَيْكُم",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 12857,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_011_004.mp3",
+      "text": "مِّدْرَارًۭا",
+      "translation": "lebat",
+      "transliteration": "mid'rāran"
+    },
+    {
+      "id": 12858,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "niscaya Dia akan mengirimkan hujan kepadamu dengan lebat,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

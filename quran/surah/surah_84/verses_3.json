@@ -1,0 +1,62 @@
+{
+  "id": 5887,
+  "chapter_id": 84,
+  "verse_key": "84:3",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "وَإِذَا ٱلْأَرْضُ مُدَّتْ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5887.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5887.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5887.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5887.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5887.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5887.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5887.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5887.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5887.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5887.mp3"
+  },
+  "words": [
+    {
+      "id": 2889,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_003_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 2890,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_003_002.mp3",
+      "text": "ٱلْأَرْضُ",
+      "translation": "bumi",
+      "transliteration": "l-arḍu"
+    },
+    {
+      "id": 2891,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/084_003_003.mp3",
+      "text": "مُدَّتْ",
+      "translation": "dipanjangkan/diratakan",
+      "transliteration": "muddat"
+    },
+    {
+      "id": 2892,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan apabila bumi diratakan,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

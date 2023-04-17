@@ -1,0 +1,78 @@
+{
+  "id": 1881,
+  "chapter_id": 15,
+  "verse_key": "15:79",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "فَٱنتَقَمْنَا مِنْهُمْ وَإِنَّهُمَا لَبِإِمَامٍ مُّبِينٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1881.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1881.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1881.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1881.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1881.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1881.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1881.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1881.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1881.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1881.mp3"
+  },
+  "words": [
+    {
+      "id": 63852,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_079_001.mp3",
+      "text": "فَٱنتَقَمْنَا",
+      "translation": "maka Kami siksa/binasakan",
+      "transliteration": "fa-intaqamnā"
+    },
+    {
+      "id": 63853,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_079_002.mp3",
+      "text": "مِنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "min'hum"
+    },
+    {
+      "id": 63854,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_079_003.mp3",
+      "text": "وَإِنَّهُمَا",
+      "translation": "dan sesungguhnya keduanya (kota)",
+      "transliteration": "wa-innahumā"
+    },
+    {
+      "id": 63855,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_079_004.mp3",
+      "text": "لَبِإِمَامٍۢ",
+      "translation": "sungguh dijalan",
+      "transliteration": "labi-imāmin"
+    },
+    {
+      "id": 63856,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_079_005.mp3",
+      "text": "مُّبِينٍۢ",
+      "translation": "nyata",
+      "transliteration": "mubīnin"
+    },
+    {
+      "id": 63857,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٧٩",
+      "translation": "(79)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka Kami membinasakan mereka.  Dan sesungguhnya kedua kota <sup foot_note=210579>1</sup> itu benar-benar terletak di jalan umum yang terang.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

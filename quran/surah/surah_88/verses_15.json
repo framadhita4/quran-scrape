@@ -1,0 +1,54 @@
+{
+  "id": 5982,
+  "chapter_id": 88,
+  "verse_key": "88:15",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "وَنَمَارِقُ مَصْفُوفَةٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5982.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5982.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5982.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5982.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5982.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5982.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5982.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5982.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5982.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5982.mp3"
+  },
+  "words": [
+    {
+      "id": 17213,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_015_001.mp3",
+      "text": "وَنَمَارِقُ",
+      "translation": "dan bantal-bantal",
+      "transliteration": "wanamāriqu"
+    },
+    {
+      "id": 17214,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_015_002.mp3",
+      "text": "مَصْفُوفَةٌۭ",
+      "translation": "berbaris/tersusun",
+      "transliteration": "maṣfūfatun"
+    },
+    {
+      "id": 17215,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bantal-bantal sandaran yang tersusun,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

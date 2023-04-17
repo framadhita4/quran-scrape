@@ -1,0 +1,86 @@
+{
+  "id": 2964,
+  "chapter_id": 26,
+  "verse_key": "26:32",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 368,
+  "juz_number": 19,
+  "text_uthmani": "فَأَلْقَىٰ عَصَاهُ فَإِذَا هِىَ ثُعْبَانٌ مُّبِينٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2964.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2964.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2964.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2964.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2964.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2964.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2964.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2964.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2964.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2964.mp3"
+  },
+  "words": [
+    {
+      "id": 34788,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_032_001.mp3",
+      "text": "فَأَلْقَىٰ",
+      "translation": "lalu (Musa)melemparkan",
+      "transliteration": "fa-alqā"
+    },
+    {
+      "id": 34789,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_032_002.mp3",
+      "text": "عَصَاهُ",
+      "translation": "tongkatnya",
+      "transliteration": "ʿaṣāhu"
+    },
+    {
+      "id": 34790,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_032_003.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka tiba-tiba",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 34791,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_032_004.mp3",
+      "text": "هِىَ",
+      "translation": "ia/tongkat itu",
+      "transliteration": "hiya"
+    },
+    {
+      "id": 34792,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_032_005.mp3",
+      "text": "ثُعْبَانٌۭ",
+      "translation": "ular",
+      "transliteration": "thuʿ'bānun"
+    },
+    {
+      "id": 34793,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_032_006.mp3",
+      "text": "مُّبِينٌۭ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnun"
+    },
+    {
+      "id": 34794,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka Musa melemparkan tongkatnya, lalu tiba-tiba tongkat itu (menjadi) ular yang nyata.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1181,
+  "chapter_id": 8,
+  "verse_key": "8:21",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "ruku_number": 148,
+  "manzil_number": 2,
+  "page_number": 179,
+  "juz_number": 9,
+  "text_uthmani": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ قَالُوا۟ سَمِعْنَا وَهُمْ لَا يَسْمَعُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1181.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1181.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1181.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1181.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1181.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1181.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1181.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1181.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1181.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1181.mp3"
+  },
+  "words": [
+    {
+      "id": 23725,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_021_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 23726,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_021_002.mp3",
+      "text": "تَكُونُوا۟",
+      "translation": "kalian menjadi",
+      "transliteration": "takūnū"
+    },
+    {
+      "id": 23727,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_021_003.mp3",
+      "text": "كَٱلَّذِينَ",
+      "translation": "seperti orang-orang yang",
+      "transliteration": "ka-alladhīna"
+    },
+    {
+      "id": 23728,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_021_004.mp3",
+      "text": "قَالُوا۟",
+      "translation": "(mereka) berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 23729,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_021_005.mp3",
+      "text": "سَمِعْنَا",
+      "translation": "kami mendengar",
+      "transliteration": "samiʿ'nā"
+    },
+    {
+      "id": 23730,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_021_006.mp3",
+      "text": "وَهُمْ",
+      "translation": "dan/sedang mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 23731,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_021_007.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 23732,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_021_008.mp3",
+      "text": "يَسْمَعُونَ",
+      "translation": "mereka mendengar",
+      "transliteration": "yasmaʿūna"
+    },
+    {
+      "id": 23733,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan janganlah kamu menjadi sebagai orang-orang (munafik) yang berkata, \"Kami mendengarkan<sup foot_note=210372>1</sup>, padahal mereka tidak mendengarkan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

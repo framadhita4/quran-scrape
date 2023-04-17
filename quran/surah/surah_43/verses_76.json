@@ -1,0 +1,86 @@
+{
+  "id": 4401,
+  "chapter_id": 43,
+  "verse_key": "43:76",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 495,
+  "juz_number": 25,
+  "text_uthmani": "وَمَا ظَلَمْنَـٰهُمْ وَلَـٰكِن كَانُوا۟ هُمُ ٱلظَّـٰلِمِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4401.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4401.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4401.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4401.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4401.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4401.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4401.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4401.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4401.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4401.mp3"
+  },
+  "words": [
+    {
+      "id": 62346,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_076_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 62347,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_076_002.mp3",
+      "text": "ظَلَمْنَـٰهُمْ",
+      "translation": "Kami menganiaya mereka",
+      "transliteration": "ẓalamnāhum"
+    },
+    {
+      "id": 62348,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_076_003.mp3",
+      "text": "وَلَـٰكِن",
+      "translation": "tetapi",
+      "transliteration": "walākin"
+    },
+    {
+      "id": 62349,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_076_004.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 62350,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_076_005.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 62351,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_076_006.mp3",
+      "text": "ٱلظَّـٰلِمِينَ",
+      "translation": "orang-orang yang zalim/aniaya",
+      "transliteration": "l-ẓālimīna"
+    },
+    {
+      "id": 62352,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٧٦",
+      "translation": "(76)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tidaklah Kami menganiaya mereka, tetapi merekalah yang menganiaya diri mereka sendiri.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

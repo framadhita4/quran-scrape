@@ -1,0 +1,62 @@
+{
+  "id": 5501,
+  "chapter_id": 74,
+  "verse_key": "74:6",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "وَلَا تَمْنُن تَسْتَكْثِرُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5501.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5501.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5501.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5501.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5501.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5501.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5501.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5501.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5501.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5501.mp3"
+  },
+  "words": [
+    {
+      "id": 6546,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_006_001.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 6547,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_006_002.mp3",
+      "text": "تَمْنُن",
+      "translation": "kamu memberi/anugerah",
+      "transliteration": "tamnun"
+    },
+    {
+      "id": 6548,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_006_003.mp3",
+      "text": "تَسْتَكْثِرُ",
+      "translation": "kamu mengharap lebih banyak",
+      "transliteration": "tastakthiru"
+    },
+    {
+      "id": 6549,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan janganlah kamu memberi (dengan maksud) memperoleh (balasan) yang lebih banyak.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

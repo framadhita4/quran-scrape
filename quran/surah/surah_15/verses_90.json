@@ -1,0 +1,70 @@
+{
+  "id": 1892,
+  "chapter_id": 15,
+  "verse_key": "15:90",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "page_number": 266,
+  "juz_number": 14,
+  "text_uthmani": "كَمَآ أَنزَلْنَا عَلَى ٱلْمُقْتَسِمِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1892.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1892.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1892.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1892.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1892.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1892.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1892.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1892.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1892.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1892.mp3"
+  },
+  "words": [
+    {
+      "id": 68021,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_090_001.mp3",
+      "text": "كَمَآ",
+      "translation": "sebagaimana",
+      "transliteration": "kamā"
+    },
+    {
+      "id": 68022,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_090_002.mp3",
+      "text": "أَنزَلْنَا",
+      "translation": "Kami telah menurunkan",
+      "transliteration": "anzalnā"
+    },
+    {
+      "id": 68023,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_090_003.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 68024,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_090_004.mp3",
+      "text": "ٱلْمُقْتَسِمِينَ",
+      "translation": "orang-orang yang membagi-bagi",
+      "transliteration": "l-muq'tasimīna"
+    },
+    {
+      "id": 68025,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٩٠",
+      "translation": "(90)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sebagaimana (Kami telah memberi peringatan), Kami telah menurunkan (azab) kepada orang-orang yang membagi-bagi (Kitab Allah) <sup foot_note=210584>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

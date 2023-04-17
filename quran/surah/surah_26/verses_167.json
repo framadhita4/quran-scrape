@@ -1,0 +1,102 @@
+{
+  "id": 3099,
+  "chapter_id": 26,
+  "verse_key": "26:167",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 324,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "قَالُوا۟ لَئِن لَّمْ تَنتَهِ يَـٰلُوطُ لَتَكُونَنَّ مِنَ ٱلْمُخْرَجِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3099.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3099.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3099.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3099.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3099.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3099.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3099.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3099.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3099.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3099.mp3"
+  },
+  "words": [
+    {
+      "id": 82522,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_167_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 82523,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_167_002.mp3",
+      "text": "لَئِن",
+      "translation": "sesungguhnya jika",
+      "transliteration": "la-in"
+    },
+    {
+      "id": 82524,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_167_003.mp3",
+      "text": "لَّمْ",
+      "translation": "kamu tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 82525,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_167_004.mp3",
+      "text": "تَنتَهِ",
+      "translation": "berhenti",
+      "transliteration": "tantahi"
+    },
+    {
+      "id": 82526,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_167_005.mp3",
+      "text": "يَـٰلُوطُ",
+      "translation": "Hai Luth",
+      "transliteration": "yālūṭu"
+    },
+    {
+      "id": 82527,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_167_006.mp3",
+      "text": "لَتَكُونَنَّ",
+      "translation": "niscaya kamu adalah",
+      "transliteration": "latakūnanna"
+    },
+    {
+      "id": 82528,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_167_007.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 82529,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_167_008.mp3",
+      "text": "ٱلْمُخْرَجِينَ",
+      "translation": "orang-orang yang diusir",
+      "transliteration": "l-mukh'rajīna"
+    },
+    {
+      "id": 82530,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٦٧",
+      "translation": "(167)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka menjawab, \"Hai Lūṭ, sesungguhnya jika kamu tidak berhenti, benar-benar kamu termasuk orang-orang yang diusir\"",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

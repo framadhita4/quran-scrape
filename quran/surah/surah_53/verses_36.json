@@ -1,0 +1,94 @@
+{
+  "id": 4820,
+  "chapter_id": 53,
+  "verse_key": "53:36",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 527,
+  "juz_number": 27,
+  "text_uthmani": "أَمْ لَمْ يُنَبَّأْ بِمَا فِى صُحُفِ مُوسَىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4820.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4820.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4820.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4820.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4820.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4820.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4820.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4820.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4820.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4820.mp3"
+  },
+  "words": [
+    {
+      "id": 37860,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_036_001.mp3",
+      "text": "أَمْ",
+      "translation": "ataukah/apakah",
+      "transliteration": "am"
+    },
+    {
+      "id": 37861,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_036_002.mp3",
+      "text": "لَمْ",
+      "translation": "belum",
+      "transliteration": "lam"
+    },
+    {
+      "id": 37862,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_036_003.mp3",
+      "text": "يُنَبَّأْ",
+      "translation": "diberitakan dia",
+      "transliteration": "yunabba"
+    },
+    {
+      "id": 37863,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_036_004.mp3",
+      "text": "بِمَا",
+      "translation": "dengan apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 37864,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_036_005.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 37865,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_036_006.mp3",
+      "text": "صُحُفِ",
+      "translation": "lembaran-lembaran",
+      "transliteration": "ṣuḥufi"
+    },
+    {
+      "id": 37866,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_036_007.mp3",
+      "text": "مُوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 37867,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٣٦",
+      "translation": "(36)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ataukah belum diberitakan kepadanya apa yang ada dalam lembaran-lembaran Musa?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

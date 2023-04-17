@@ -1,0 +1,110 @@
+{
+  "id": 4241,
+  "chapter_id": 41,
+  "verse_key": "41:23",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "ruku_number": 417,
+  "manzil_number": 6,
+  "page_number": 479,
+  "juz_number": 24,
+  "text_uthmani": "وَذَٰلِكُمْ ظَنُّكُمُ ٱلَّذِى ظَنَنتُم بِرَبِّكُمْ أَرْدَىٰكُمْ فَأَصْبَحْتُم مِّنَ ٱلْخَـٰسِرِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4241.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4241.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4241.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4241.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4241.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4241.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4241.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4241.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4241.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4241.mp3"
+  },
+  "words": [
+    {
+      "id": 25506,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_023_001.mp3",
+      "text": "وَذَٰلِكُمْ",
+      "translation": "dan yang demikian itu",
+      "transliteration": "wadhālikum"
+    },
+    {
+      "id": 25507,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_023_002.mp3",
+      "text": "ظَنُّكُمُ",
+      "translation": "persangkaanmu",
+      "transliteration": "ẓannukumu"
+    },
+    {
+      "id": 25508,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_023_003.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 25509,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_023_004.mp3",
+      "text": "ظَنَنتُم",
+      "translation": "kamu telah menyangka",
+      "transliteration": "ẓanantum"
+    },
+    {
+      "id": 25510,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_023_005.mp3",
+      "text": "بِرَبِّكُمْ",
+      "translation": "terhadap Tuhanmu",
+      "transliteration": "birabbikum"
+    },
+    {
+      "id": 25511,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_023_006.mp3",
+      "text": "أَرْدَىٰكُمْ",
+      "translation": "Dia menjerumuskan kamu",
+      "transliteration": "ardākum"
+    },
+    {
+      "id": 25512,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_023_007.mp3",
+      "text": "فَأَصْبَحْتُم",
+      "translation": "maka jadilah kamu",
+      "transliteration": "fa-aṣbaḥtum"
+    },
+    {
+      "id": 25513,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_023_008.mp3",
+      "text": "مِّنَ",
+      "translation": "termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 25514,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/041_023_009.mp3",
+      "text": "ٱلْخَـٰسِرِينَ",
+      "translation": "orang-orang yang rugi",
+      "transliteration": "l-khāsirīna"
+    },
+    {
+      "id": 25515,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٢٣",
+      "translation": "(23)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan yang demikian itu adalah prasangkamu yang telah kamu sangka kepada Tuhan-mu, prasangka itu telah membinasakan kamu, maka jadilah kamu termasuk orang-orang yang merugi.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

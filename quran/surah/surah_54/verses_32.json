@@ -1,0 +1,94 @@
+{
+  "id": 4878,
+  "chapter_id": 54,
+  "verse_key": "54:32",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 466,
+  "manzil_number": 7,
+  "page_number": 530,
+  "juz_number": 27,
+  "text_uthmani": "وَلَقَدْ يَسَّرْنَا ٱلْقُرْءَانَ لِلذِّكْرِ فَهَلْ مِن مُّدَّكِرٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4878.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4878.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4878.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4878.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4878.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4878.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4878.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4878.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4878.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4878.mp3"
+  },
+  "words": [
+    {
+      "id": 34630,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_032_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 34631,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_032_002.mp3",
+      "text": "يَسَّرْنَا",
+      "translation": "Kami mudahkan",
+      "transliteration": "yassarnā"
+    },
+    {
+      "id": 34632,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_032_003.mp3",
+      "text": "ٱلْقُرْءَانَ",
+      "translation": "Al Quran",
+      "transliteration": "l-qur'āna"
+    },
+    {
+      "id": 34633,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_032_004.mp3",
+      "text": "لِلذِّكْرِ",
+      "translation": "untuk peringatan/pelajaran",
+      "transliteration": "lildhik'ri"
+    },
+    {
+      "id": 34634,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_032_005.mp3",
+      "text": "فَهَلْ",
+      "translation": "maka adakah",
+      "transliteration": "fahal"
+    },
+    {
+      "id": 34635,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_032_006.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 34636,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_032_007.mp3",
+      "text": "مُّدَّكِرٍۢ",
+      "translation": "orang yang memikirkan",
+      "transliteration": "muddakirin"
+    },
+    {
+      "id": 34637,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٣٢",
+      "translation": "(32)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya telah Kami mudahkan Al-Qur`ān untuk pelajaran, maka adakah orang yang mengambil pelajaran?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

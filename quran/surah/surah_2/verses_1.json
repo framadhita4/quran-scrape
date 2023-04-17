@@ -1,0 +1,46 @@
+{
+  "id": 8,
+  "chapter_id": 2,
+  "verse_key": "2:1",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 2,
+  "manzil_number": 1,
+  "page_number": 2,
+  "juz_number": 1,
+  "text_uthmani": " الٓمٓ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/8.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/8.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/8.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/8.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/8.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/8.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/8.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/8.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/8.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/8.mp3"
+  },
+  "words": [
+    {
+      "id": 11,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_001_001.mp3",
+      "text": "الٓمٓ",
+      "translation": "Alif lam mim",
+      "transliteration": "alif-lam-meem"
+    },
+    {
+      "id": 12,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١",
+      "translation": "(1)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Alif Lām Mīm.<sup foot_note=209779>1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

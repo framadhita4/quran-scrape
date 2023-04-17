@@ -1,0 +1,86 @@
+{
+  "id": 5850,
+  "chapter_id": 83,
+  "verse_key": "83:2",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 587,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِينَ إِذَا ٱكْتَالُوا۟ عَلَى ٱلنَّاسِ يَسْتَوْفُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5850.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5850.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5850.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5850.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5850.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5850.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5850.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5850.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5850.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5850.mp3"
+  },
+  "words": [
+    {
+      "id": 1730,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_002_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 1731,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_002_002.mp3",
+      "text": "إِذَا",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 1732,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_002_003.mp3",
+      "text": "ٱكْتَالُوا۟",
+      "translation": "mereka menerima takaran",
+      "transliteration": "ik'tālū"
+    },
+    {
+      "id": 1733,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_002_004.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 1734,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_002_005.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia (orang lain)",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 1735,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_002_006.mp3",
+      "text": "يَسْتَوْفُونَ",
+      "translation": "mereka minta dipenuhi",
+      "transliteration": "yastawfūna"
+    },
+    {
+      "id": 1736,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang apabila menerima takaran dari orang lain, mereka minta dipenuhi,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

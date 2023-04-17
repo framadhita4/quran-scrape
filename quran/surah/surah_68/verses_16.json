@@ -1,0 +1,62 @@
+{
+  "id": 5287,
+  "chapter_id": 68,
+  "verse_key": "68:16",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5287.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5287.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5287.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5287.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5287.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5287.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5287.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5287.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5287.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5287.mp3"
+  },
+  "words": [
+    {
+      "id": 18491,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_016_001.mp3",
+      "text": "سَنَسِمُهُۥ",
+      "translation": "kelak akan Kami beri tanda dia",
+      "transliteration": "sanasimuhu"
+    },
+    {
+      "id": 18492,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_016_002.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 18493,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_016_003.mp3",
+      "text": "ٱلْخُرْطُومِ",
+      "translation": "belalai",
+      "transliteration": "l-khur'ṭūmi"
+    },
+    {
+      "id": 18494,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٦",
+      "translation": "(16)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kelak akan Kami beri tanda dia di belalai(nya)<sup foot_note=211261>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

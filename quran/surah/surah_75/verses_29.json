@@ -1,0 +1,62 @@
+{
+  "id": 5580,
+  "chapter_id": 75,
+  "verse_key": "75:29",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "وَٱلْتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5580.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5580.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5580.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5580.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5580.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5580.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5580.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5580.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5580.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5580.mp3"
+  },
+  "words": [
+    {
+      "id": 31739,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_029_001.mp3",
+      "text": "وَٱلْتَفَّتِ",
+      "translation": "dan bertaut/berbelit",
+      "transliteration": "wal-tafati"
+    },
+    {
+      "id": 31740,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_029_002.mp3",
+      "text": "ٱلسَّاقُ",
+      "translation": "betis",
+      "transliteration": "l-sāqu"
+    },
+    {
+      "id": 31741,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_029_003.mp3",
+      "text": "بِٱلسَّاقِ",
+      "translation": "dengan betis",
+      "transliteration": "bil-sāqi"
+    },
+    {
+      "id": 31742,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٢٩",
+      "translation": "(29)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan bertaut betis (kiri) dengan betis (kanan)<sup foot_note=211303>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 960,
+  "chapter_id": 7,
+  "verse_key": "7:6",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "ruku_number": 122,
+  "manzil_number": 2,
+  "page_number": 151,
+  "juz_number": 8,
+  "text_uthmani": "فَلَنَسْـَٔلَنَّ ٱلَّذِينَ أُرْسِلَ إِلَيْهِمْ وَلَنَسْـَٔلَنَّ ٱلْمُرْسَلِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/960.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/960.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/960.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/960.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/960.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/960.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/960.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/960.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/960.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/960.mp3"
+  },
+  "words": [
+    {
+      "id": 7096,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_006_001.mp3",
+      "text": "فَلَنَسْـَٔلَنَّ",
+      "translation": "maka sesungguhnya Kami akan menanyai",
+      "transliteration": "falanasalanna"
+    },
+    {
+      "id": 7097,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_006_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 7098,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_006_003.mp3",
+      "text": "أُرْسِلَ",
+      "translation": "diutus",
+      "transliteration": "ur'sila"
+    },
+    {
+      "id": 7099,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_006_004.mp3",
+      "text": "إِلَيْهِمْ",
+      "translation": "kepada mereka",
+      "transliteration": "ilayhim"
+    },
+    {
+      "id": 7100,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_006_005.mp3",
+      "text": "وَلَنَسْـَٔلَنَّ",
+      "translation": "dan sesungguhnya Kami akan menanyai",
+      "transliteration": "walanasalanna"
+    },
+    {
+      "id": 7101,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_006_006.mp3",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation": "para Rasul",
+      "transliteration": "l-mur'salīna"
+    },
+    {
+      "id": 7102,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٦",
+      "translation": "(6)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka sesungguhnya Kami akan menanyai umat-umat yang telah diutus rasul-rasul kepada mereka dan sesungguhnya Kami akan menanyai (pula) rasul-rasul (Kami),",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

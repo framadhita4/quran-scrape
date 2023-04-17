@@ -1,0 +1,150 @@
+{
+  "id": 1741,
+  "chapter_id": 13,
+  "verse_key": "13:34",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "ruku_number": 209,
+  "manzil_number": 3,
+  "page_number": 253,
+  "juz_number": 13,
+  "text_uthmani": "لَّهُمْ عَذَابٌ فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَشَقُّ ۖ وَمَا لَهُم مِّنَ ٱللَّهِ مِن وَاقٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1741.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1741.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1741.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1741.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1741.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1741.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1741.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1741.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1741.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1741.mp3"
+  },
+  "words": [
+    {
+      "id": 36694,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_034_001.mp3",
+      "text": "لَّهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 36695,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_034_002.mp3",
+      "text": "عَذَابٌۭ",
+      "translation": "azab",
+      "transliteration": "ʿadhābun"
+    },
+    {
+      "id": 36696,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_034_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 36697,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_034_004.mp3",
+      "text": "ٱلْحَيَوٰةِ",
+      "translation": "kehidupan",
+      "transliteration": "l-ḥayati"
+    },
+    {
+      "id": 36698,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_034_005.mp3",
+      "text": "ٱلدُّنْيَا ۖ",
+      "translation": "dunia",
+      "transliteration": "l-dun'yā"
+    },
+    {
+      "id": 36700,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_034_007.mp3",
+      "text": "وَلَعَذَابُ",
+      "translation": "dan sesungguhnya azab",
+      "transliteration": "walaʿadhābu"
+    },
+    {
+      "id": 36701,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_034_008.mp3",
+      "text": "ٱلْـَٔاخِرَةِ",
+      "translation": "akhirat",
+      "transliteration": "l-ākhirati"
+    },
+    {
+      "id": 36702,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_034_009.mp3",
+      "text": "أَشَقُّ ۖ",
+      "translation": "lebih berat",
+      "transliteration": "ashaqqu"
+    },
+    {
+      "id": 36704,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_034_011.mp3",
+      "text": "وَمَا",
+      "translation": "dan tak ada",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 36705,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_034_012.mp3",
+      "text": "لَهُم",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 36706,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_034_013.mp3",
+      "text": "مِّنَ",
+      "translation": "dari/terhadap",
+      "transliteration": "mina"
+    },
+    {
+      "id": 36707,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_034_014.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 36708,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_034_015.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 36709,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/013_034_016.mp3",
+      "text": "وَاقٍۢ",
+      "translation": "seorang pelindung",
+      "transliteration": "wāqin"
+    },
+    {
+      "id": 36710,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bagi mereka azab dalam kehidupan dunia dan sesungguhnya azab akhirat adalah lebih keras dan tak ada bagi mereka seorang pelindung pun dari (azab) Allah.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

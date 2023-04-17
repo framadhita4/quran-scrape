@@ -1,0 +1,54 @@
+{
+  "id": 3411,
+  "chapter_id": 30,
+  "verse_key": "30:2",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "ruku_number": 350,
+  "manzil_number": 5,
+  "page_number": 404,
+  "juz_number": 21,
+  "text_uthmani": "غُلِبَتِ ٱلرُّومُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3411.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3411.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3411.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3411.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3411.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3411.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3411.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3411.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3411.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3411.mp3"
+  },
+  "words": [
+    {
+      "id": 1843,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_002_001.mp3",
+      "text": "غُلِبَتِ",
+      "translation": "Telah dikalahkan",
+      "transliteration": "ghulibati"
+    },
+    {
+      "id": 1844,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_002_002.mp3",
+      "text": "ٱلرُّومُ",
+      "translation": "bangsa Romawi",
+      "transliteration": "l-rūmu"
+    },
+    {
+      "id": 1845,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢",
+      "translation": "(2)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Telah dikalahkan bangsa Romawi <sup foot_note=210930>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

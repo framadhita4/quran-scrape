@@ -1,0 +1,62 @@
+{
+  "id": 5883,
+  "chapter_id": 83,
+  "verse_key": "83:35",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 589,
+  "juz_number": 30,
+  "text_uthmani": "عَلَى ٱلْأَرَآئِكِ يَنظُرُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5883.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5883.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5883.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5883.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5883.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5883.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5883.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5883.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5883.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5883.mp3"
+  },
+  "words": [
+    {
+      "id": 37297,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_035_001.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 37298,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_035_002.mp3",
+      "text": "ٱلْأَرَآئِكِ",
+      "translation": "dipan",
+      "transliteration": "l-arāiki"
+    },
+    {
+      "id": 37299,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_035_003.mp3",
+      "text": "يَنظُرُونَ",
+      "translation": "mereka memandang/melihat",
+      "transliteration": "yanẓurūna"
+    },
+    {
+      "id": 37300,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٣٥",
+      "translation": "(35)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "mereka (duduk) di atas dipan-dipan sambil memandang.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": 19,
+  "chapter_id": 2,
+  "verse_key": "2:12",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 3,
+  "manzil_number": 1,
+  "page_number": 3,
+  "juz_number": 1,
+  "text_uthmani": "أَلَآ إِنَّهُمْ هُمُ ٱلْمُفْسِدُونَ وَلَـٰكِن لَّا يَشْعُرُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/19.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/19.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/19.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/19.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/19.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/19.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/19.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/19.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/19.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/19.mp3"
+  },
+  "words": [
+    {
+      "id": 13812,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_012_001.mp3",
+      "text": "أَلَآ",
+      "translation": "ingatlah",
+      "transliteration": "alā"
+    },
+    {
+      "id": 13813,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_012_002.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "sesungguhnya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 13814,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_012_003.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 13815,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_012_004.mp3",
+      "text": "ٱلْمُفْسِدُونَ",
+      "translation": "orang-orang yang membuat kerusakan",
+      "transliteration": "l-muf'sidūna"
+    },
+    {
+      "id": 13816,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_012_005.mp3",
+      "text": "وَلَـٰكِن",
+      "translation": "akan tetapi",
+      "transliteration": "walākin"
+    },
+    {
+      "id": 13817,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_012_006.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 13818,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_012_007.mp3",
+      "text": "يَشْعُرُونَ",
+      "translation": "mereka sadar",
+      "transliteration": "yashʿurūna"
+    },
+    {
+      "id": 13819,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ingatlah, sesungguhnya mereka itulah orang-orang yang membuat kerusakan, tetapi mereka tidak sadar.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 5573,
+  "chapter_id": 75,
+  "verse_key": "75:22",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "page_number": 578,
+  "juz_number": 29,
+  "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5573.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5573.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5573.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5573.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5573.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5573.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5573.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5573.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5573.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5573.mp3"
+  },
+  "words": [
+    {
+      "id": 24917,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_022_001.mp3",
+      "text": "وُجُوهٌۭ",
+      "translation": "wajah-wajah",
+      "transliteration": "wujūhun"
+    },
+    {
+      "id": 24918,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_022_002.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 24919,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/075_022_003.mp3",
+      "text": "نَّاضِرَةٌ",
+      "translation": "berseri-seri",
+      "transliteration": "nāḍiratun"
+    },
+    {
+      "id": 24920,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Wajah-wajah (orang-orang mukmin) pada hari itu berseri-seri.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

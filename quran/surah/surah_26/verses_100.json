@@ -1,0 +1,70 @@
+{
+  "id": 3032,
+  "chapter_id": 26,
+  "verse_key": "26:100",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 371,
+  "juz_number": 19,
+  "text_uthmani": "فَمَا لَنَا مِن شَـٰفِعِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3032.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3032.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3032.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3032.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3032.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3032.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3032.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3032.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3032.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3032.mp3"
+  },
+  "words": [
+    {
+      "id": 71216,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_100_001.mp3",
+      "text": "فَمَا",
+      "translation": "maka/karena itu tidak ada",
+      "transliteration": "famā"
+    },
+    {
+      "id": 71217,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_100_002.mp3",
+      "text": "لَنَا",
+      "translation": "bagi kita",
+      "transliteration": "lanā"
+    },
+    {
+      "id": 71218,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_100_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 71219,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_100_004.mp3",
+      "text": "شَـٰفِعِينَ",
+      "translation": "pemberi syafa'at",
+      "transliteration": "shāfiʿīna"
+    },
+    {
+      "id": 71220,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٠٠",
+      "translation": "(100)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka kami tidak mempunyai pemberi syafaat seorang pun,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

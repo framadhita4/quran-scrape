@@ -1,0 +1,62 @@
+{
+  "id": 4844,
+  "chapter_id": 53,
+  "verse_key": "53:60",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "وَتَضْحَكُونَ وَلَا تَبْكُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4844.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4844.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4844.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4844.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4844.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4844.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4844.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4844.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4844.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4844.mp3"
+  },
+  "words": [
+    {
+      "id": 54420,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_060_001.mp3",
+      "text": "وَتَضْحَكُونَ",
+      "translation": "dan kamu mentertawakan",
+      "transliteration": "wataḍḥakūna"
+    },
+    {
+      "id": 54421,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_060_002.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 54422,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_060_003.mp3",
+      "text": "تَبْكُونَ",
+      "translation": "menangis",
+      "transliteration": "tabkūna"
+    },
+    {
+      "id": 54423,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٦٠",
+      "translation": "(60)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan kamu mentertawakan dan tidak menangis?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

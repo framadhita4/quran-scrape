@@ -1,0 +1,62 @@
+{
+  "id": 1848,
+  "chapter_id": 15,
+  "verse_key": "15:46",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 221,
+  "manzil_number": 3,
+  "page_number": 264,
+  "juz_number": 14,
+  "text_uthmani": "ٱدْخُلُوهَا بِسَلَـٰمٍ ءَامِنِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1848.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1848.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1848.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1848.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1848.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1848.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1848.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1848.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1848.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1848.mp3"
+  },
+  "words": [
+    {
+      "id": 46242,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_046_001.mp3",
+      "text": "ٱدْخُلُوهَا",
+      "translation": "masuklah kedalamnya",
+      "transliteration": "ud'khulūhā"
+    },
+    {
+      "id": 46243,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_046_002.mp3",
+      "text": "بِسَلَـٰمٍ",
+      "translation": "dengan sejahtera",
+      "transliteration": "bisalāmin"
+    },
+    {
+      "id": 46244,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_046_003.mp3",
+      "text": "ءَامِنِينَ",
+      "translation": "aman",
+      "transliteration": "āminīna"
+    },
+    {
+      "id": 46245,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤٦",
+      "translation": "(46)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Dikatakan kepada mereka), \"Masuklah ke dalamnya dengan sejahtera lagi aman <sup foot_note=210570>1</sup>\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

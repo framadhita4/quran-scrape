@@ -1,0 +1,70 @@
+{
+  "id": 4643,
+  "chapter_id": 50,
+  "verse_key": "50:13",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 454,
+  "manzil_number": 7,
+  "page_number": 518,
+  "juz_number": 26,
+  "text_uthmani": "وَعَادٌ وَفِرْعَوْنُ وَإِخْوَٰنُ لُوطٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4643.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4643.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4643.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4643.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4643.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4643.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4643.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4643.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4643.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4643.mp3"
+  },
+  "words": [
+    {
+      "id": 14879,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_013_001.mp3",
+      "text": "وَعَادٌۭ",
+      "translation": "dan 'Ad",
+      "transliteration": "waʿādun"
+    },
+    {
+      "id": 14880,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_013_002.mp3",
+      "text": "وَفِرْعَوْنُ",
+      "translation": "dan Fir'aun",
+      "transliteration": "wafir'ʿawnu"
+    },
+    {
+      "id": 14881,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_013_003.mp3",
+      "text": "وَإِخْوَٰنُ",
+      "translation": "dan saudara",
+      "transliteration": "wa-ikh'wānu"
+    },
+    {
+      "id": 14882,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_013_004.mp3",
+      "text": "لُوطٍۢ",
+      "translation": "Luth",
+      "transliteration": "lūṭin"
+    },
+    {
+      "id": 14883,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kaum ʻĀd, kaum Firʻawn , dan kaum Lūṭ,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

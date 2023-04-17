@@ -1,0 +1,78 @@
+{
+  "id": 3903,
+  "chapter_id": 37,
+  "verse_key": "37:115",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "وَنَجَّيْنَـٰهُمَا وَقَوْمَهُمَا مِنَ ٱلْكَرْبِ ٱلْعَظِيمِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3903.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3903.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3903.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3903.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3903.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3903.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3903.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3903.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3903.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3903.mp3"
+  },
+  "words": [
+    {
+      "id": 75357,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_115_001.mp3",
+      "text": "وَنَجَّيْنَـٰهُمَا",
+      "translation": "dan Kami selamatkan keduanya",
+      "transliteration": "wanajjaynāhumā"
+    },
+    {
+      "id": 75358,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_115_002.mp3",
+      "text": "وَقَوْمَهُمَا",
+      "translation": "dan kaum keduanya",
+      "transliteration": "waqawmahumā"
+    },
+    {
+      "id": 75359,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_115_003.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 75360,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_115_004.mp3",
+      "text": "ٱلْكَرْبِ",
+      "translation": "bencana",
+      "transliteration": "l-karbi"
+    },
+    {
+      "id": 75361,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_115_005.mp3",
+      "text": "ٱلْعَظِيمِ",
+      "translation": "yang besar",
+      "transliteration": "l-ʿaẓīmi"
+    },
+    {
+      "id": 75362,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١١٥",
+      "translation": "(115)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami selamatkan keduanya dan kaumnya dari bencana yang besar.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

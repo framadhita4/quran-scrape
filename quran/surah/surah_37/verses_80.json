@@ -1,0 +1,70 @@
+{
+  "id": 3868,
+  "chapter_id": 37,
+  "verse_key": "37:80",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3868.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3868.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3868.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3868.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3868.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3868.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3868.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3868.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3868.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3868.mp3"
+  },
+  "words": [
+    {
+      "id": 64162,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_080_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya Kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 64163,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_080_002.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "seperti demikian",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 64164,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_080_003.mp3",
+      "text": "نَجْزِى",
+      "translation": "Kami memberi balasan",
+      "transliteration": "najzī"
+    },
+    {
+      "id": 64165,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_080_004.mp3",
+      "text": "ٱلْمُحْسِنِينَ",
+      "translation": "orang-orang yang berbuat baik",
+      "transliteration": "l-muḥ'sinīna"
+    },
+    {
+      "id": 64166,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٨٠",
+      "translation": "(80)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya demikianlah, Kami memberi balasan kepada orang-orang yang berbuat baik.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

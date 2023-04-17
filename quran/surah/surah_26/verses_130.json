@@ -1,0 +1,70 @@
+{
+  "id": 3062,
+  "chapter_id": 26,
+  "verse_key": "26:130",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 322,
+  "manzil_number": 5,
+  "page_number": 372,
+  "juz_number": 19,
+  "text_uthmani": "وَإِذَا بَطَشْتُم بَطَشْتُمْ جَبَّارِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3062.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3062.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3062.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3062.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3062.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3062.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3062.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3062.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3062.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3062.mp3"
+  },
+  "words": [
+    {
+      "id": 78024,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_130_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 78025,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_130_002.mp3",
+      "text": "بَطَشْتُم",
+      "translation": "kamu menampar/menyiksa",
+      "transliteration": "baṭashtum"
+    },
+    {
+      "id": 78026,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_130_003.mp3",
+      "text": "بَطَشْتُمْ",
+      "translation": "kamu menampar/menyiksa",
+      "transliteration": "baṭashtum"
+    },
+    {
+      "id": 78027,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_130_004.mp3",
+      "text": "جَبَّارِينَ",
+      "translation": "orang-orang yang kejam/bengis",
+      "transliteration": "jabbārīna"
+    },
+    {
+      "id": 78028,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٣٠",
+      "translation": "(130)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila kamu menyiksa, maka kamu menyiksa sebagai orang-orang kejam dan bengis.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "id": 1274,
+  "chapter_id": 9,
+  "verse_key": "9:39",
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "ruku_number": 161,
+  "manzil_number": 2,
+  "page_number": 193,
+  "juz_number": 10,
+  "text_uthmani": "إِلَّا تَنفِرُوا۟ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّوهُ شَيْـًٔا ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1274.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1274.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1274.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1274.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1274.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1274.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1274.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1274.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1274.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1274.mp3"
+  },
+  "words": [
+    {
+      "id": 40544,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_001.mp3",
+      "text": "إِلَّا",
+      "translation": "jika tidak",
+      "transliteration": "illā"
+    },
+    {
+      "id": 40545,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_002.mp3",
+      "text": "تَنفِرُوا۟",
+      "translation": "kamu berangkat",
+      "transliteration": "tanfirū"
+    },
+    {
+      "id": 40546,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_003.mp3",
+      "text": "يُعَذِّبْكُمْ",
+      "translation": "Dia menyiksamu",
+      "transliteration": "yuʿadhib'kum"
+    },
+    {
+      "id": 40547,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_004.mp3",
+      "text": "عَذَابًا",
+      "translation": "siksaan",
+      "transliteration": "ʿadhāban"
+    },
+    {
+      "id": 40548,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_005.mp3",
+      "text": "أَلِيمًۭا",
+      "translation": "pedih",
+      "transliteration": "alīman"
+    },
+    {
+      "id": 40549,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_006.mp3",
+      "text": "وَيَسْتَبْدِلْ",
+      "translation": "dan Dia menggantikan",
+      "transliteration": "wayastabdil"
+    },
+    {
+      "id": 40550,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_007.mp3",
+      "text": "قَوْمًا",
+      "translation": "kaum",
+      "transliteration": "qawman"
+    },
+    {
+      "id": 40551,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_008.mp3",
+      "text": "غَيْرَكُمْ",
+      "translation": "selain kamu",
+      "transliteration": "ghayrakum"
+    },
+    {
+      "id": 40552,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_009.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 40553,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_010.mp3",
+      "text": "تَضُرُّوهُ",
+      "translation": "kamu memberi mudharat kepadaNya",
+      "transliteration": "taḍurrūhu"
+    },
+    {
+      "id": 40554,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_011.mp3",
+      "text": "شَيْـًۭٔا ۗ",
+      "translation": "sedikitpun",
+      "transliteration": "shayan"
+    },
+    {
+      "id": 40556,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_013.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 40557,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_014.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 40558,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_015.mp3",
+      "text": "كُلِّ",
+      "translation": "segala",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 40559,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_016.mp3",
+      "text": "شَىْءٍۢ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 40560,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_039_017.mp3",
+      "text": "قَدِيرٌ",
+      "translation": "Maha Kuasa",
+      "transliteration": "qadīrun"
+    },
+    {
+      "id": 40561,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٩",
+      "translation": "(39)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Jika kamu tidak berangkat untuk berperang, niscaya Allah menyiksa kamu dengan siksa yang pedih dan digantinya (kamu) dengan kaum yang lain, dan kamu tidak akan dapat memberi kemudaratan kepada-Nya sedikit pun.  Allah Maha Kuasa atas segala sesuatu.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

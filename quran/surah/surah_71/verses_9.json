@@ -1,0 +1,94 @@
+{
+  "id": 5428,
+  "chapter_id": 71,
+  "verse_key": "71:9",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "page_number": 570,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ إِنِّىٓ أَعْلَنتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5428.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5428.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5428.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5428.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5428.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5428.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5428.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5428.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5428.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5428.mp3"
+  },
+  "words": [
+    {
+      "id": 10305,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_009_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 10306,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_009_002.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 10307,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_009_003.mp3",
+      "text": "أَعْلَنتُ",
+      "translation": "aku telah nyatakan/terang-terangan",
+      "transliteration": "aʿlantu"
+    },
+    {
+      "id": 10308,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_009_004.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 10309,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_009_005.mp3",
+      "text": "وَأَسْرَرْتُ",
+      "translation": "dan aku merahasiakan",
+      "transliteration": "wa-asrartu"
+    },
+    {
+      "id": 10310,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_009_006.mp3",
+      "text": "لَهُمْ",
+      "translation": "kepada mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 10311,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/071_009_007.mp3",
+      "text": "إِسْرَارًۭا",
+      "translation": "rahasia/diam-diam",
+      "transliteration": "is'rāran"
+    },
+    {
+      "id": 10312,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kemudian sesungguhnya aku (menyeru) mereka (lagi) dengan terang-terangan dan dengan diam-diam<sup foot_note=211288>1</sup>,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

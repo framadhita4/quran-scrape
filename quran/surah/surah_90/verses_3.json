@@ -1,0 +1,62 @@
+{
+  "id": 6026,
+  "chapter_id": 90,
+  "verse_key": "90:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "page_number": 594,
+  "juz_number": 30,
+  "text_uthmani": "وَوَالِدٍ وَمَا وَلَدَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6026.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6026.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6026.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6026.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6026.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6026.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6026.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6026.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6026.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6026.mp3"
+  },
+  "words": [
+    {
+      "id": 2893,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_003_001.mp3",
+      "text": "وَوَالِدٍۢ",
+      "translation": "demi bapak",
+      "transliteration": "wawālidin"
+    },
+    {
+      "id": 2894,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_003_002.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 2895,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/090_003_003.mp3",
+      "text": "وَلَدَ",
+      "translation": "ia lahirkan (anak)",
+      "transliteration": "walada"
+    },
+    {
+      "id": 2896,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan demi bapak dan anaknya.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

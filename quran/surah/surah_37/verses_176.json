@@ -1,0 +1,54 @@
+{
+  "id": 3964,
+  "chapter_id": 37,
+  "verse_key": "37:176",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3964.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3964.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3964.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3964.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3964.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3964.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3964.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3964.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3964.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3964.mp3"
+  },
+  "words": [
+    {
+      "id": 83382,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_176_001.mp3",
+      "text": "أَفَبِعَذَابِنَا",
+      "translation": "Apakah dengan azab Kami",
+      "transliteration": "afabiʿadhābinā"
+    },
+    {
+      "id": 83383,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_176_002.mp3",
+      "text": "يَسْتَعْجِلُونَ",
+      "translation": "mereka minta disegerakan",
+      "transliteration": "yastaʿjilūna"
+    },
+    {
+      "id": 83384,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٧٦",
+      "translation": "(176)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah mereka meminta supaya siksa Kami disegerakan?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

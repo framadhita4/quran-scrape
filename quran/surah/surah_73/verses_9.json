@@ -1,0 +1,110 @@
+{
+  "id": 5484,
+  "chapter_id": 73,
+  "verse_key": "73:9",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": "رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5484.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5484.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5484.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5484.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5484.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5484.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5484.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5484.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5484.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5484.mp3"
+  },
+  "words": [
+    {
+      "id": 10328,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_009_001.mp3",
+      "text": "رَّبُّ",
+      "translation": "Tuhan/pemelihara",
+      "transliteration": "rabbu"
+    },
+    {
+      "id": 10329,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_009_002.mp3",
+      "text": "ٱلْمَشْرِقِ",
+      "translation": "timur",
+      "transliteration": "l-mashriqi"
+    },
+    {
+      "id": 10330,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_009_003.mp3",
+      "text": "وَٱلْمَغْرِبِ",
+      "translation": "dan barat",
+      "transliteration": "wal-maghribi"
+    },
+    {
+      "id": 10331,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_009_004.mp3",
+      "text": "لَآ",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 10332,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_009_005.mp3",
+      "text": "إِلَـٰهَ",
+      "translation": "tuhan",
+      "transliteration": "ilāha"
+    },
+    {
+      "id": 10333,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_009_006.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 10334,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_009_007.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 10335,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_009_008.mp3",
+      "text": "فَٱتَّخِذْهُ",
+      "translation": "maka ambillah/jadikan Dia",
+      "transliteration": "fa-ittakhidh'hu"
+    },
+    {
+      "id": 10336,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_009_009.mp3",
+      "text": "وَكِيلًۭا",
+      "translation": "pelindung",
+      "transliteration": "wakīlan"
+    },
+    {
+      "id": 10337,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Dia-lah) Tuhan masyrik dan magrib, tiada Tuhan (yang berhak disembah) melainkan Dia, maka ambillah Dia sebagai pelindung.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

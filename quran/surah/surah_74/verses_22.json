@@ -1,0 +1,62 @@
+{
+  "id": 5517,
+  "chapter_id": 74,
+  "verse_key": "74:22",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "ثُمَّ عَبَسَ وَبَسَرَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5517.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5517.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5517.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5517.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5517.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5517.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5517.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5517.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5517.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5517.mp3"
+  },
+  "words": [
+    {
+      "id": 24998,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_022_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 24999,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_022_002.mp3",
+      "text": "عَبَسَ",
+      "translation": "dia bermasam muka",
+      "transliteration": "ʿabasa"
+    },
+    {
+      "id": 25000,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_022_003.mp3",
+      "text": "وَبَسَرَ",
+      "translation": "dan dia merengut",
+      "transliteration": "wabasara"
+    },
+    {
+      "id": 25001,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sesudah itu dia bermasam muka dan merengut,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

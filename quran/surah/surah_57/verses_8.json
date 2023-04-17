@@ -1,0 +1,158 @@
+{
+  "id": 5083,
+  "chapter_id": 57,
+  "verse_key": "57:8",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "ruku_number": 474,
+  "manzil_number": 7,
+  "page_number": 538,
+  "juz_number": 27,
+  "text_uthmani": "وَمَا لَكُمْ لَا تُؤْمِنُونَ بِٱللَّهِ ۙ وَٱلرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا۟ بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَـٰقَكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5083.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5083.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5083.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5083.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5083.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5083.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5083.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5083.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5083.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5083.mp3"
+  },
+  "words": [
+    {
+      "id": 8797,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa-apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 8798,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_002.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 8799,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_003.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 8800,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_004.mp3",
+      "text": "تُؤْمِنُونَ",
+      "translation": "kamu beriman",
+      "transliteration": "tu'minūna"
+    },
+    {
+      "id": 8801,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_005.mp3",
+      "text": "بِٱللَّهِ ۙ",
+      "translation": "kepada Allah",
+      "transliteration": "bil-lahi"
+    },
+    {
+      "id": 8803,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_007.mp3",
+      "text": "وَٱلرَّسُولُ",
+      "translation": "dan rasul",
+      "transliteration": "wal-rasūlu"
+    },
+    {
+      "id": 8804,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_008.mp3",
+      "text": "يَدْعُوكُمْ",
+      "translation": "menyeru kamu",
+      "transliteration": "yadʿūkum"
+    },
+    {
+      "id": 8805,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_009.mp3",
+      "text": "لِتُؤْمِنُوا۟",
+      "translation": "agar kamu beriman",
+      "transliteration": "litu'minū"
+    },
+    {
+      "id": 8806,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_010.mp3",
+      "text": "بِرَبِّكُمْ",
+      "translation": "kepada Tuhan kamu",
+      "transliteration": "birabbikum"
+    },
+    {
+      "id": 8807,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_011.mp3",
+      "text": "وَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "waqad"
+    },
+    {
+      "id": 8808,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_012.mp3",
+      "text": "أَخَذَ",
+      "translation": "Dia telah mengambil",
+      "transliteration": "akhadha"
+    },
+    {
+      "id": 8809,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_013.mp3",
+      "text": "مِيثَـٰقَكُمْ",
+      "translation": "perjanjian",
+      "transliteration": "mīthāqakum"
+    },
+    {
+      "id": 8810,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_014.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 8811,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_015.mp3",
+      "text": "كُنتُم",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 8812,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/057_008_016.mp3",
+      "text": "مُّؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "mu'minīna"
+    },
+    {
+      "id": 8813,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mengapa kamu tidak beriman kepada Allah padahal rasul menyeru kamu supaya kamu beriman kepada Tuhan-mu.  Dan sesungguhnya Dia telah mengambil perjanjianmu<sup foot_note=211227>1</sup> jika kamu adalah orang-orang yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

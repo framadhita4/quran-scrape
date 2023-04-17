@@ -1,0 +1,62 @@
+{
+  "id": 3800,
+  "chapter_id": 37,
+  "verse_key": "37:12",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 388,
+  "manzil_number": 6,
+  "page_number": 446,
+  "juz_number": 23,
+  "text_uthmani": "بَلْ عَجِبْتَ وَيَسْخَرُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3800.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3800.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3800.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3800.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3800.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3800.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3800.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3800.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3800.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3800.mp3"
+  },
+  "words": [
+    {
+      "id": 14607,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_012_001.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan/tetapi",
+      "transliteration": "bal"
+    },
+    {
+      "id": 14608,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_012_002.mp3",
+      "text": "عَجِبْتَ",
+      "translation": "kamu menjadi heran",
+      "transliteration": "ʿajib'ta"
+    },
+    {
+      "id": 14609,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_012_003.mp3",
+      "text": "وَيَسْخَرُونَ",
+      "translation": "dan/sedang mereka memperolok-olok/mengejek",
+      "transliteration": "wayaskharūna"
+    },
+    {
+      "id": 14610,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Bahkan, kamu menjadi heran (terhadap keingkaran mereka) dan mereka menghinakan kamu.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

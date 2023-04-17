@@ -1,0 +1,134 @@
+{
+  "id": 1545,
+  "chapter_id": 11,
+  "verse_key": "11:72",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "ruku_number": 189,
+  "manzil_number": 3,
+  "page_number": 230,
+  "juz_number": 12,
+  "text_uthmani": "قَالَتْ يَـٰوَيْلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٌ وَهَـٰذَا بَعْلِى شَيْخًا ۖ إِنَّ هَـٰذَا لَشَىْءٌ عَجِيبٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1545.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1545.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1545.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1545.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1545.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1545.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1545.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1545.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1545.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1545.mp3"
+  },
+  "words": [
+    {
+      "id": 60388,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_072_001.mp3",
+      "text": "قَالَتْ",
+      "translation": "(isterinya) berkata",
+      "transliteration": "qālat"
+    },
+    {
+      "id": 60389,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_072_002.mp3",
+      "text": "يَـٰوَيْلَتَىٰٓ",
+      "translation": "aduh celakalah aku",
+      "transliteration": "yāwaylatā"
+    },
+    {
+      "id": 60390,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_072_003.mp3",
+      "text": "ءَأَلِدُ",
+      "translation": "apakah aku akan melahirkan",
+      "transliteration": "a-alidu"
+    },
+    {
+      "id": 60391,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_072_004.mp3",
+      "text": "وَأَنَا۠",
+      "translation": "dan/padahal aku",
+      "transliteration": "wa-anā"
+    },
+    {
+      "id": 60392,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_072_005.mp3",
+      "text": "عَجُوزٌۭ",
+      "translation": "sudah tua",
+      "transliteration": "ʿajūzun"
+    },
+    {
+      "id": 60393,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_072_006.mp3",
+      "text": "وَهَـٰذَا",
+      "translation": "dan ini",
+      "transliteration": "wahādhā"
+    },
+    {
+      "id": 60394,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_072_007.mp3",
+      "text": "بَعْلِى",
+      "translation": "suamiku",
+      "transliteration": "baʿlī"
+    },
+    {
+      "id": 60395,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_072_008.mp3",
+      "text": "شَيْخًا ۖ",
+      "translation": "sudah tua",
+      "transliteration": "shaykhan"
+    },
+    {
+      "id": 60397,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_072_010.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 60398,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_072_011.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 60399,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_072_012.mp3",
+      "text": "لَشَىْءٌ",
+      "translation": "sungguh suatu",
+      "transliteration": "lashayon"
+    },
+    {
+      "id": 60400,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_072_013.mp3",
+      "text": "عَجِيبٌۭ",
+      "translation": "sangat ajaib/aneh",
+      "transliteration": "ʿajībun"
+    },
+    {
+      "id": 60401,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٧٢",
+      "translation": "(72)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Istrinya berkata, \"Sungguh mengherankan, apakah aku akan melahirkan anak padahal aku adalah seorang perempuan tua dan ini suamiku pun dalam keadaan yang sudah tua pula? Sesungguhnya ini benar-benar suatu yang sangat aneh\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

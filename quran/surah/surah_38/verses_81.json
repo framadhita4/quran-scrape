@@ -1,0 +1,70 @@
+{
+  "id": 4051,
+  "chapter_id": 38,
+  "verse_key": "38:81",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "إِلَىٰ يَوْمِ ٱلْوَقْتِ ٱلْمَعْلُومِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4051.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4051.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4051.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4051.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4051.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4051.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4051.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4051.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4051.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4051.mp3"
+  },
+  "words": [
+    {
+      "id": 64789,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_081_001.mp3",
+      "text": "إِلَىٰ",
+      "translation": "sampai",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 64790,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_081_002.mp3",
+      "text": "يَوْمِ",
+      "translation": "pada hari",
+      "transliteration": "yawmi"
+    },
+    {
+      "id": 64791,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_081_003.mp3",
+      "text": "ٱلْوَقْتِ",
+      "translation": "waktu",
+      "transliteration": "l-waqti"
+    },
+    {
+      "id": 64792,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_081_004.mp3",
+      "text": "ٱلْمَعْلُومِ",
+      "translation": "tertentu/ditentukan",
+      "transliteration": "l-maʿlūmi"
+    },
+    {
+      "id": 64793,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٨١",
+      "translation": "(81)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sampai kepada hari yang telah ditentukan waktunya (hari Kiamat)\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

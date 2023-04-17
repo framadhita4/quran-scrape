@@ -1,0 +1,70 @@
+{
+  "id": 3957,
+  "chapter_id": 37,
+  "verse_key": "37:169",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "لَكُنَّا عِبَادَ ٱللَّهِ ٱلْمُخْلَصِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3957.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3957.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3957.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3957.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3957.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3957.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3957.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3957.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3957.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3957.mp3"
+  },
+  "words": [
+    {
+      "id": 82732,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_169_001.mp3",
+      "text": "لَكُنَّا",
+      "translation": "niscaya kami menjadi",
+      "transliteration": "lakunnā"
+    },
+    {
+      "id": 82733,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_169_002.mp3",
+      "text": "عِبَادَ",
+      "translation": "hamba-hamba",
+      "transliteration": "ʿibāda"
+    },
+    {
+      "id": 82734,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_169_003.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 82735,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_169_004.mp3",
+      "text": "ٱلْمُخْلَصِينَ",
+      "translation": "orang-orang yang ikhlas",
+      "transliteration": "l-mukh'laṣīna"
+    },
+    {
+      "id": 82736,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٦٩",
+      "translation": "(169)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "benar-benar kami akan jadi hamba Allah yang dibersihkan (dari dosa)\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

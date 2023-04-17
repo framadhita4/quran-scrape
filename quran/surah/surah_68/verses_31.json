@@ -1,0 +1,78 @@
+{
+  "id": 5302,
+  "chapter_id": 68,
+  "verse_key": "68:31",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 565,
+  "juz_number": 29,
+  "text_uthmani": "قَالُوا۟ يَـٰوَيْلَنَآ إِنَّا كُنَّا طَـٰغِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5302.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5302.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5302.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5302.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5302.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5302.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5302.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5302.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5302.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5302.mp3"
+  },
+  "words": [
+    {
+      "id": 33975,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_031_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 33976,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_031_002.mp3",
+      "text": "يَـٰوَيْلَنَآ",
+      "translation": "betapa celakanya kami",
+      "transliteration": "yāwaylanā"
+    },
+    {
+      "id": 33977,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_031_003.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 33978,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_031_004.mp3",
+      "text": "كُنَّا",
+      "translation": "adalah kami",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 33979,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_031_005.mp3",
+      "text": "طَـٰغِينَ",
+      "translation": "orang-orang yang melampaui batas",
+      "transliteration": "ṭāghīna"
+    },
+    {
+      "id": 33980,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Aduhai celakalah kita; sesungguhnya kita ini adalah orang-orang yang melampaui batas\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

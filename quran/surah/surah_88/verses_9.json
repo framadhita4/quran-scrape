@@ -1,0 +1,54 @@
+{
+  "id": 5976,
+  "chapter_id": 88,
+  "verse_key": "88:9",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "لِّسَعْيِهَا رَاضِيَةٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5976.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5976.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5976.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5976.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5976.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5976.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5976.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5976.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5976.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5976.mp3"
+  },
+  "words": [
+    {
+      "id": 9841,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_009_001.mp3",
+      "text": "لِّسَعْيِهَا",
+      "translation": "karena usahanya",
+      "transliteration": "lisaʿyihā"
+    },
+    {
+      "id": 9842,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_009_002.mp3",
+      "text": "رَاضِيَةٌۭ",
+      "translation": "merasa senang",
+      "transliteration": "rāḍiyatun"
+    },
+    {
+      "id": 9843,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٩",
+      "translation": "(9)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "merasa senang karena usahanya,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

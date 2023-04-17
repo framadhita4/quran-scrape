@@ -1,0 +1,94 @@
+{
+  "id": 353,
+  "chapter_id": 3,
+  "verse_key": "3:60",
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "ruku_number": 47,
+  "manzil_number": 1,
+  "page_number": 57,
+  "juz_number": 3,
+  "text_uthmani": "ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلْمُمْتَرِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/353.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/353.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/353.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/353.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/353.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/353.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/353.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/353.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/353.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/353.mp3"
+  },
+  "words": [
+    {
+      "id": 54276,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_060_001.mp3",
+      "text": "ٱلْحَقُّ",
+      "translation": "kebenaran itu",
+      "transliteration": "al-ḥaqu"
+    },
+    {
+      "id": 54277,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_060_002.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 54278,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_060_003.mp3",
+      "text": "رَّبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 54279,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_060_004.mp3",
+      "text": "فَلَا",
+      "translation": "maka janganlah",
+      "transliteration": "falā"
+    },
+    {
+      "id": 54280,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_060_005.mp3",
+      "text": "تَكُن",
+      "translation": "kamu termasuk",
+      "transliteration": "takun"
+    },
+    {
+      "id": 54281,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_060_006.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 54282,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_060_007.mp3",
+      "text": "ٱلْمُمْتَرِينَ",
+      "translation": "orang-orang yang ragu-ragu",
+      "transliteration": "l-mum'tarīna"
+    },
+    {
+      "id": 54283,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٦٠",
+      "translation": "(60)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Apa yang telah Kami ceritakan itu), itulah yang benar, yang datang dari Tuhan-mu, karena itu janganlah kamu termasuk orang-orang yang ragu-ragu.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

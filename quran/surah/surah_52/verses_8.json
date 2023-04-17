@@ -1,0 +1,70 @@
+{
+  "id": 4743,
+  "chapter_id": 52,
+  "verse_key": "52:8",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "page_number": 523,
+  "juz_number": 27,
+  "text_uthmani": "مَّا لَهُۥ مِن دَافِعٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4743.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4743.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4743.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4743.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4743.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4743.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4743.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4743.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4743.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4743.mp3"
+  },
+  "words": [
+    {
+      "id": 8704,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_008_001.mp3",
+      "text": "مَّا",
+      "translation": "tidak ada",
+      "transliteration": "mā"
+    },
+    {
+      "id": 8705,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_008_002.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 8706,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_008_003.mp3",
+      "text": "مِن",
+      "translation": "dari yang",
+      "transliteration": "min"
+    },
+    {
+      "id": 8707,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/052_008_004.mp3",
+      "text": "دَافِعٍۢ",
+      "translation": "menolak",
+      "transliteration": "dāfiʿin"
+    },
+    {
+      "id": 8708,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "tidak seorang pun yang dapat menolaknya,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

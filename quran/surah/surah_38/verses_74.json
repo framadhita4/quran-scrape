@@ -1,0 +1,86 @@
+{
+  "id": 4044,
+  "chapter_id": 38,
+  "verse_key": "38:74",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "إِلَّآ إِبْلِيسَ ٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَـٰفِرِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4044.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4044.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4044.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4044.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4044.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4044.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4044.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4044.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4044.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4044.mp3"
+  },
+  "words": [
+    {
+      "id": 61831,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_074_001.mp3",
+      "text": "إِلَّآ",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 61832,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_074_002.mp3",
+      "text": "إِبْلِيسَ",
+      "translation": "iblis",
+      "transliteration": "ib'līsa"
+    },
+    {
+      "id": 61833,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_074_003.mp3",
+      "text": "ٱسْتَكْبَرَ",
+      "translation": "ia menyombongkan diri",
+      "transliteration": "is'takbara"
+    },
+    {
+      "id": 61834,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_074_004.mp3",
+      "text": "وَكَانَ",
+      "translation": "dan adalah ia",
+      "transliteration": "wakāna"
+    },
+    {
+      "id": 61835,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_074_005.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 61836,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_074_006.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang yang kafir",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 61837,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٧٤",
+      "translation": "(74)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali iblis; dia menyombongkan diri dan adalah dia termasuk orang-orang yang kafir.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

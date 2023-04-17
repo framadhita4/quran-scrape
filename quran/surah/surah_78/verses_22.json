@@ -1,0 +1,54 @@
+{
+  "id": 5694,
+  "chapter_id": 78,
+  "verse_key": "78:22",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "لِّلطَّـٰغِينَ مَـَٔابًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5694.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5694.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5694.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5694.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5694.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5694.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5694.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5694.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5694.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5694.mp3"
+  },
+  "words": [
+    {
+      "id": 24973,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_022_001.mp3",
+      "text": "لِّلطَّـٰغِينَ",
+      "translation": "bagi orang-orang yang melampui batas",
+      "transliteration": "lilṭṭāghīna"
+    },
+    {
+      "id": 24974,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_022_002.mp3",
+      "text": "مَـَٔابًۭا",
+      "translation": "tempat kembali",
+      "transliteration": "maāban"
+    },
+    {
+      "id": 24975,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "lagi menjadi tempat kembali bagi orang-orang yang melampaui batas,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

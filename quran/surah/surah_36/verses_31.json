@@ -1,0 +1,126 @@
+{
+  "id": 3736,
+  "chapter_id": 36,
+  "verse_key": "36:31",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 384,
+  "manzil_number": 5,
+  "page_number": 442,
+  "juz_number": 23,
+  "text_uthmani": "أَلَمْ يَرَوْا۟ كَمْ أَهْلَكْنَا قَبْلَهُم مِّنَ ٱلْقُرُونِ أَنَّهُمْ إِلَيْهِمْ لَا يَرْجِعُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3736.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3736.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3736.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3736.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3736.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3736.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3736.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3736.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3736.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3736.mp3"
+  },
+  "words": [
+    {
+      "id": 34250,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_031_001.mp3",
+      "text": "أَلَمْ",
+      "translation": "apakah tidak",
+      "transliteration": "alam"
+    },
+    {
+      "id": 34251,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_031_002.mp3",
+      "text": "يَرَوْا۟",
+      "translation": "mereka memperhatikan",
+      "transliteration": "yaraw"
+    },
+    {
+      "id": 34252,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_031_003.mp3",
+      "text": "كَمْ",
+      "translation": "berapa banyak",
+      "transliteration": "kam"
+    },
+    {
+      "id": 34253,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_031_004.mp3",
+      "text": "أَهْلَكْنَا",
+      "translation": "Kami telah binasakan",
+      "transliteration": "ahlaknā"
+    },
+    {
+      "id": 34254,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_031_005.mp3",
+      "text": "قَبْلَهُم",
+      "translation": "sebelum mereka",
+      "transliteration": "qablahum"
+    },
+    {
+      "id": 34255,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_031_006.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 34256,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_031_007.mp3",
+      "text": "ٱلْقُرُونِ",
+      "translation": "kurun/ummat-ummat",
+      "transliteration": "l-qurūni"
+    },
+    {
+      "id": 34257,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_031_008.mp3",
+      "text": "أَنَّهُمْ",
+      "translation": "bahwasannya mereka",
+      "transliteration": "annahum"
+    },
+    {
+      "id": 34258,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_031_009.mp3",
+      "text": "إِلَيْهِمْ",
+      "translation": "kepada mereka",
+      "transliteration": "ilayhim"
+    },
+    {
+      "id": 34259,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_031_010.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 34260,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/036_031_011.mp3",
+      "text": "يَرْجِعُونَ",
+      "translation": "mereka akan menyembah",
+      "transliteration": "yarjiʿūna"
+    },
+    {
+      "id": 34261,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidakkah mereka mengetahui berapa banyaknya umat-umat sebelum mereka yang telah Kami binasakan; bahwasanya orang-orang (yang telah Kami binasakan) itu tiada kembali kepada mereka <sup foot_note=211035>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

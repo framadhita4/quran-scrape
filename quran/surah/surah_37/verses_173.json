@@ -1,0 +1,70 @@
+{
+  "id": 3961,
+  "chapter_id": 37,
+  "verse_key": "37:173",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "وَإِنَّ جُندَنَا لَهُمُ ٱلْغَـٰلِبُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3961.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3961.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3961.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3961.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3961.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3961.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3961.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3961.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3961.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3961.mp3"
+  },
+  "words": [
+    {
+      "id": 83215,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_173_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 83216,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_173_002.mp3",
+      "text": "جُندَنَا",
+      "translation": "tentara Kami",
+      "transliteration": "jundanā"
+    },
+    {
+      "id": 83217,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_173_003.mp3",
+      "text": "لَهُمُ",
+      "translation": "bagi mereka",
+      "transliteration": "lahumu"
+    },
+    {
+      "id": 83218,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_173_004.mp3",
+      "text": "ٱلْغَـٰلِبُونَ",
+      "translation": "yang mengalahkan/menang",
+      "transliteration": "l-ghālibūna"
+    },
+    {
+      "id": 83219,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٧٣",
+      "translation": "(173)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya tentara Kami <sup foot_note=211062>1</sup> itulah yang pasti menang,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

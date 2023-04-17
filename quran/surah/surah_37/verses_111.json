@@ -1,0 +1,70 @@
+{
+  "id": 3899,
+  "chapter_id": 37,
+  "verse_key": "37:111",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 450,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3899.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3899.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3899.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3899.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3899.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3899.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3899.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3899.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3899.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3899.mp3"
+  },
+  "words": [
+    {
+      "id": 74485,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_111_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 74486,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_111_002.mp3",
+      "text": "مِنْ",
+      "translation": "dari/termasuk",
+      "transliteration": "min"
+    },
+    {
+      "id": 74487,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_111_003.mp3",
+      "text": "عِبَادِنَا",
+      "translation": "hamba-hamba Kami",
+      "transliteration": "ʿibādinā"
+    },
+    {
+      "id": 74488,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_111_004.mp3",
+      "text": "ٱلْمُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "l-mu'minīna"
+    },
+    {
+      "id": 74489,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١١١",
+      "translation": "(111)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya ia termasuk hamba-hamba Kami yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 4654,
+  "chapter_id": 50,
+  "verse_key": "50:24",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 455,
+  "manzil_number": 7,
+  "page_number": 519,
+  "juz_number": 26,
+  "text_uthmani": "أَلْقِيَا فِى جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4654.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4654.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4654.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4654.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4654.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4654.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4654.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4654.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4654.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4654.mp3"
+  },
+  "words": [
+    {
+      "id": 26793,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_024_001.mp3",
+      "text": "أَلْقِيَا",
+      "translation": "lemparkanlah olehmu",
+      "transliteration": "alqiyā"
+    },
+    {
+      "id": 26794,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_024_002.mp3",
+      "text": "فِى",
+      "translation": "ke dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 26795,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_024_003.mp3",
+      "text": "جَهَنَّمَ",
+      "translation": "neraka jahanam",
+      "transliteration": "jahannama"
+    },
+    {
+      "id": 26796,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_024_004.mp3",
+      "text": "كُلَّ",
+      "translation": "setiap",
+      "transliteration": "kulla"
+    },
+    {
+      "id": 26797,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_024_005.mp3",
+      "text": "كَفَّارٍ",
+      "translation": "orang-orang yang sangat ingkar",
+      "transliteration": "kaffārin"
+    },
+    {
+      "id": 26798,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_024_006.mp3",
+      "text": "عَنِيدٍۢ",
+      "translation": "keras kepala",
+      "transliteration": "ʿanīdin"
+    },
+    {
+      "id": 26799,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٢٤",
+      "translation": "(24)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah berfirman, \"Lemparkanlah olehmu berdua ke dalam neraka semua orang yang sangat ingkar dan keras kepala,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

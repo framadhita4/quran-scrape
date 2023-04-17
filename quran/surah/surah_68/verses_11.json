@@ -1,0 +1,62 @@
+{
+  "id": 5282,
+  "chapter_id": 68,
+  "verse_key": "68:11",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5282.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5282.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5282.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5282.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5282.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5282.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5282.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5282.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5282.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5282.mp3"
+  },
+  "words": [
+    {
+      "id": 13076,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_011_001.mp3",
+      "text": "هَمَّازٍۢ",
+      "translation": "pencela",
+      "transliteration": "hammāzin"
+    },
+    {
+      "id": 13077,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_011_002.mp3",
+      "text": "مَّشَّآءٍۭ",
+      "translation": "berjalan",
+      "transliteration": "mashāin"
+    },
+    {
+      "id": 13078,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_011_003.mp3",
+      "text": "بِنَمِيمٍۢ",
+      "translation": "dengan fitnah",
+      "transliteration": "binamīmin"
+    },
+    {
+      "id": 13079,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang banyak mencela, yang kian kemari menghambur fitnah,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

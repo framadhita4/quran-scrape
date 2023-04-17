@@ -1,0 +1,78 @@
+{
+  "id": 5343,
+  "chapter_id": 69,
+  "verse_key": "69:20",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 567,
+  "juz_number": 29,
+  "text_uthmani": "إِنِّى ظَنَنتُ أَنِّى مُلَـٰقٍ حِسَابِيَهْ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5343.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5343.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5343.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5343.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5343.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5343.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5343.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5343.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5343.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5343.mp3"
+  },
+  "words": [
+    {
+      "id": 22740,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_020_001.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 22741,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_020_002.mp3",
+      "text": "ظَنَنتُ",
+      "translation": "aku sangka/yakin",
+      "transliteration": "ẓanantu"
+    },
+    {
+      "id": 22742,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_020_003.mp3",
+      "text": "أَنِّى",
+      "translation": "bahwasanya aku",
+      "transliteration": "annī"
+    },
+    {
+      "id": 22743,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_020_004.mp3",
+      "text": "مُلَـٰقٍ",
+      "translation": "menemui",
+      "transliteration": "mulāqin"
+    },
+    {
+      "id": 22744,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_020_005.mp3",
+      "text": "حِسَابِيَهْ",
+      "translation": "perhitungan",
+      "transliteration": "ḥisābiyah"
+    },
+    {
+      "id": 22745,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya aku yakin bahwa sesungguhnya aku akan menemui hisab terhadap diriku.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

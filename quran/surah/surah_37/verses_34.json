@@ -1,0 +1,70 @@
+{
+  "id": 3822,
+  "chapter_id": 37,
+  "verse_key": "37:34",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّا كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3822.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3822.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3822.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3822.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3822.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3822.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3822.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3822.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3822.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3822.mp3"
+  },
+  "words": [
+    {
+      "id": 36842,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_034_001.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 36843,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_034_002.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "demikianlah",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 36844,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_034_003.mp3",
+      "text": "نَفْعَلُ",
+      "translation": "Kami berbuat",
+      "transliteration": "nafʿalu"
+    },
+    {
+      "id": 36845,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_034_004.mp3",
+      "text": "بِٱلْمُجْرِمِينَ",
+      "translation": "terhadap orang-orang yang berdosa",
+      "transliteration": "bil-muj'rimīna"
+    },
+    {
+      "id": 36846,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya demikianlah, Kami berbuat terhadap orang-orang yang berbuat jahat.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

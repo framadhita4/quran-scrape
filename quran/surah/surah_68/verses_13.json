@@ -1,0 +1,70 @@
+{
+  "id": 5284,
+  "chapter_id": 68,
+  "verse_key": "68:13",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "page_number": 564,
+  "juz_number": 29,
+  "text_uthmani": "عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5284.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5284.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5284.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5284.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5284.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5284.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5284.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5284.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5284.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5284.mp3"
+  },
+  "words": [
+    {
+      "id": 15068,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_013_001.mp3",
+      "text": "عُتُلٍّۭ",
+      "translation": "kaku kasar",
+      "transliteration": "ʿutullin"
+    },
+    {
+      "id": 15069,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_013_002.mp3",
+      "text": "بَعْدَ",
+      "translation": "sesudah",
+      "transliteration": "baʿda"
+    },
+    {
+      "id": 15070,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_013_003.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 15071,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/068_013_004.mp3",
+      "text": "زَنِيمٍ",
+      "translation": "terkenal jahat",
+      "transliteration": "zanīmin"
+    },
+    {
+      "id": 15072,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yang kaku kasar, selain dari itu, yang terkenal kejahatannya,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

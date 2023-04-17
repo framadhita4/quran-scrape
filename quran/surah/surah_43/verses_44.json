@@ -1,0 +1,86 @@
+{
+  "id": 4369,
+  "chapter_id": 43,
+  "verse_key": "43:44",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 429,
+  "manzil_number": 6,
+  "page_number": 492,
+  "juz_number": 25,
+  "text_uthmani": "وَإِنَّهُۥ لَذِكْرٌ لَّكَ وَلِقَوْمِكَ ۖ وَسَوْفَ تُسْـَٔلُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4369.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4369.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4369.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4369.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4369.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4369.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4369.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4369.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4369.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4369.mp3"
+  },
+  "words": [
+    {
+      "id": 44273,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_044_001.mp3",
+      "text": "وَإِنَّهُۥ",
+      "translation": "dan sesungguhnya ia",
+      "transliteration": "wa-innahu"
+    },
+    {
+      "id": 44274,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_044_002.mp3",
+      "text": "لَذِكْرٌۭ",
+      "translation": "benar-benar pengajaran",
+      "transliteration": "ladhik'run"
+    },
+    {
+      "id": 44275,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_044_003.mp3",
+      "text": "لَّكَ",
+      "translation": "bagimu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 44276,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_044_004.mp3",
+      "text": "وَلِقَوْمِكَ ۖ",
+      "translation": "dan bagi kaummu",
+      "transliteration": "waliqawmika"
+    },
+    {
+      "id": 44278,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_044_006.mp3",
+      "text": "وَسَوْفَ",
+      "translation": "dan kelak",
+      "transliteration": "wasawfa"
+    },
+    {
+      "id": 44279,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_044_007.mp3",
+      "text": "تُسْـَٔلُونَ",
+      "translation": "kamu akan ditanya",
+      "transliteration": "tus'alūna"
+    },
+    {
+      "id": 44280,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٤٤",
+      "translation": "(44)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya, Al-Qur`ān itu benar-benar adalah suatu kemuliaan besar bagimu dan bagi kaummu dan kelak kamu akan diminta pertanggungan jawab.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

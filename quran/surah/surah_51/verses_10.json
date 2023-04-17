@@ -1,0 +1,54 @@
+{
+  "id": 4685,
+  "chapter_id": 51,
+  "verse_key": "51:10",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 521,
+  "juz_number": 26,
+  "text_uthmani": "قُتِلَ ٱلْخَرَّٰصُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4685.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4685.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4685.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4685.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4685.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4685.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4685.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4685.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4685.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4685.mp3"
+  },
+  "words": [
+    {
+      "id": 11112,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_010_001.mp3",
+      "text": "قُتِلَ",
+      "translation": "dibunuh",
+      "transliteration": "qutila"
+    },
+    {
+      "id": 11113,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_010_002.mp3",
+      "text": "ٱلْخَرَّٰصُونَ",
+      "translation": "orang-orang yang banyak berdusta",
+      "transliteration": "l-kharāṣūna"
+    },
+    {
+      "id": 11114,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٠",
+      "translation": "(10)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Terkutuklah orang-orang yang banyak berdusta,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

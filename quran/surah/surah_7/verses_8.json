@@ -1,0 +1,110 @@
+{
+  "id": 962,
+  "chapter_id": 7,
+  "verse_key": "7:8",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "ruku_number": 122,
+  "manzil_number": 2,
+  "page_number": 151,
+  "juz_number": 8,
+  "text_uthmani": "وَٱلْوَزْنُ يَوْمَئِذٍ ٱلْحَقُّ ۚ فَمَن ثَقُلَتْ مَوَٰزِينُهُۥ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/962.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/962.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/962.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/962.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/962.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/962.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/962.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/962.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/962.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/962.mp3"
+  },
+  "words": [
+    {
+      "id": 9610,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_008_001.mp3",
+      "text": "وَٱلْوَزْنُ",
+      "translation": "dan timbangan",
+      "transliteration": "wal-waznu"
+    },
+    {
+      "id": 9611,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_008_002.mp3",
+      "text": "يَوْمَئِذٍ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 9612,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_008_003.mp3",
+      "text": "ٱلْحَقُّ ۚ",
+      "translation": "kebenaran",
+      "transliteration": "l-ḥaqu"
+    },
+    {
+      "id": 9614,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_008_005.mp3",
+      "text": "فَمَن",
+      "translation": "maka siapa",
+      "transliteration": "faman"
+    },
+    {
+      "id": 9615,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_008_006.mp3",
+      "text": "ثَقُلَتْ",
+      "translation": "berat",
+      "transliteration": "thaqulat"
+    },
+    {
+      "id": 9616,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_008_007.mp3",
+      "text": "مَوَٰزِينُهُۥ",
+      "translation": "timbangannya",
+      "transliteration": "mawāzīnuhu"
+    },
+    {
+      "id": 9617,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_008_008.mp3",
+      "text": "فَأُو۟لَـٰٓئِكَ",
+      "translation": "maka mereka itu",
+      "transliteration": "fa-ulāika"
+    },
+    {
+      "id": 9618,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_008_009.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 9619,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_008_010.mp3",
+      "text": "ٱلْمُفْلِحُونَ",
+      "translation": "orang-orang yang beruntung",
+      "transliteration": "l-muf'liḥūna"
+    },
+    {
+      "id": 9620,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Timbangan pada hari itu ialah kebenaran (keadilan), maka barang siapa berat timbangan kebaikannya, maka mereka itulah orang-orang yang beruntung.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

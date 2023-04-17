@@ -1,0 +1,62 @@
+{
+  "id": 3111,
+  "chapter_id": 26,
+  "verse_key": "26:179",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 325,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِيعُونِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3111.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3111.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3111.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3111.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3111.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3111.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3111.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3111.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3111.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3111.mp3"
+  },
+  "words": [
+    {
+      "id": 83733,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_179_001.mp3",
+      "text": "فَٱتَّقُوا۟",
+      "translation": "maka bertakwalah kamu",
+      "transliteration": "fa-ittaqū"
+    },
+    {
+      "id": 83734,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_179_002.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 83735,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_179_003.mp3",
+      "text": "وَأَطِيعُونِ",
+      "translation": "dan taatlah kepadaku",
+      "transliteration": "wa-aṭīʿūni"
+    },
+    {
+      "id": 83736,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٧٩",
+      "translation": "(179)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "maka bertakwalah kepada Allah dan taatlah kepadaku;",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

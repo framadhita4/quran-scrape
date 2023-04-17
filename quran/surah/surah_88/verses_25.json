@@ -1,0 +1,62 @@
+{
+  "id": 5992,
+  "chapter_id": 88,
+  "verse_key": "88:25",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5992.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5992.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5992.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5992.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5992.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5992.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5992.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5992.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5992.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5992.mp3"
+  },
+  "words": [
+    {
+      "id": 27843,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_025_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 27844,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_025_002.mp3",
+      "text": "إِلَيْنَآ",
+      "translation": "kepada Kami",
+      "transliteration": "ilaynā"
+    },
+    {
+      "id": 27845,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_025_003.mp3",
+      "text": "إِيَابَهُمْ",
+      "translation": "kembali mereka",
+      "transliteration": "iyābahum"
+    },
+    {
+      "id": 27846,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya kepada Kami-lah kembali mereka,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

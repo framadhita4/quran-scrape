@@ -1,0 +1,62 @@
+{
+  "id": 3830,
+  "chapter_id": 37,
+  "verse_key": "37:42",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "page_number": 447,
+  "juz_number": 23,
+  "text_uthmani": "فَوَٰكِهُ ۖ وَهُم مُّكْرَمُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3830.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3830.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3830.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3830.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3830.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3830.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3830.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3830.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3830.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3830.mp3"
+  },
+  "words": [
+    {
+      "id": 43276,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_042_001.mp3",
+      "text": "فَوَٰكِهُ ۖ",
+      "translation": "buah-buahan",
+      "transliteration": "fawākihu"
+    },
+    {
+      "id": 43278,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_042_003.mp3",
+      "text": "وَهُم",
+      "translation": "dan mereka",
+      "transliteration": "wahum"
+    },
+    {
+      "id": 43279,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_042_004.mp3",
+      "text": "مُّكْرَمُونَ",
+      "translation": "orang-orang yang dimuliakan",
+      "transliteration": "muk'ramūna"
+    },
+    {
+      "id": 43280,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "yaitu buah-buahan. Dan mereka adalah orang-orang yang dimuliakan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

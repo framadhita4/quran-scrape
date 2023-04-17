@@ -1,0 +1,62 @@
+{
+  "id": 5529,
+  "chapter_id": 74,
+  "verse_key": "74:34",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "page_number": 576,
+  "juz_number": 29,
+  "text_uthmani": "وَٱلصُّبْحِ إِذَآ أَسْفَرَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5529.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5529.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5529.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5529.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5529.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5529.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5529.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5529.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5529.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5529.mp3"
+  },
+  "words": [
+    {
+      "id": 36354,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_034_001.mp3",
+      "text": "وَٱلصُّبْحِ",
+      "translation": "dan subuh",
+      "transliteration": "wal-ṣub'ḥi"
+    },
+    {
+      "id": 36355,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_034_002.mp3",
+      "text": "إِذَآ",
+      "translation": "tatkala",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 36356,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_034_003.mp3",
+      "text": "أَسْفَرَ",
+      "translation": "terbit/terang",
+      "transliteration": "asfara"
+    },
+    {
+      "id": 36357,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan subuh apabila mulai terang.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

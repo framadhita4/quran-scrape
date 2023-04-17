@@ -1,0 +1,62 @@
+{
+  "id": 5734,
+  "chapter_id": 79,
+  "verse_key": "79:22",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "page_number": 584,
+  "juz_number": 30,
+  "text_uthmani": "ثُمَّ أَدْبَرَ يَسْعَىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5734.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5734.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5734.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5734.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5734.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5734.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5734.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5734.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5734.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5734.mp3"
+  },
+  "words": [
+    {
+      "id": 24994,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_022_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 24995,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_022_002.mp3",
+      "text": "أَدْبَرَ",
+      "translation": "dia berpaling",
+      "transliteration": "adbara"
+    },
+    {
+      "id": 24996,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/079_022_003.mp3",
+      "text": "يَسْعَىٰ",
+      "translation": "dia berusaha/berjalan",
+      "transliteration": "yasʿā"
+    },
+    {
+      "id": 24997,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٢٢",
+      "translation": "(22)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian dia berpaling seraya berusaha menantang (Musa).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

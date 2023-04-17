@@ -1,0 +1,78 @@
+{
+  "id": 3867,
+  "chapter_id": 37,
+  "verse_key": "37:79",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "page_number": 449,
+  "juz_number": 23,
+  "text_uthmani": "سَلَـٰمٌ عَلَىٰ نُوحٍ فِى ٱلْعَـٰلَمِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3867.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3867.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3867.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3867.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3867.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3867.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3867.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3867.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3867.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3867.mp3"
+  },
+  "words": [
+    {
+      "id": 63744,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_079_001.mp3",
+      "text": "سَلَـٰمٌ",
+      "translation": "kesejahteraan",
+      "transliteration": "salāmun"
+    },
+    {
+      "id": 63745,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_079_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 63746,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_079_003.mp3",
+      "text": "نُوحٍۢ",
+      "translation": "Nuh",
+      "transliteration": "nūḥin"
+    },
+    {
+      "id": 63747,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_079_004.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 63748,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_079_005.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "seluruh alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 63749,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٧٩",
+      "translation": "(79)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "\"Kesejahteraan dilimpahkan atas Nūḥ di seluruh alam\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 5975,
+  "chapter_id": 88,
+  "verse_key": "88:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5975.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5975.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5975.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5975.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5975.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5975.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5975.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5975.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5975.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5975.mp3"
+  },
+  "words": [
+    {
+      "id": 8595,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_008_001.mp3",
+      "text": "وُجُوهٌۭ",
+      "translation": "wajah-wajah",
+      "transliteration": "wujūhun"
+    },
+    {
+      "id": 8596,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_008_002.mp3",
+      "text": "يَوْمَئِذٍۢ",
+      "translation": "pada hari itu",
+      "transliteration": "yawma-idhin"
+    },
+    {
+      "id": 8597,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_008_003.mp3",
+      "text": "نَّاعِمَةٌۭ",
+      "translation": "penuh kenikmatan/berseri-seri",
+      "transliteration": "nāʿimatun"
+    },
+    {
+      "id": 8598,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Banyak muka pada hari itu berseri-seri,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

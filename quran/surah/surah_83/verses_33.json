@@ -1,0 +1,70 @@
+{
+  "id": 5881,
+  "chapter_id": 83,
+  "verse_key": "83:33",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "وَمَآ أُرْسِلُوا۟ عَلَيْهِمْ حَـٰفِظِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5881.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5881.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5881.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5881.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5881.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5881.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5881.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5881.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5881.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5881.mp3"
+  },
+  "words": [
+    {
+      "id": 35603,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_033_001.mp3",
+      "text": "وَمَآ",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 35604,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_033_002.mp3",
+      "text": "أُرْسِلُوا۟",
+      "translation": "dikirim",
+      "transliteration": "ur'silū"
+    },
+    {
+      "id": 35605,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_033_003.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 35606,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_033_004.mp3",
+      "text": "حَـٰفِظِينَ",
+      "translation": "penjaga-penjaga",
+      "transliteration": "ḥāfiẓīna"
+    },
+    {
+      "id": 35607,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٣٣",
+      "translation": "(33)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "padahal orang-orang yang berdosa itu tidak dikirim untuk penjaga bagi orang-orang mukmin.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

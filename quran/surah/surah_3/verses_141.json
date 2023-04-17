@@ -1,0 +1,86 @@
+{
+  "id": 434,
+  "chapter_id": 3,
+  "verse_key": "3:141",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "ruku_number": 55,
+  "manzil_number": 1,
+  "page_number": 68,
+  "juz_number": 4,
+  "text_uthmani": "وَلِيُمَحِّصَ ٱللَّهُ ٱلَّذِينَ ءَامَنُوا۟ وَيَمْحَقَ ٱلْكَـٰفِرِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/434.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/434.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/434.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/434.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/434.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/434.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/434.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/434.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/434.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/434.mp3"
+  },
+  "words": [
+    {
+      "id": 79312,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_141_001.mp3",
+      "text": "وَلِيُمَحِّصَ",
+      "translation": "dan karena hendak membersihkan",
+      "transliteration": "waliyumaḥḥiṣa"
+    },
+    {
+      "id": 79313,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_141_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 79314,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_141_003.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 79315,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_141_004.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 79316,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_141_005.mp3",
+      "text": "وَيَمْحَقَ",
+      "translation": "dan Dia membinasakan",
+      "transliteration": "wayamḥaqa"
+    },
+    {
+      "id": 79317,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_141_006.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 79318,
+      "line_number": 1,
+      "audio_url": null,
+      "text": "١٤١",
+      "translation": "(141)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan agar Allah membersihkan orang-orang yang beriman (dari dosa mereka) dan membinasakan orang-orang yang kafir.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

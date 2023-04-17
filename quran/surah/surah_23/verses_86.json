@@ -1,0 +1,102 @@
+{
+  "id": 2759,
+  "chapter_id": 23,
+  "verse_key": "23:86",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 299,
+  "manzil_number": 4,
+  "page_number": 347,
+  "juz_number": 18,
+  "text_uthmani": "قُلْ مَن رَّبُّ ٱلسَّمَـٰوَٰتِ ٱلسَّبْعِ وَرَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2759.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2759.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2759.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2759.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2759.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2759.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2759.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2759.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2759.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2759.mp3"
+  },
+  "words": [
+    {
+      "id": 66403,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_086_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 66404,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_086_002.mp3",
+      "text": "مَن",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 66405,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_086_003.mp3",
+      "text": "رَّبُّ",
+      "translation": "pemelihara",
+      "transliteration": "rabbu"
+    },
+    {
+      "id": 66406,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_086_004.mp3",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation": "langit(jamak)",
+      "transliteration": "l-samāwāti"
+    },
+    {
+      "id": 66407,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_086_005.mp3",
+      "text": "ٱلسَّبْعِ",
+      "translation": "tujuh",
+      "transliteration": "l-sabʿi"
+    },
+    {
+      "id": 66408,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_086_006.mp3",
+      "text": "وَرَبُّ",
+      "translation": "dan pemelihara",
+      "transliteration": "warabbu"
+    },
+    {
+      "id": 66409,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_086_007.mp3",
+      "text": "ٱلْعَرْشِ",
+      "translation": "'Aras'",
+      "transliteration": "l-ʿarshi"
+    },
+    {
+      "id": 66410,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_086_008.mp3",
+      "text": "ٱلْعَظِيمِ",
+      "translation": "yang besar",
+      "transliteration": "l-ʿaẓīmi"
+    },
+    {
+      "id": 66411,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٨٦",
+      "translation": "(86)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Siapakah Yang Empunya langit yang tujuh dan Yang Empunya Arasy yang besar?\"",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": 5507,
+  "chapter_id": 74,
+  "verse_key": "74:12",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "وَجَعَلْتُ لَهُۥ مَالًا مَّمْدُودًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5507.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5507.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5507.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5507.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5507.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5507.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5507.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5507.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5507.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5507.mp3"
+  },
+  "words": [
+    {
+      "id": 14136,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_012_001.mp3",
+      "text": "وَجَعَلْتُ",
+      "translation": "dan Aku jadikan",
+      "transliteration": "wajaʿaltu"
+    },
+    {
+      "id": 14137,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_012_002.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 14138,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_012_003.mp3",
+      "text": "مَالًۭا",
+      "translation": "harta",
+      "transliteration": "mālan"
+    },
+    {
+      "id": 14139,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/074_012_004.mp3",
+      "text": "مَّمْدُودًۭا",
+      "translation": "panjang/banyak",
+      "transliteration": "mamdūdan"
+    },
+    {
+      "id": 14140,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Aku jadikan baginya harta benda yang banyak,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

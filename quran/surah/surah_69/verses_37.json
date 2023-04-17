@@ -1,0 +1,70 @@
+{
+  "id": 5360,
+  "chapter_id": 69,
+  "verse_key": "69:37",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "لَّا يَأْكُلُهُۥٓ إِلَّا ٱلْخَـٰطِـُٔونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5360.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5360.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5360.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5360.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5360.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5360.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5360.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5360.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5360.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5360.mp3"
+  },
+  "words": [
+    {
+      "id": 38955,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_037_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 38956,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_037_002.mp3",
+      "text": "يَأْكُلُهُۥٓ",
+      "translation": "yang memakannya",
+      "transliteration": "yakuluhu"
+    },
+    {
+      "id": 38957,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_037_003.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 38958,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_037_004.mp3",
+      "text": "ٱلْخَـٰطِـُٔونَ",
+      "translation": "orang-orang yang bersalah/berdosa",
+      "transliteration": "l-khāṭiūna"
+    },
+    {
+      "id": 38959,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidak ada yang memakannya kecuali orang-orang yang berdosa.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

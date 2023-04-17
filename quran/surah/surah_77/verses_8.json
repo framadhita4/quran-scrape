@@ -1,0 +1,62 @@
+{
+  "id": 5630,
+  "chapter_id": 77,
+  "verse_key": "77:8",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 580,
+  "juz_number": 29,
+  "text_uthmani": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5630.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5630.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5630.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5630.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5630.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5630.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5630.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5630.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5630.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5630.mp3"
+  },
+  "words": [
+    {
+      "id": 9169,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_008_001.mp3",
+      "text": "فَإِذَا",
+      "translation": "maka apabila",
+      "transliteration": "fa-idhā"
+    },
+    {
+      "id": 9170,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_008_002.mp3",
+      "text": "ٱلنُّجُومُ",
+      "translation": "bintang-bintang",
+      "transliteration": "l-nujūmu"
+    },
+    {
+      "id": 9171,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_008_003.mp3",
+      "text": "طُمِسَتْ",
+      "translation": "dihapuskan",
+      "transliteration": "ṭumisat"
+    },
+    {
+      "id": 9172,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apabila bintang-bintang telah dihapuskan,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

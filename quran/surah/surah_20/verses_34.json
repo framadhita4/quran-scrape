@@ -1,0 +1,54 @@
+{
+  "id": 2382,
+  "chapter_id": 20,
+  "verse_key": "20:34",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "وَنَذْكُرَكَ كَثِيرًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2382.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2382.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2382.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2382.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2382.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2382.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2382.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2382.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2382.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2382.mp3"
+  },
+  "words": [
+    {
+      "id": 36346,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_034_001.mp3",
+      "text": "وَنَذْكُرَكَ",
+      "translation": "dan kami banyak mengingat Engkau",
+      "transliteration": "wanadhkuraka"
+    },
+    {
+      "id": 36347,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_034_002.mp3",
+      "text": "كَثِيرًا",
+      "translation": "banyak",
+      "transliteration": "kathīran"
+    },
+    {
+      "id": 36348,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan banyak mengingat Engkau.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

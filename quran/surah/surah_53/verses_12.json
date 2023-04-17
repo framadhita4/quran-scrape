@@ -1,0 +1,70 @@
+{
+  "id": 4796,
+  "chapter_id": 53,
+  "verse_key": "53:12",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "أَفَتُمَـٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4796.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4796.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4796.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4796.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4796.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4796.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4796.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4796.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4796.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4796.mp3"
+  },
+  "words": [
+    {
+      "id": 13797,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_012_001.mp3",
+      "text": "أَفَتُمَـٰرُونَهُۥ",
+      "translation": "apakah maka kamu membantahnya",
+      "transliteration": "afatumārūnahu"
+    },
+    {
+      "id": 13798,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_012_002.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 13799,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_012_003.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 13800,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_012_004.mp3",
+      "text": "يَرَىٰ",
+      "translation": "dia lihat",
+      "transliteration": "yarā"
+    },
+    {
+      "id": 13801,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka apakah kamu (musyrikin Mekah) hendak membantahnya tentang apa yang telah dilihatnya?",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 2988,
+  "chapter_id": 26,
+  "verse_key": "26:56",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 319,
+  "manzil_number": 5,
+  "page_number": 369,
+  "juz_number": 19,
+  "text_uthmani": "وَإِنَّا لَجَمِيعٌ حَـٰذِرُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2988.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2988.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2988.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2988.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2988.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2988.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2988.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2988.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2988.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2988.mp3"
+  },
+  "words": [
+    {
+      "id": 52335,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_056_001.mp3",
+      "text": "وَإِنَّا",
+      "translation": "dan sesungguhnya kita",
+      "transliteration": "wa-innā"
+    },
+    {
+      "id": 52336,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_056_002.mp3",
+      "text": "لَجَمِيعٌ",
+      "translation": "benar-benar semua",
+      "transliteration": "lajamīʿun"
+    },
+    {
+      "id": 52337,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_056_003.mp3",
+      "text": "حَـٰذِرُونَ",
+      "translation": "berjaga-jaga",
+      "transliteration": "ḥādhirūna"
+    },
+    {
+      "id": 52338,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٥٦",
+      "translation": "(56)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan sesungguhnya kita benar-benar golongan yang selalu berjaga-jaga\".",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

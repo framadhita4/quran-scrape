@@ -1,0 +1,78 @@
+{
+  "id": 4439,
+  "chapter_id": 44,
+  "verse_key": "44:25",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "page_number": 497,
+  "juz_number": 25,
+  "text_uthmani": "كَمْ تَرَكُوا۟ مِن جَنَّـٰتٍ وَعُيُونٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4439.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4439.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4439.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4439.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4439.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4439.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4439.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4439.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4439.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4439.mp3"
+  },
+  "words": [
+    {
+      "id": 27726,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_025_001.mp3",
+      "text": "كَمْ",
+      "translation": "berapa banyak",
+      "transliteration": "kam"
+    },
+    {
+      "id": 27727,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_025_002.mp3",
+      "text": "تَرَكُوا۟",
+      "translation": "mereka tinggalkan",
+      "transliteration": "tarakū"
+    },
+    {
+      "id": 27728,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_025_003.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 27729,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_025_004.mp3",
+      "text": "جَنَّـٰتٍۢ",
+      "translation": "taman-taman",
+      "transliteration": "jannātin"
+    },
+    {
+      "id": 27730,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/044_025_005.mp3",
+      "text": "وَعُيُونٍۢ",
+      "translation": "dan mata air",
+      "transliteration": "waʿuyūnin"
+    },
+    {
+      "id": 27731,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢٥",
+      "translation": "(25)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Alangkah banyaknya taman dan mata air yang mereka tinggalkan,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 4638,
+  "chapter_id": 50,
+  "verse_key": "50:8",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "ruku_number": 454,
+  "manzil_number": 7,
+  "page_number": 518,
+  "juz_number": 26,
+  "text_uthmani": "تَبْصِرَةً وَذِكْرَىٰ لِكُلِّ عَبْدٍ مُّنِيبٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4638.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4638.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4638.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4638.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4638.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4638.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4638.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4638.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4638.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4638.mp3"
+  },
+  "words": [
+    {
+      "id": 8693,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_008_001.mp3",
+      "text": "تَبْصِرَةًۭ",
+      "translation": "pemandangan",
+      "transliteration": "tabṣiratan"
+    },
+    {
+      "id": 8694,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_008_002.mp3",
+      "text": "وَذِكْرَىٰ",
+      "translation": "dan pengajaran",
+      "transliteration": "wadhik'rā"
+    },
+    {
+      "id": 8695,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_008_003.mp3",
+      "text": "لِكُلِّ",
+      "translation": "bagi setiap",
+      "transliteration": "likulli"
+    },
+    {
+      "id": 8696,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_008_004.mp3",
+      "text": "عَبْدٍۢ",
+      "translation": "hamba",
+      "transliteration": "ʿabdin"
+    },
+    {
+      "id": 8697,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/050_008_005.mp3",
+      "text": "مُّنِيبٍۢ",
+      "translation": "orang yang kembali",
+      "transliteration": "munībin"
+    },
+    {
+      "id": 8698,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "untuk menjadi pelajaran dan peringatan bagi tiap-tiap hamba yang kembali (mengingat Allah).",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

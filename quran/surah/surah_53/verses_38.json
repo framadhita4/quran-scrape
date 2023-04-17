@@ -1,0 +1,78 @@
+{
+  "id": 4822,
+  "chapter_id": 53,
+  "verse_key": "53:38",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 464,
+  "manzil_number": 7,
+  "page_number": 527,
+  "juz_number": 27,
+  "text_uthmani": "أَلَّا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4822.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4822.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4822.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4822.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4822.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4822.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4822.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4822.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4822.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4822.mp3"
+  },
+  "words": [
+    {
+      "id": 39692,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_038_001.mp3",
+      "text": "أَلَّا",
+      "translation": "bahwa tidak",
+      "transliteration": "allā"
+    },
+    {
+      "id": 39693,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_038_002.mp3",
+      "text": "تَزِرُ",
+      "translation": "kamu memikul dosa",
+      "transliteration": "taziru"
+    },
+    {
+      "id": 39694,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_038_003.mp3",
+      "text": "وَازِرَةٌۭ",
+      "translation": "orang yang berdosa",
+      "transliteration": "wāziratun"
+    },
+    {
+      "id": 39695,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_038_004.mp3",
+      "text": "وِزْرَ",
+      "translation": "beban/dosa",
+      "transliteration": "wiz'ra"
+    },
+    {
+      "id": 39696,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_038_005.mp3",
+      "text": "أُخْرَىٰ",
+      "translation": "orang lain",
+      "transliteration": "ukh'rā"
+    },
+    {
+      "id": 39697,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٨",
+      "translation": "(38)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) bahwasanya seorang yang berdosa tidak akan memikul dosa orang lain,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

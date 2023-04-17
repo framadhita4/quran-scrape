@@ -1,0 +1,110 @@
+{
+  "id": 1571,
+  "chapter_id": 11,
+  "verse_key": "11:98",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "ruku_number": 191,
+  "manzil_number": 3,
+  "page_number": 233,
+  "juz_number": 12,
+  "text_uthmani": "يَقْدُمُ قَوْمَهُۥ يَوْمَ ٱلْقِيَـٰمَةِ فَأَوْرَدَهُمُ ٱلنَّارَ ۖ وَبِئْسَ ٱلْوِرْدُ ٱلْمَوْرُودُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1571.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1571.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1571.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1571.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1571.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1571.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1571.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1571.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1571.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1571.mp3"
+  },
+  "words": [
+    {
+      "id": 70598,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_001.mp3",
+      "text": "يَقْدُمُ",
+      "translation": "ia mendahului",
+      "transliteration": "yaqdumu"
+    },
+    {
+      "id": 70599,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_002.mp3",
+      "text": "قَوْمَهُۥ",
+      "translation": "kaumnya",
+      "transliteration": "qawmahu"
+    },
+    {
+      "id": 70600,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_003.mp3",
+      "text": "يَوْمَ",
+      "translation": "hari",
+      "transliteration": "yawma"
+    },
+    {
+      "id": 70601,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_004.mp3",
+      "text": "ٱلْقِيَـٰمَةِ",
+      "translation": "kiamat",
+      "transliteration": "l-qiyāmati"
+    },
+    {
+      "id": 70602,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_005.mp3",
+      "text": "فَأَوْرَدَهُمُ",
+      "translation": "maka/lalu ia mendatangkan/memasukkan mereka",
+      "transliteration": "fa-awradahumu"
+    },
+    {
+      "id": 70603,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_006.mp3",
+      "text": "ٱلنَّارَ ۖ",
+      "translation": "neraka",
+      "transliteration": "l-nāra"
+    },
+    {
+      "id": 70605,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_008.mp3",
+      "text": "وَبِئْسَ",
+      "translation": "dan seburuk-buruk",
+      "transliteration": "wabi'sa"
+    },
+    {
+      "id": 70606,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_009.mp3",
+      "text": "ٱلْوِرْدُ",
+      "translation": "kedatangan",
+      "transliteration": "l-wir'du"
+    },
+    {
+      "id": 70607,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_098_010.mp3",
+      "text": "ٱلْمَوْرُودُ",
+      "translation": "tempat yang didatangi",
+      "transliteration": "l-mawrūdu"
+    },
+    {
+      "id": 70608,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٩٨",
+      "translation": "(98)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Ia berjalan di muka kaumnya di hari kiamat lalu memasukkan mereka ke dalam neraka.   Neraka itu seburuk-buruk tempat yang didatangi.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

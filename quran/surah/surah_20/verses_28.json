@@ -1,0 +1,54 @@
+{
+  "id": 2376,
+  "chapter_id": 20,
+  "verse_key": "20:28",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "page_number": 313,
+  "juz_number": 16,
+  "text_uthmani": "يَفْقَهُوا۟ قَوْلِى",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2376.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2376.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2376.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2376.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2376.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2376.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2376.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2376.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2376.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2376.mp3"
+  },
+  "words": [
+    {
+      "id": 30680,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_028_001.mp3",
+      "text": "يَفْقَهُوا۟",
+      "translation": "mereka mengerti",
+      "transliteration": "yafqahū"
+    },
+    {
+      "id": 30681,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_028_002.mp3",
+      "text": "قَوْلِى",
+      "translation": "perkataanku",
+      "transliteration": "qawlī"
+    },
+    {
+      "id": 30682,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٢٨",
+      "translation": "(28)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "supaya mereka mengerti perkataanku,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

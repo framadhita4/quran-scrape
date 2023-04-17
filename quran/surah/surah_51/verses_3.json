@@ -1,0 +1,54 @@
+{
+  "id": 4678,
+  "chapter_id": 51,
+  "verse_key": "51:3",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 457,
+  "manzil_number": 7,
+  "page_number": 520,
+  "juz_number": 26,
+  "text_uthmani": "فَٱلْجَـٰرِيَـٰتِ يُسْرًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4678.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4678.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4678.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4678.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4678.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4678.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4678.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4678.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4678.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4678.mp3"
+  },
+  "words": [
+    {
+      "id": 2189,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_003_001.mp3",
+      "text": "فَٱلْجَـٰرِيَـٰتِ",
+      "translation": "maka yang berlayar",
+      "transliteration": "fal-jāriyāti"
+    },
+    {
+      "id": 2190,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/051_003_002.mp3",
+      "text": "يُسْرًۭا",
+      "translation": "dengan mudah",
+      "transliteration": "yus'ran"
+    },
+    {
+      "id": 2191,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan kapal-kapal yang berlayar dengan mudah,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

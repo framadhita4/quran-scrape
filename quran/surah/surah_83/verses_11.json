@@ -1,0 +1,70 @@
+{
+  "id": 5859,
+  "chapter_id": 83,
+  "verse_key": "83:11",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "page_number": 588,
+  "juz_number": 30,
+  "text_uthmani": "ٱلَّذِينَ يُكَذِّبُونَ بِيَوْمِ ٱلدِّينِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5859.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5859.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5859.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5859.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5859.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5859.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5859.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5859.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5859.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5859.mp3"
+  },
+  "words": [
+    {
+      "id": 13009,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_011_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 13010,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_011_002.mp3",
+      "text": "يُكَذِّبُونَ",
+      "translation": "(mereka) mendustakan",
+      "transliteration": "yukadhibūna"
+    },
+    {
+      "id": 13011,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_011_003.mp3",
+      "text": "بِيَوْمِ",
+      "translation": "dengan hari",
+      "transliteration": "biyawmi"
+    },
+    {
+      "id": 13012,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/083_011_004.mp3",
+      "text": "ٱلدِّينِ",
+      "translation": "pembalasan",
+      "transliteration": "l-dīni"
+    },
+    {
+      "id": 13013,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang mendustakan hari pembalasan.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

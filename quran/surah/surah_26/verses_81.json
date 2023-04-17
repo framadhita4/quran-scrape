@@ -1,0 +1,70 @@
+{
+  "id": 3013,
+  "chapter_id": 26,
+  "verse_key": "26:81",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "وَٱلَّذِى يُمِيتُنِى ثُمَّ يُحْيِينِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3013.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3013.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3013.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3013.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3013.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3013.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3013.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3013.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3013.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3013.mp3"
+  },
+  "words": [
+    {
+      "id": 64536,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_081_001.mp3",
+      "text": "وَٱلَّذِى",
+      "translation": "dan yang",
+      "transliteration": "wa-alladhī"
+    },
+    {
+      "id": 64537,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_081_002.mp3",
+      "text": "يُمِيتُنِى",
+      "translation": "Dia mematikan aku",
+      "transliteration": "yumītunī"
+    },
+    {
+      "id": 64538,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_081_003.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 64539,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_081_004.mp3",
+      "text": "يُحْيِينِ",
+      "translation": "Dia menghidupkan aku",
+      "transliteration": "yuḥ'yīni"
+    },
+    {
+      "id": 64540,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٨١",
+      "translation": "(81)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Yang akan mematikan aku, kemudian akan menghidupkan aku (kembali),",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

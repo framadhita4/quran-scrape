@@ -1,0 +1,126 @@
+{
+  "id": 5490,
+  "chapter_id": 73,
+  "verse_key": "73:15",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "page_number": 574,
+  "juz_number": 29,
+  "text_uthmani": "إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَـٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ رَسُولًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5490.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5490.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5490.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5490.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5490.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5490.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5490.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5490.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5490.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5490.mp3"
+  },
+  "words": [
+    {
+      "id": 17873,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_015_001.mp3",
+      "text": "إِنَّآ",
+      "translation": "sesungguhnya",
+      "transliteration": "innā"
+    },
+    {
+      "id": 17874,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_015_002.mp3",
+      "text": "أَرْسَلْنَآ",
+      "translation": "Kami telah mengutus",
+      "transliteration": "arsalnā"
+    },
+    {
+      "id": 17875,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_015_003.mp3",
+      "text": "إِلَيْكُمْ",
+      "translation": "kepadamu",
+      "transliteration": "ilaykum"
+    },
+    {
+      "id": 17876,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_015_004.mp3",
+      "text": "رَسُولًۭا",
+      "translation": "seorang rasul",
+      "transliteration": "rasūlan"
+    },
+    {
+      "id": 17877,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_015_005.mp3",
+      "text": "شَـٰهِدًا",
+      "translation": "menjadi saksi",
+      "transliteration": "shāhidan"
+    },
+    {
+      "id": 17878,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_015_006.mp3",
+      "text": "عَلَيْكُمْ",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 17879,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_015_007.mp3",
+      "text": "كَمَآ",
+      "translation": "sebagaimana",
+      "transliteration": "kamā"
+    },
+    {
+      "id": 17880,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_015_008.mp3",
+      "text": "أَرْسَلْنَآ",
+      "translation": "Kami telah mengutus",
+      "transliteration": "arsalnā"
+    },
+    {
+      "id": 17881,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_015_009.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 17882,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_015_010.mp3",
+      "text": "فِرْعَوْنَ",
+      "translation": "Fir'aun",
+      "transliteration": "fir'ʿawna"
+    },
+    {
+      "id": 17883,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_015_011.mp3",
+      "text": "رَسُولًۭا",
+      "translation": "seorang rasul",
+      "transliteration": "rasūlan"
+    },
+    {
+      "id": 17884,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Kami telah mengutus kepada kamu (hai orang kafir Mekah) seorang rasul, yang menjadi saksi terhadapmu, sebagaimana Kami telah mengutus (dahulu) seorang rasul kepada Firʻawn  .",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

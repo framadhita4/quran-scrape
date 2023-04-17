@@ -1,0 +1,78 @@
+{
+  "id": 3004,
+  "chapter_id": 26,
+  "verse_key": "26:72",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 320,
+  "manzil_number": 5,
+  "page_number": 370,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ هَلْ يَسْمَعُونَكُمْ إِذْ تَدْعُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3004.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3004.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3004.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3004.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3004.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3004.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3004.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3004.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3004.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3004.mp3"
+  },
+  "words": [
+    {
+      "id": 60690,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_072_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Ibrahim) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 60691,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_072_002.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 60692,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_072_003.mp3",
+      "text": "يَسْمَعُونَكُمْ",
+      "translation": "mereka mendengarkan kamu",
+      "transliteration": "yasmaʿūnakum"
+    },
+    {
+      "id": 60693,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_072_004.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 60694,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_072_005.mp3",
+      "text": "تَدْعُونَ",
+      "translation": "kamu menyeru",
+      "transliteration": "tadʿūna"
+    },
+    {
+      "id": 60695,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٧٢",
+      "translation": "(72)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkata Ibrāhīm, \"Apakah berhala-berhala itu mendengar (doa)mu sewaktu kamu berdoa (kepadanya)?,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

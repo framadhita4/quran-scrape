@@ -1,0 +1,62 @@
+{
+  "id": 5032,
+  "chapter_id": 56,
+  "verse_key": "56:53",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "ruku_number": 472,
+  "manzil_number": 7,
+  "page_number": 536,
+  "juz_number": 27,
+  "text_uthmani": "فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5032.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5032.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5032.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5032.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5032.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5032.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5032.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5032.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5032.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5032.mp3"
+  },
+  "words": [
+    {
+      "id": 50554,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_053_001.mp3",
+      "text": "فَمَالِـُٔونَ",
+      "translation": "maka menjadi penuh",
+      "transliteration": "famāliūna"
+    },
+    {
+      "id": 50555,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_053_002.mp3",
+      "text": "مِنْهَا",
+      "translation": "dari padanya",
+      "transliteration": "min'hā"
+    },
+    {
+      "id": 50556,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/056_053_003.mp3",
+      "text": "ٱلْبُطُونَ",
+      "translation": "perut-perut",
+      "transliteration": "l-buṭūna"
+    },
+    {
+      "id": 50557,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥٣",
+      "translation": "(53)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan akan memenuhi perutmu dengannya.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

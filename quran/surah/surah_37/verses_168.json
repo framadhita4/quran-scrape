@@ -1,0 +1,86 @@
+{
+  "id": 3956,
+  "chapter_id": 37,
+  "verse_key": "37:168",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "لَوْ أَنَّ عِندَنَا ذِكْرًا مِّنَ ٱلْأَوَّلِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3956.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3956.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3956.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3956.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3956.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3956.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3956.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3956.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3956.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3956.mp3"
+  },
+  "words": [
+    {
+      "id": 82634,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_168_001.mp3",
+      "text": "لَوْ",
+      "translation": "kalau",
+      "transliteration": "law"
+    },
+    {
+      "id": 82635,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_168_002.mp3",
+      "text": "أَنَّ",
+      "translation": "sekiranya",
+      "transliteration": "anna"
+    },
+    {
+      "id": 82636,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_168_003.mp3",
+      "text": "عِندَنَا",
+      "translation": "di sisi kami",
+      "transliteration": "ʿindanā"
+    },
+    {
+      "id": 82637,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_168_004.mp3",
+      "text": "ذِكْرًۭا",
+      "translation": "pengajaran",
+      "transliteration": "dhik'ran"
+    },
+    {
+      "id": 82638,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_168_005.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 82639,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_168_006.mp3",
+      "text": "ٱلْأَوَّلِينَ",
+      "translation": "orang-orang terdahulu",
+      "transliteration": "l-awalīna"
+    },
+    {
+      "id": 82640,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "١٦٨",
+      "translation": "(168)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "\"Kalau sekiranya di sisi kami ada sebuah kitab dari (kitab-kitab yang diturunkan) kepada orang-orang dahulu,",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

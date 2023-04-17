@@ -1,0 +1,86 @@
+{
+  "id": 5652,
+  "chapter_id": 77,
+  "verse_key": "77:30",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "page_number": 581,
+  "juz_number": 29,
+  "text_uthmani": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَـٰثِ شُعَبٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5652.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5652.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5652.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5652.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5652.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5652.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5652.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5652.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5652.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5652.mp3"
+  },
+  "words": [
+    {
+      "id": 32815,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_030_001.mp3",
+      "text": "ٱنطَلِقُوٓا۟",
+      "translation": "pergilah kamu",
+      "transliteration": "inṭaliqū"
+    },
+    {
+      "id": 32816,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_030_002.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 32817,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_030_003.mp3",
+      "text": "ظِلٍّۢ",
+      "translation": "naungan",
+      "transliteration": "ẓillin"
+    },
+    {
+      "id": 32818,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_030_004.mp3",
+      "text": "ذِى",
+      "translation": "mempunyai",
+      "transliteration": "dhī"
+    },
+    {
+      "id": 32819,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_030_005.mp3",
+      "text": "ثَلَـٰثِ",
+      "translation": "tiga",
+      "transliteration": "thalāthi"
+    },
+    {
+      "id": 32820,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/077_030_006.mp3",
+      "text": "شُعَبٍۢ",
+      "translation": "cabang",
+      "transliteration": "shuʿabin"
+    },
+    {
+      "id": 32821,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "٣٠",
+      "translation": "(30)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Pergilah kamu mendapatkan naungan yang mempunyai tiga cabang,<sup foot_note=211312>1</sup>",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

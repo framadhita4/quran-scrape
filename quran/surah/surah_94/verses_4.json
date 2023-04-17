@@ -1,0 +1,62 @@
+{
+  "id": 6094,
+  "chapter_id": 94,
+  "verse_key": "94:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 538,
+  "manzil_number": 7,
+  "page_number": 596,
+  "juz_number": 30,
+  "text_uthmani": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/6094.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/6094.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/6094.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/6094.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/6094.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/6094.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/6094.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/6094.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/6094.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/6094.mp3"
+  },
+  "words": [
+    {
+      "id": 3914,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_004_001.mp3",
+      "text": "وَرَفَعْنَا",
+      "translation": "dan Kami tinggikan",
+      "transliteration": "warafaʿnā"
+    },
+    {
+      "id": 3915,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_004_002.mp3",
+      "text": "لَكَ",
+      "translation": "bagimu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 3916,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/094_004_003.mp3",
+      "text": "ذِكْرَكَ",
+      "translation": "sebutanmu",
+      "transliteration": "dhik'raka"
+    },
+    {
+      "id": 3917,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Kami tinggikan bagimu sebutan (nama)mu<sup foot_note=211355>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

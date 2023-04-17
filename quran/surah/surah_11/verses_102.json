@@ -1,0 +1,134 @@
+{
+  "id": 1575,
+  "chapter_id": 11,
+  "verse_key": "11:102",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "ruku_number": 191,
+  "manzil_number": 3,
+  "page_number": 233,
+  "juz_number": 12,
+  "text_uthmani": "وَكَذَٰلِكَ أَخْذُ رَبِّكَ إِذَآ أَخَذَ ٱلْقُرَىٰ وَهِىَ ظَـٰلِمَةٌ ۚ إِنَّ أَخْذَهُۥٓ أَلِيمٌ شَدِيدٌ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1575.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1575.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1575.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1575.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1575.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1575.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1575.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1575.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1575.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1575.mp3"
+  },
+  "words": [
+    {
+      "id": 71861,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_102_001.mp3",
+      "text": "وَكَذَٰلِكَ",
+      "translation": "dan demikianlah",
+      "transliteration": "wakadhālika"
+    },
+    {
+      "id": 71862,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_102_002.mp3",
+      "text": "أَخْذُ",
+      "translation": "mengambil/azab",
+      "transliteration": "akhdhu"
+    },
+    {
+      "id": 71863,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_102_003.mp3",
+      "text": "رَبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 71864,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_102_004.mp3",
+      "text": "إِذَآ",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 71865,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_102_005.mp3",
+      "text": "أَخَذَ",
+      "translation": "Dia mengambil/mengazab",
+      "transliteration": "akhadha"
+    },
+    {
+      "id": 71866,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_102_006.mp3",
+      "text": "ٱلْقُرَىٰ",
+      "translation": "negeri",
+      "transliteration": "l-qurā"
+    },
+    {
+      "id": 71867,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_102_007.mp3",
+      "text": "وَهِىَ",
+      "translation": "dan ia (penduduknya)",
+      "transliteration": "wahiya"
+    },
+    {
+      "id": 71868,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_102_008.mp3",
+      "text": "ظَـٰلِمَةٌ ۚ",
+      "translation": "berbuat dzalim",
+      "transliteration": "ẓālimatun"
+    },
+    {
+      "id": 71870,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_102_010.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 71871,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_102_011.mp3",
+      "text": "أَخْذَهُۥٓ",
+      "translation": "azab-Nya",
+      "transliteration": "akhdhahu"
+    },
+    {
+      "id": 71872,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_102_012.mp3",
+      "text": "أَلِيمٌۭ",
+      "translation": "sangat pedih",
+      "transliteration": "alīmun"
+    },
+    {
+      "id": 71873,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_102_013.mp3",
+      "text": "شَدِيدٌ",
+      "translation": "keras",
+      "transliteration": "shadīdun"
+    },
+    {
+      "id": 71874,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٠٢",
+      "translation": "(102)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan begitulah azab Tuhan-mu, apabila Dia mengazab penduduk negeri-negeri yang berbuat zalim.  Sesungguhnya azab-Nya itu adalah sangat pedih lagi keras.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

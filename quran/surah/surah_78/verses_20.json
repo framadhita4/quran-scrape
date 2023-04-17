@@ -1,0 +1,70 @@
+{
+  "id": 5692,
+  "chapter_id": 78,
+  "verse_key": "78:20",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "page_number": 582,
+  "juz_number": 30,
+  "text_uthmani": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5692.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5692.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5692.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5692.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5692.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5692.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5692.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5692.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5692.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5692.mp3"
+  },
+  "words": [
+    {
+      "id": 22905,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_020_001.mp3",
+      "text": "وَسُيِّرَتِ",
+      "translation": "dan dijalankan/dihapuskan",
+      "transliteration": "wasuyyirati"
+    },
+    {
+      "id": 22906,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_020_002.mp3",
+      "text": "ٱلْجِبَالُ",
+      "translation": "gunung-gunung",
+      "transliteration": "l-jibālu"
+    },
+    {
+      "id": 22907,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_020_003.mp3",
+      "text": "فَكَانَتْ",
+      "translation": "maka jadilah ia",
+      "transliteration": "fakānat"
+    },
+    {
+      "id": 22908,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/078_020_004.mp3",
+      "text": "سَرَابًا",
+      "translation": "fatamorgana",
+      "transliteration": "sarāban"
+    },
+    {
+      "id": 22909,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan dijalankanlah gunung-gunung maka menjadi fatamorganalah ia.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

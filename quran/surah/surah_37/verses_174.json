@@ -1,0 +1,70 @@
+{
+  "id": 3962,
+  "chapter_id": 37,
+  "verse_key": "37:174",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "فَتَوَلَّ عَنْهُمْ حَتَّىٰ حِينٍ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3962.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3962.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3962.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3962.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3962.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3962.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3962.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3962.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3962.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3962.mp3"
+  },
+  "words": [
+    {
+      "id": 83296,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_174_001.mp3",
+      "text": "فَتَوَلَّ",
+      "translation": "maka berpalinglah kamu",
+      "transliteration": "fatawalla"
+    },
+    {
+      "id": 83297,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_174_002.mp3",
+      "text": "عَنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhum"
+    },
+    {
+      "id": 83298,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_174_003.mp3",
+      "text": "حَتَّىٰ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 83299,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_174_004.mp3",
+      "text": "حِينٍۢ",
+      "translation": "waktu tertentu",
+      "transliteration": "ḥīnin"
+    },
+    {
+      "id": 83300,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٧٤",
+      "translation": "(174)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka berpalinglah kamu (Muhammad) dari mereka sampai suatu ketika <sup foot_note=211063>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

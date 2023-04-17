@@ -1,0 +1,70 @@
+{
+  "id": 2353,
+  "chapter_id": 20,
+  "verse_key": "20:5",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "page_number": 312,
+  "juz_number": 16,
+  "text_uthmani": "ٱلرَّحْمَـٰنُ عَلَى ٱلْعَرْشِ ٱسْتَوَىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/2353.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/2353.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/2353.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/2353.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/2353.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/2353.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/2353.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/2353.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/2353.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/2353.mp3"
+  },
+  "words": [
+    {
+      "id": 4875,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_005_001.mp3",
+      "text": "ٱلرَّحْمَـٰنُ",
+      "translation": "Maha Pengasih",
+      "transliteration": "al-raḥmānu"
+    },
+    {
+      "id": 4876,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_005_002.mp3",
+      "text": "عَلَى",
+      "translation": "di atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 4877,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_005_003.mp3",
+      "text": "ٱلْعَرْشِ",
+      "translation": "'Arsy`",
+      "transliteration": "l-ʿarshi"
+    },
+    {
+      "id": 4878,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/020_005_004.mp3",
+      "text": "ٱسْتَوَىٰ",
+      "translation": "Dia menuju",
+      "transliteration": "is'tawā"
+    },
+    {
+      "id": 4879,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٥",
+      "translation": "(5)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yaitu) Tuhan Yang Maha Pemurah, Yang bersemayam di atas arasy <sup foot_note=210681>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 4791,
+  "chapter_id": 53,
+  "verse_key": "53:7",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "page_number": 526,
+  "juz_number": 27,
+  "text_uthmani": "وَهُوَ بِٱلْأُفُقِ ٱلْأَعْلَىٰ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/4791.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/4791.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/4791.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/4791.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/4791.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/4791.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/4791.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/4791.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/4791.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/4791.mp3"
+  },
+  "words": [
+    {
+      "id": 7482,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_007_001.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 7483,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_007_002.mp3",
+      "text": "بِٱلْأُفُقِ",
+      "translation": "di ufuk",
+      "transliteration": "bil-ufuqi"
+    },
+    {
+      "id": 7484,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/053_007_003.mp3",
+      "text": "ٱلْأَعْلَىٰ",
+      "translation": "yang tinggi",
+      "transliteration": "l-aʿlā"
+    },
+    {
+      "id": 7485,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "sedang dia berada di ufuk yang tinggi.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

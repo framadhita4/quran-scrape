@@ -1,0 +1,62 @@
+{
+  "id": 5368,
+  "chapter_id": 69,
+  "verse_key": "69:45",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "page_number": 568,
+  "juz_number": 29,
+  "text_uthmani": "لَأَخَذْنَا مِنْهُ بِٱلْيَمِينِ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/5368.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/5368.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/5368.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/5368.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/5368.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/5368.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/5368.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/5368.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/5368.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/5368.mp3"
+  },
+  "words": [
+    {
+      "id": 45227,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_045_001.mp3",
+      "text": "لَأَخَذْنَا",
+      "translation": "niscaya Kami ambil",
+      "transliteration": "la-akhadhnā"
+    },
+    {
+      "id": 45228,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_045_002.mp3",
+      "text": "مِنْهُ",
+      "translation": "darinya",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 45229,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/069_045_003.mp3",
+      "text": "بِٱلْيَمِينِ",
+      "translation": "dengan tangan kanan",
+      "transliteration": "bil-yamīni"
+    },
+    {
+      "id": 45230,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤٥",
+      "translation": "(45)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "niscaya benar-benar Kami pegang dia pada tangan kanannya<sup foot_note=211279>1</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": 1354,
+  "chapter_id": 9,
+  "verse_key": "9:119",
+  "hizb_number": 21,
+  "rub_el_hizb_number": 82,
+  "ruku_number": 170,
+  "manzil_number": 2,
+  "page_number": 206,
+  "juz_number": 11,
+  "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَكُونُوا۟ مَعَ ٱلصَّـٰدِقِينَ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/1354.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/1354.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/1354.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/1354.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/1354.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/1354.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/1354.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/1354.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/1354.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/1354.mp3"
+  },
+  "words": [
+    {
+      "id": 76277,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_119_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 76278,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_119_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 76279,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_119_003.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 76280,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_119_004.mp3",
+      "text": "ٱتَّقُوا۟",
+      "translation": "bertakwalah",
+      "transliteration": "ittaqū"
+    },
+    {
+      "id": 76281,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_119_005.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 76282,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_119_006.mp3",
+      "text": "وَكُونُوا۟",
+      "translation": "dan jadilah kamu",
+      "transliteration": "wakūnū"
+    },
+    {
+      "id": 76283,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_119_007.mp3",
+      "text": "مَعَ",
+      "translation": "bersama",
+      "transliteration": "maʿa"
+    },
+    {
+      "id": 76284,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_119_008.mp3",
+      "text": "ٱلصَّـٰدِقِينَ",
+      "translation": "orang-orang yang benar",
+      "transliteration": "l-ṣādiqīna"
+    },
+    {
+      "id": 76285,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١١٩",
+      "translation": "(119)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai orang-orang yang beriman bertakwalah kepada Allah dan hendaklah kamu bersama orang-orang yang benar.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 3107,
+  "chapter_id": 26,
+  "verse_key": "26:175",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 324,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "وَإِنَّ رَبَّكَ لَهُوَ ٱلْعَزِيزُ ٱلرَّحِيمُ",
+  "audio_url": {
+    "ahmedajamy": "https://cdn.islamic.network/quran/audio/128/ar.ahmedajamy/3107.mp3",
+    "alafasy": "https://cdn.islamic.network/quran/audio/128/ar.alafasy/3107.mp3",
+    "hudhaify": "https://cdn.islamic.network/quran/audio/128/ar.hudhaify/3107.mp3",
+    "husary": "https://cdn.islamic.network/quran/audio/128/ar.husary/3107.mp3",
+    "husarymujawwad": "https://cdn.islamic.network/quran/audio/128/ar.husarymujawwad/3107.mp3",
+    "mahermuaiqly": "https://cdn.islamic.network/quran/audio/128/ar.mahermuaiqly/3107.mp3",
+    "minshawi": "https://cdn.islamic.network/quran/audio/128/ar.minshawi/3107.mp3",
+    "muhammadayyoub": "https://cdn.islamic.network/quran/audio/128/ar.muhammadayyoub/3107.mp3",
+    "muhammadjibreel": "https://cdn.islamic.network/quran/audio/128/ar.muhammadjibreel/3107.mp3",
+    "shaatree": "https://cdn.islamic.network/quran/audio/128/ar.shaatree/3107.mp3"
+  },
+  "words": [
+    {
+      "id": 83305,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_175_001.mp3",
+      "text": "وَإِنَّ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-inna"
+    },
+    {
+      "id": 83306,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_175_002.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 83307,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_175_003.mp3",
+      "text": "لَهُوَ",
+      "translation": "benar-benar Dia",
+      "transliteration": "lahuwa"
+    },
+    {
+      "id": 83308,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_175_004.mp3",
+      "text": "ٱلْعَزِيزُ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzu"
+    },
+    {
+      "id": 83309,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_175_005.mp3",
+      "text": "ٱلرَّحِيمُ",
+      "translation": "Maha Penyayang",
+      "transliteration": "l-raḥīmu"
+    },
+    {
+      "id": 83310,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٧٥",
+      "translation": "(175)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan sesungguhnya Tuhan-mu, benar-benar Dia-lah Yang Maha Perkasa lagi Maha Penyayang.",
+    "resource_name": "King Fahad Quran Complex"
+  }
+}
